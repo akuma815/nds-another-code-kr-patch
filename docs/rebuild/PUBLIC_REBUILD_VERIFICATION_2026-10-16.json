@@ -1,0 +1,15 @@
+{
+  "status": "PASS",
+  "inputMode": "git-and-original-rom",
+  "inputArchiveSHA256": null,
+  "inputsVerified": 73,
+  "sourceSHA256": "6c8cb19de7b86dc5f1147e4927d6916571968a06b5c2e9b88f62c22c271dd0a1",
+  "textSHA256": "6584b95f445082d6df6caafbb1852cd0e5d4226b272e8512d28401284d4eed73",
+  "finalSHA256": "28b914e99a54b74576f0684a49898c89989ee92d2566d6683e6c1246b9711e9d",
+  "finalBytes": 33554432,
+  "runtimeVerification": "not performed",
+  "date": "2026-10-16",
+  "unittestTests": 72,
+  "unittestStatus": "PASS",
+  "publicationReview": "72 non-ROM inputs scanned; 6 JSON, 65 edited PNG, 1 OFL font sheet; no supported credential patterns found"
+}

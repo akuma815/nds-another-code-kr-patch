@@ -37,3 +37,5 @@
 ## 소스 및 작업 기록
 
 [공개 소스 구성과 빌드 전제](docs/SOURCE_GUIDE.md) · [상세 패치 안내](docs/PATCH_GUIDE.txt) · [최종판 복원·재빌드](docs/rebuild/README.md)
+
+최종 빌드에 필요한 분석 JSON·수정 그래픽·폰트가 포함되어 있습니다. 별도로 준비한 지원 일본판 원본 ROM과 Python으로 최종판을 재빌드할 수 있으며, 개인 복원 ZIP은 필수가 아닙니다.
