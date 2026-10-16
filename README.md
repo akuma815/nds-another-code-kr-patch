@@ -6,10 +6,10 @@
 
 <!-- game-preview:start -->
 <p align="center">
-  <img src="img/preview.png" alt="어나더 코드: 두 개의 기억 — 오프닝 한글 그래픽 비교" width="640">
+  <img src="img/preview-user-20261016.png" alt="한글 타이틀" width="640">
 </p>
 
-**오프닝 한글 그래픽 비교** — 공개 작업기 내 오프닝 그래픽 비교. 실제 게임 캡처가 아닌 비교 자료입니다.
+**한글 타이틀** — 사용자 제공 어나더 코드 타이틀 화면. 이번 실행 ROM은 최종 배포 패치 결과 해시와 일치합니다.
 <!-- game-preview:end -->
 
 ## 다운로드 및 적용 방법
