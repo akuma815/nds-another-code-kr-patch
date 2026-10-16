@@ -1,0 +1,14 @@
+{
+  "src": "assets/screenshots/nds-another-code-kr-patch.png",
+  "caption": "오프닝 한글 그래픽 비교",
+  "kind": "graphics",
+  "width": 1280,
+  "height": 490,
+  "source": "web/akuma815.github.io/qa/another_embedded_4.png",
+  "sourceSHA256": "293cebf9b5dc26cd187c49a7e53273aa034aa4fc965e84d8dc5d64110f70385b",
+  "assetSHA256": "293cebf9b5dc26cd187c49a7e53273aa034aa4fc965e84d8dc5d64110f70385b",
+  "pixelSHA256": "0391bc18025ea61834c6ba3de2275b54f064a97d6874723cef724d04eb834f3b",
+  "sourceNote": "공개 작업기 내 오프닝 그래픽 비교. 실제 게임 캡처가 아닌 비교 자료입니다.",
+  "readmeAsset": "img/preview.png",
+  "displayNote": "공개 작업기 내 오프닝 그래픽 비교. 실제 게임 캡처가 아닌 비교 자료입니다."
+}
