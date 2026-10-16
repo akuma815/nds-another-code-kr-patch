@@ -1,0 +1,181 @@
+{
+  "schema_version": 1,
+  "font_config": "graphics_font_sources_v19_pfstardust.json",
+  "canvases": {
+    "chapter1_number": {
+      "change_boxes": [[70, 68, 117, 49]],
+      "fill_boxes": [{"box": [70, 68, 117, 49], "background_index": 145}],
+      "labels": [{"text": "제1장", "size": 24, "center": [126.0, 93.5], "ink_index": 255, "outline_index": 240, "outline_radius": 1, "bounds_box": [70, 68, 117, 49]}]
+    },
+    "chapter1_title": {
+      "change_boxes": [[20, 68, 220, 49]],
+      "fill_boxes": [{"box": [20, 68, 220, 49], "background_index": 145}],
+      "labels": [{"text": "디와의 만남", "size": 24, "center": [127.5, 94.0], "ink_index": 255, "outline_index": 240, "outline_radius": 1, "bounds_box": [20, 68, 220, 49]}]
+    },
+    "chapter2_number": {
+      "change_boxes": [[70, 68, 117, 49]],
+      "fill_boxes": [{"box": [70, 68, 117, 49], "background_index": 145}],
+      "labels": [{"text": "제2장", "size": 24, "center": [126.0, 93.5], "ink_index": 255, "outline_index": 240, "outline_radius": 1, "bounds_box": [70, 68, 117, 49]}]
+    },
+    "chapter2_title": {
+      "change_boxes": [[20, 68, 220, 49]],
+      "fill_boxes": [{"box": [20, 68, 220, 49], "background_index": 145}],
+      "labels": [{"text": "로렌스의 저택", "size": 24, "center": [127.5, 94.0], "ink_index": 255, "outline_index": 240, "outline_radius": 1, "bounds_box": [20, 68, 220, 49]}]
+    },
+    "chapter3_number": {
+      "change_boxes": [[70, 68, 117, 49]],
+      "fill_boxes": [{"box": [70, 68, 117, 49], "background_index": 145}],
+      "labels": [{"text": "제3장", "size": 24, "center": [126.0, 93.5], "ink_index": 255, "outline_index": 240, "outline_radius": 1, "bounds_box": [70, 68, 117, 49]}]
+    },
+    "chapter3_title": {
+      "change_boxes": [[20, 68, 220, 49]],
+      "fill_boxes": [{"box": [20, 68, 220, 49], "background_index": 145}],
+      "labels": [{"text": "프래니의 추억", "size": 24, "center": [127.5, 94.0], "ink_index": 255, "outline_index": 240, "outline_radius": 1, "bounds_box": [20, 68, 220, 49]}]
+    },
+    "chapter4_number": {
+      "change_boxes": [[70, 68, 117, 49]],
+      "fill_boxes": [{"box": [70, 68, 117, 49], "background_index": 145}],
+      "labels": [{"text": "제4장", "size": 24, "center": [126.0, 93.5], "ink_index": 255, "outline_index": 240, "outline_radius": 1, "bounds_box": [70, 68, 117, 49]}]
+    },
+    "chapter4_title": {
+      "change_boxes": [[20, 68, 220, 49]],
+      "fill_boxes": [{"box": [20, 68, 220, 49], "background_index": 145}],
+      "labels": [{"text": "아빠와의 재회", "size": 24, "center": [127.5, 94.0], "ink_index": 255, "outline_index": 240, "outline_radius": 1, "bounds_box": [20, 68, 220, 49]}]
+    },
+    "chapter5_number": {
+      "change_boxes": [[70, 68, 117, 49]],
+      "fill_boxes": [{"box": [70, 68, 117, 49], "background_index": 145}],
+      "labels": [{"text": "제5장", "size": 24, "center": [126.0, 93.5], "ink_index": 255, "outline_index": 240, "outline_radius": 1, "bounds_box": [70, 68, 117, 49]}]
+    },
+    "chapter5_title": {
+      "change_boxes": [[20, 68, 220, 49]],
+      "fill_boxes": [{"box": [20, 68, 220, 49], "background_index": 145}],
+      "labels": [{"text": "세컨드 어나더", "size": 24, "center": [127.5, 94.0], "ink_index": 255, "outline_index": 240, "outline_radius": 1, "bounds_box": [20, 68, 220, 49]}]
+    },
+    "chapter6_number": {
+      "change_boxes": [[70, 68, 117, 49]],
+      "fill_boxes": [{"box": [70, 68, 117, 49], "background_index": 145}],
+      "labels": [{"text": "제6장", "size": 24, "center": [126.0, 93.5], "ink_index": 255, "outline_index": 240, "outline_radius": 1, "bounds_box": [70, 68, 117, 49]}]
+    },
+    "chapter6_title": {
+      "change_boxes": [[20, 68, 220, 49]],
+      "fill_boxes": [{"box": [20, 68, 220, 49], "background_index": 145}],
+      "labels": [{"text": "오른손의 기억", "size": 24, "center": [127.5, 94.0], "ink_index": 255, "outline_index": 240, "outline_radius": 1, "bounds_box": [20, 68, 220, 49]}]
+    },
+    "chapter_final_number": {
+      "change_boxes": [[70, 68, 117, 49]],
+      "fill_boxes": [{"box": [70, 68, 117, 49], "background_index": 145}],
+      "labels": [{"text": "종장", "size": 24, "center": [126.0, 93.5], "ink_index": 255, "outline_index": 240, "outline_radius": 1, "bounds_box": [70, 68, 117, 49]}]
+    },
+    "chapter_final_title": {
+      "change_boxes": [[20, 68, 220, 49]],
+      "fill_boxes": [{"box": [20, 68, 220, 49], "background_index": 145}],
+      "labels": [{"text": "푸른 달의 기적", "size": 24, "center": [127.5, 94.0], "ink_index": 255, "outline_index": 240, "outline_radius": 1, "bounds_box": [20, 68, 220, 49]}]
+    },
+    "location_entrance_hall": {
+      "change_boxes": [[15, 15, 226, 40]],
+      "remove_components": [{"search_box": [65, 23, 130, 28], "background_index": 178, "max_pixels": 512}],
+      "labels": [{"text": "현관 홀", "size": 20, "center": [128.0, 35.0], "ink_index": 255, "outline_index": 240, "outline_radius": 1, "bounds_box": [15, 15, 226, 40]}]
+    },
+    "location_corridor_p12": {
+      "change_boxes": [[15, 15, 226, 40]],
+      "remove_components": [{"search_box": [95, 18, 66, 30], "background_index": 211, "max_pixels": 512}],
+      "labels": [{"text": "복도", "size": 20, "center": [128.0, 34.0], "ink_index": 255, "outline_index": 240, "outline_radius": 1, "bounds_box": [15, 15, 226, 40]}]
+    },
+    "location_butler_room": {
+      "change_boxes": [[15, 15, 226, 40]],
+      "remove_components": [{"search_box": [88, 18, 80, 28], "background_index": 175, "max_pixels": 512}],
+      "labels": [{"text": "집사실", "size": 20, "center": [128.0, 34.0], "ink_index": 255, "outline_index": 240, "outline_radius": 1, "bounds_box": [15, 15, 226, 40]}]
+    },
+    "location_silver_bird_room": {
+      "change_boxes": [[15, 15, 226, 40]],
+      "remove_components": [{"search_box": [65, 23, 126, 28], "background_index": 162, "max_pixels": 512}],
+      "labels": [{"text": "은빛 새의 방", "size": 20, "center": [128.0, 36.0], "ink_index": 255, "outline_index": 240, "outline_radius": 1, "bounds_box": [15, 15, 226, 40]}]
+    },
+    "location_gold_bird_room": {
+      "change_boxes": [[15, 15, 226, 40]],
+      "remove_components": [{"search_box": [65, 23, 126, 28], "background_index": 167, "max_pixels": 512}],
+      "labels": [{"text": "금빛 새의 방", "size": 20, "center": [128.0, 36.0], "ink_index": 255, "outline_index": 240, "outline_radius": 1, "bounds_box": [15, 15, 226, 40]}]
+    },
+    "location_music_room": {
+      "change_boxes": [[15, 15, 226, 40]],
+      "remove_components": [{"search_box": [88, 22, 80, 28], "background_index": 200, "max_pixels": 512}],
+      "labels": [{"text": "음악실", "size": 20, "center": [128.0, 36.0], "ink_index": 255, "outline_index": 240, "outline_radius": 1, "bounds_box": [15, 15, 226, 40]}]
+    },
+    "location_corridor_p19": {
+      "change_boxes": [[15, 15, 226, 40]],
+      "remove_components": [{"search_box": [95, 18, 66, 30], "background_index": 211, "max_pixels": 512}],
+      "labels": [{"text": "복도", "size": 20, "center": [128.0, 34.0], "ink_index": 255, "outline_index": 240, "outline_radius": 1, "bounds_box": [15, 15, 226, 40]}]
+    },
+    "location_franny_room": {
+      "change_boxes": [[15, 15, 226, 40]],
+      "remove_components": [{"search_box": [40, 20, 170, 26], "background_index": 188, "max_pixels": 512}],
+      "labels": [{"text": "프래니의 방", "size": 20, "center": [128.0, 34.0], "ink_index": 255, "outline_index": 240, "outline_radius": 1, "bounds_box": [15, 15, 226, 40]}]
+    },
+    "location_henry_couple_room": {
+      "change_boxes": [[15, 15, 226, 40]],
+      "remove_components": [{"search_box": [18, 20, 220, 25], "background_index": 188, "max_pixels": 512}],
+      "labels": [{"text": "헨리 부부의 방", "size": 20, "center": [128.0, 34.0], "ink_index": 255, "outline_index": 240, "outline_radius": 1, "bounds_box": [15, 15, 226, 40]}]
+    },
+    "location_henry_study": {
+      "change_boxes": [[15, 15, 226, 40]],
+      "remove_components": [{"search_box": [43, 18, 172, 28], "background_index": 218, "max_pixels": 512}],
+      "labels": [{"text": "헨리의 서재", "size": 20, "center": [128.0, 34.0], "ink_index": 255, "outline_index": 240, "outline_radius": 1, "bounds_box": [15, 15, 226, 40]}]
+    },
+    "location_henry_secret_room": {
+      "change_boxes": [[15, 15, 226, 40]],
+      "remove_components": [{"search_box": [16, 19, 220, 26], "background_index": 181, "max_pixels": 512}],
+      "labels": [{"text": "헨리의 비밀 방", "size": 20, "center": [128.0, 34.0], "ink_index": 255, "outline_index": 240, "outline_radius": 1, "bounds_box": [15, 15, 226, 40]}]
+    },
+    "location_gallery": {
+      "change_boxes": [[15, 15, 226, 40]],
+      "remove_components": [{"search_box": [92, 24, 78, 27], "background_index": 200, "max_pixels": 512}],
+      "labels": [{"text": "화실", "size": 20, "center": [128.0, 36.0], "ink_index": 255, "outline_index": 240, "outline_radius": 1, "bounds_box": [15, 15, 226, 40]}]
+    },
+    "location_dining_room": {
+      "change_boxes": [[15, 15, 226, 40]],
+      "remove_components": [{"search_box": [92, 24, 76, 27], "background_index": 224, "max_pixels": 512}],
+      "labels": [{"text": "식당", "size": 20, "center": [128.0, 36.0], "ink_index": 255, "outline_index": 240, "outline_radius": 1, "bounds_box": [15, 15, 226, 40]}]
+    },
+    "location_lounge": {
+      "change_boxes": [[15, 15, 226, 40]],
+      "remove_components": [{"search_box": [92, 24, 76, 27], "background_index": 221, "max_pixels": 512}],
+      "labels": [{"text": "담화실", "size": 20, "center": [128.0, 36.0], "ink_index": 255, "outline_index": 240, "outline_radius": 1, "bounds_box": [15, 15, 226, 40]}]
+    },
+    "location_corridor_p28": {
+      "change_boxes": [[15, 15, 226, 40]],
+      "remove_components": [{"search_box": [95, 18, 66, 30], "background_index": 211, "max_pixels": 512}],
+      "labels": [{"text": "복도", "size": 20, "center": [128.0, 34.0], "ink_index": 255, "outline_index": 240, "outline_radius": 1, "bounds_box": [15, 15, 226, 40]}]
+    },
+    "location_kitchen": {
+      "change_boxes": [[15, 15, 226, 40]],
+      "remove_components": [{"search_box": [90, 18, 76, 27], "background_index": 156, "max_pixels": 512}],
+      "labels": [{"text": "주방", "size": 20, "center": [128.0, 33.0], "ink_index": 255, "outline_index": 240, "outline_radius": 1, "bounds_box": [15, 15, 226, 40]}]
+    },
+    "location_storage": {
+      "change_boxes": [[15, 15, 226, 40]],
+      "remove_components": [{"search_box": [90, 20, 76, 27], "background_index": 190, "max_pixels": 512}],
+      "labels": [{"text": "창고", "size": 20, "center": [128.0, 34.0], "ink_index": 255, "outline_index": 240, "outline_radius": 1, "bounds_box": [15, 15, 226, 40]}]
+    },
+    "location_corridor_p31": {
+      "change_boxes": [[15, 15, 226, 40]],
+      "remove_components": [{"search_box": [95, 18, 66, 30], "background_index": 211, "max_pixels": 512}],
+      "labels": [{"text": "복도", "size": 20, "center": [128.0, 34.0], "ink_index": 255, "outline_index": 240, "outline_radius": 1, "bounds_box": [15, 15, 226, 40]}]
+    },
+    "location_lawrence_room": {
+      "change_boxes": [[15, 15, 226, 40]],
+      "remove_components": [{"search_box": [32, 20, 192, 26], "background_index": 188, "max_pixels": 512}],
+      "labels": [{"text": "로렌스의 방", "size": 20, "center": [128.0, 34.0], "ink_index": 255, "outline_index": 240, "outline_radius": 1, "bounds_box": [15, 15, 226, 40]}]
+    },
+    "location_laboratory": {
+      "change_boxes": [[15, 15, 226, 40]],
+      "remove_components": [{"search_box": [88, 18, 78, 28], "background_index": 222, "max_pixels": 512}],
+      "labels": [{"text": "연구실", "size": 20, "center": [128.0, 34.0], "ink_index": 255, "outline_index": 240, "outline_radius": 1, "bounds_box": [15, 15, 226, 40]}]
+    },
+    "location_cave": {
+      "change_boxes": [[15, 15, 226, 40]],
+      "remove_components": [{"search_box": [92, 18, 70, 28], "background_index": 144, "max_pixels": 512}],
+      "labels": [{"text": "동굴", "size": 20, "center": [128.0, 34.0], "ink_index": 255, "outline_index": 240, "outline_radius": 1, "bounds_box": [15, 15, 226, 40]}]
+    }
+  }
+}

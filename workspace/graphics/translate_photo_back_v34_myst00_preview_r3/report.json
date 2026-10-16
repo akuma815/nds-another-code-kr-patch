@@ -1,0 +1,68 @@
+{
+  "schema_version": 1,
+  "status": "png_preview_only_pending_user_approval",
+  "resource_id": "sys_bg/myst00_bg",
+  "runtime_evidence": {
+    "process_id": 23992,
+    "oam_entry": 99,
+    "screen_bounds": [
+      224,
+      161,
+      32,
+      32
+    ],
+    "vram_bank": "F",
+    "vram_bank_offset": "0x3200",
+    "decoded_exact_match_offset": "0x30"
+  },
+  "source_resource": "workspace\\graphics\\pack_v2\\decoded\\sys_bg\\myst00_bg.bin",
+  "source_sha256": "985E7D0C61C942310EC7D27D2BABC12788C708DBB6CB58D52F01F25951F18953",
+  "translation": {
+    "source": "もどる",
+    "korean": "뒤로",
+    "raster_text": "뒤로"
+  },
+  "font": {
+    "path": "..\\..\\Font\\Galmuri7_8x8.png",
+    "sha256": "A2BE473E22A62942164C95DB60F3F5AA88A99F76B525994D194E9F5F9DF387EA"
+  },
+  "edit": {
+    "text_box": [
+      4,
+      11,
+      28,
+      19
+    ],
+    "replacement_ink_index": 15,
+    "row_background_indices": [
+      5,
+      5,
+      4,
+      6,
+      6,
+      10,
+      10,
+      10
+    ],
+    "restored_text_area_pixel_count": 107,
+    "changed_pixel_count": 128,
+    "changed_outside_text_box": 0,
+    "hidden_rows_preserved": true
+  },
+  "live_palette_evidence": {
+    "path": "workspace\\qa\\runtime\\v32_untranslated_back\\guest_memory_23992\\palette_05000000_2k.bin",
+    "offset": "0x300",
+    "sha256": "B35F80C10F67A85421C2F339521F1915B0663DED98CD9C8A20BEB3EF3880FAD0",
+    "preview_only": true
+  },
+  "outputs": {
+    "indexed_candidate": "indexed\\myst00_bg_back_ko.png",
+    "indexed_candidate_sha256": "9C93FF89BC1D38691071040FC41EF7D186CE9BADF0786D9729A8B67547DCDA6B",
+    "comparison": "preview_x8\\myst00_bg_back_comparison.png",
+    "comparison_sha256": "2B2AF8CAC075195CAF64BA0615CF5F49CCBC2E0A3021B9F9E8B3C076E8ABDFE1"
+  },
+  "safety": {
+    "decoded_binary_written": false,
+    "rom_built": false
+  }
+}

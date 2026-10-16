@@ -1,0 +1,65 @@
+﻿canvas_id,resource_id,shift_mode,shift_x,crop_x,crop_y,crop_w,crop_h,translation_target,evidence,status,notes
+title_logo,sys_bg/title01,tiled8_sequence,-64,0,0,256,192,어나더 코드 두 개의 기억,8-tile sequence alignment,editing_normalization_confirmed_visual,전체 타일 스트림을 왼쪽 8타일 순환 이동
+title_touch,sys_bg/title02,tiled8_sequence,-64,0,0,256,192,화면을 터치해 주세요,8-tile sequence alignment,editing_normalization_confirmed_visual,행 단위 이동에서 내려갔던 마지막 글자와 저작권 문구가 수평으로 정렬됨
+title_menu,sys_bg/title03,tiled8_sequence,-64,0,0,256,192,처음부터 / 이어하기,8-tile sequence alignment,editing_normalization_confirmed_visual,메뉴와 저작권 문구를 화면 좌표로 결합
+system_talk,sys_bg/sys_icon,raster_rows,0,0,80,32,16,대화,user screenshot and atlas match,editing_crop_confirmed,전체 스프라이트 시트 중 話す 셀만 분리
+chapter1_number,p01_bg/P01_C0,tiled8_sequence,-64,0,0,256,192,제1장,8-tile sequence alignment,editing_normalization_confirmed_visual,장 번호를 화면 중앙으로 복원
+chapter1_title,p01_bg/P01_C1,tiled8_sequence,-64,0,0,256,192,디와의 만남,8-tile sequence alignment,editing_normalization_confirmed_visual,타일 경계가 글자를 가르지 않도록 전체 스트림 이동
+opening_1948,v05_bg/V5_000,tiled8_sequence,-64,0,0,256,192,1948년 / 블러드 에드워드섬,user screenshot and 8-tile alignment,editing_normalization_confirmed_visual,연도와 장소 카드의 타일 스트림 시작점 복원
+opening_1994,v05_bg/V5_007,tiled8_sequence,-64,0,0,256,192,1994년 / 시애틀 교외,8-tile sequence alignment,editing_normalization_confirmed_visual,동형 연도와 장소 카드
+opening_2005,v05_bg/V5_015,tiled8_sequence,-64,0,0,256,192,2005년 / 블러드 에드워드섬,8-tile sequence alignment,editing_normalization_confirmed_visual,동형 연도와 장소 카드
+opening_father,v05_bg/V5_023,tiled8_sequence,-64,0,0,256,192,여보…,user screenshot and 8-tile alignment,editing_normalization_confirmed_visual,타일 경계가 글자를 가르지 않도록 전체 스트림 이동
+opening_why,v05_bg/V5_024,tiled8_sequence,-64,0,0,256,192,왜…!?,user screenshot and 8-tile alignment,editing_normalization_confirmed_visual,왼쪽과 오른쪽으로 갈린 본문을 같은 행으로 결합
+opening_ah,v05_bg/V5_025,raster_rows,0,0,0,256,192,앗!!,user screenshot and index preview,editing_normalization_confirmed_visual,이미 한 화면 중앙에 있어 이동 없음
+opening_hide,v05_bg/V5_026,tiled8_sequence,-64,0,0,256,192,애슐리 빨리 숨어,user runtime screenshot and archive alignment,editing_normalization_runtime_observed,런타임에서 보인 두 줄 문구의 타일 스트림 시작점 복원
+opening_mama,v05_bg/V5_027,tiled8_sequence,-64,0,0,256,192,엄마…,user runtime screenshot and archive alignment,editing_normalization_runtime_observed,오프닝 누락 문구
+opening_completed,v05_bg/V5_028,tiled8_sequence,-64,0,0,256,192,완성했다…,user runtime screenshot and archive alignment,editing_normalization_runtime_observed,오프닝 누락 문구
+opening_finally,v05_bg/V5_029,tiled8_sequence,-64,0,0,256,192,드디어…,user runtime screenshot and archive alignment,editing_normalization_runtime_observed,오프닝 누락 문구
+opening_richard,v05_bg/V5_030,tiled8_sequence,-64,0,0,256,192,리처드…,user runtime screenshot and archive alignment,editing_normalization_runtime_observed,오프닝 누락 문구
+opening_title_logo_a,v05_bg/title01,tiled8_sequence,-64,0,0,256,192,어나더 코드 두 개의 기억,pixel-identical duplicate of sys_bg/title01,editing_normalization_static_duplicate,오프닝 archive의 타이틀 로고 중복 자원
+opening_title_logo_b,v05_bg/V5_031,tiled8_sequence,-64,0,0,256,192,어나더 코드 두 개의 기억,pixel-identical duplicate of sys_bg/title01 and runtime screenshot,editing_normalization_runtime_observed,오프닝 종료 프레임의 타이틀 로고
+system_back,sys_bg/sys_icon,raster_rows,0,72,0,32,32,뒤로,user runtime screenshot proves lower half survives old crop,editing_crop_runtime_corrected,32x16 절단을 32x32 전체 버튼 캔버스로 확장
+system_examine_normal,sys_bg/sys_icon,raster_rows,0,104,0,32,32,조사,user runtime screenshot proves lower half survives old crop,editing_crop_runtime_corrected,32x16 절단을 32x32 전체 버튼 캔버스로 확장
+system_examine_disabled,sys_bg/sys_icon,raster_rows,0,32,80,32,16,조사,user runtime screenshot and atlas crop,editing_crop_runtime_observed,비활성 회색 조사 아이콘
+system_yes,sys_bg/sys_icon,raster_rows,0,128,32,32,32,예,user runtime screenshot and sys_icon atlas match,editing_crop_runtime_observed,はい 선택 버튼의 글자만 교체하고 버튼과 선택 마커는 보존
+system_no,sys_bg/sys_icon,raster_rows,0,160,32,32,32,아니요,user runtime screenshot and sys_icon atlas match,editing_crop_runtime_observed,いいえ 버튼의 글자만 교체하고 버튼 외곽은 보존
+chapter2_number,p09_bg/P09_C0,tiled8_sequence,-64,0,0,256,192,제2장,chapter resource pair and user runtime screenshot,editing_normalization_runtime_observed,2장 번호
+chapter2_title,p09_bg/P09_C1,tiled8_sequence,-64,0,0,256,192,로렌스의 저택,chapter resource pair and user runtime screenshot,editing_normalization_runtime_observed,2장 부제
+chapter3_number,p19_bg/P19_C0,tiled8_sequence,-64,0,0,256,192,제3장,chapter resource pair and archive pattern,editing_normalization_static_confirmed,3장 번호
+chapter3_title,p19_bg/P19_C1,tiled8_sequence,-64,0,0,256,192,프래니의 추억,chapter resource pair and archive pattern,editing_normalization_static_confirmed,3장 부제
+chapter4_number,p26_bg/P26_C0,tiled8_sequence,-64,0,0,256,192,제4장,chapter resource pair and archive pattern,editing_normalization_static_confirmed,4장 번호
+chapter4_title,p26_bg/P26_C1,tiled8_sequence,-64,0,0,256,192,아빠와의 재회,chapter resource pair and archive pattern,editing_normalization_static_confirmed,4장 부제
+chapter5_number,p31_bg/P31_C0,tiled8_sequence,-64,0,0,256,192,제5장,chapter resource pair and archive pattern,editing_normalization_static_confirmed,5장 번호
+chapter5_title,p31_bg/P31_C1,tiled8_sequence,-64,0,0,256,192,세컨드 어나더,chapter resource pair and archive pattern,editing_normalization_static_confirmed,5장 부제
+chapter6_number,p37_bg/P37_C0,tiled8_sequence,-64,0,0,256,192,제6장,chapter resource pair and archive pattern,editing_normalization_static_confirmed,6장 번호
+chapter6_title,p37_bg/P37_C1,tiled8_sequence,-64,0,0,256,192,오른손의 기억,chapter resource pair and archive pattern,editing_normalization_static_confirmed,6장 부제
+chapter_final_number,p39_bg/P39_C0,tiled8_sequence,-64,0,0,256,192,종장,chapter resource pair and archive pattern,editing_normalization_static_confirmed,최종장 번호
+chapter_final_title,p39_bg/P39_C1,tiled8_sequence,-64,0,0,256,192,푸른 달의 기적,chapter resource pair and archive pattern,editing_normalization_static_confirmed,최종장 부제
+location_entrance_hall,p10_bg/P10ST,tiled8_sequence,-64,0,0,256,64,현관 홀,ST resource pattern and user runtime screenshot,editing_normalization_runtime_observed,장소 카드
+location_corridor_p12,p12_bg/P12ST,tiled8_sequence,-64,0,0,256,64,복도,ST resource pattern,editing_normalization_static_confirmed,장소 카드
+location_butler_room,p13_bg/P13ST,tiled8_sequence,-64,0,0,256,64,집사실,ST resource pattern,editing_normalization_static_confirmed,장소 카드
+location_silver_bird_room,p14_bg/P14ST,tiled8_sequence,-64,0,0,256,64,은빛 새의 방,ST resource pattern,editing_normalization_static_confirmed,장소 카드
+location_gold_bird_room,p15_bg/P15ST,tiled8_sequence,-64,0,0,256,64,금빛 새의 방,ST resource pattern,editing_normalization_static_confirmed,장소 카드
+location_music_room,p16_bg/P16ST,tiled8_sequence,-64,0,0,256,64,음악실,ST resource pattern,editing_normalization_static_confirmed,장소 카드
+location_corridor_p19,p19_bg/P19ST,tiled8_sequence,-64,0,0,256,64,복도,ST resource pattern,editing_normalization_static_confirmed,장소 카드
+location_franny_room,p20_bg/P20ST,tiled8_sequence,-64,0,0,256,64,프래니의 방,ST resource pattern,editing_normalization_static_confirmed,장소 카드
+location_henry_couple_room,p21_bg/P21ST,tiled8_sequence,-64,0,0,256,64,헨리 부부의 방,ST resource pattern,editing_normalization_static_confirmed,장소 카드
+location_henry_study,p22_bg/P22ST,tiled8_sequence,-64,0,0,256,64,헨리의 서재,ST resource pattern,editing_normalization_static_confirmed,장소 카드
+location_henry_secret_room,p23_bg/P23ST,tiled8_sequence,-64,0,0,256,64,헨리의 비밀 방,ST resource pattern,editing_normalization_static_confirmed,장소 카드
+location_gallery,p25_bg/P25ST,tiled8_sequence,-64,0,0,256,64,화실,ST resource pattern,editing_normalization_static_confirmed,장소 카드
+location_dining_room,p26_bg/P26ST,tiled8_sequence,-64,0,0,256,64,식당,ST resource pattern,editing_normalization_static_confirmed,장소 카드
+location_lounge,p27_bg/P27ST,tiled8_sequence,-64,0,0,256,64,담화실,ST resource pattern,editing_normalization_static_confirmed,장소 카드
+location_corridor_p28,p28_bg/P28ST,tiled8_sequence,-64,0,0,256,64,복도,ST resource pattern,editing_normalization_static_confirmed,장소 카드
+location_kitchen,p29_bg/P29ST,tiled8_sequence,-64,0,0,256,64,주방,ST resource pattern,editing_normalization_static_confirmed,장소 카드
+location_storage,p30_bg/P30ST,tiled8_sequence,-64,0,0,256,64,창고,ST resource pattern,editing_normalization_static_confirmed,장소 카드
+location_corridor_p31,p31_bg/P31ST,tiled8_sequence,-64,0,0,256,64,복도,ST resource pattern,editing_normalization_static_confirmed,장소 카드
+location_lawrence_room,p32_bg/P32ST,tiled8_sequence,-64,0,0,256,64,로렌스의 방,ST resource pattern,editing_normalization_static_confirmed,장소 카드
+location_laboratory,p36_bg/P36ST,tiled8_sequence,-64,0,0,256,64,연구실,ST resource pattern,editing_normalization_static_confirmed,장소 카드
+location_cave,p38_bg/P38ST,tiled8_sequence,-64,0,0,256,64,동굴,ST resource pattern,editing_normalization_static_confirmed,장소 카드
+pda_back_bg,pda/bg01,raster_rows,0,32,136,32,32,뒤로,user runtime screenshot and exact baked background button match,editing_crop_runtime_corrected,팔레트 순서를 보존해 일본어 잔재와 회색 잔재를 제거한 최종 r8 이미지
+pda_inventory_actions,pda/pda01,raster_rows,0,0,0,64,64,소지품 / 지우기 / 듣기,user runtime screenshots and indexed preview,editing_crop_runtime_corrected,세 항목을 중앙 정렬하고 일본어 및 영문 잔재를 제거한 최종 r8 이미지
+pda_mark,pda/mark,tiled8_sequence,-24,0,0,64,64,뒤로,user runtime screenshot and corrected palette-order extraction,editing_normalization_runtime_corrected,팔레트 순서 오류로 검게 변한 상단 명령을 최종 r8 이미지로 교체
+system_inventory,sys_bg/sys_icon,raster_rows,0,200,0,32,32,소지품,user runtime screenshot and corrected full-atlas match,editing_crop_runtime_corrected,좌우 일본어 잔재와 왼쪽 회색 픽셀을 제거하고 중앙 정렬한 최종 r8 이미지
+pda_photo_up,pda/cur_u,raster_rows,0,0,0,32,32,위로 이동,user-approved r4 runtime-linear preview,editing_crop_runtime_linear_corrected,"일본어 잔재 제거, 중앙 정렬, 테두리를 기준 빨간색으로 통일한 r4"
+myst00_bg_back_ko,sys_bg/myst00_bg,raster_rows,0,0,0,32,40,뒤로,user runtime screenshot and exact live Engine-A OBJ/OAM 99 texture match,editing_crop_runtime_corrected,사진 및 로드 계열에서 사용하는 실제 sys_bg/myst00_bg를 팔레트 순서 보존 이미지로 교체
+myst00_tex_back_ko,sys_bg/myst00_tex,raster_rows,0,0,0,32,32,뒤로,user-approved r4 live GPU3D vertical-flip correction,editing_crop_runtime_linear_flip_y_corrected,"상하 반전 저장, 일본어 회색 잔재 제거, 20x10 확대 중앙 정렬"

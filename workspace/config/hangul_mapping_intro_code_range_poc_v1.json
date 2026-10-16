@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "mapping_id": "intro-code-range-poc-v1-mapping",
+  "status": "development_code_range_poc_mapping_not_production_approved",
+  "source_sha256": "6C8CB19DE7B86DC5F1147E4927D6916571968A06B5C2E9B88F62C22C271DD0A1",
+  "batch_id": "intro-code-range-poc-v1",
+  "font_sha256": "3EE2A45C20120C42705AE3EE9540DB191A1443E110ECA6D0C4A1760CBE0B91E5",
+  "audit_report": "workspace\\analysis\\full_hangul_code_pool_v1.json",
+  "character_count": 11,
+  "mappings": [
+    {"character": "가", "code": "81FB", "glyph_index": 186},
+    {"character": "나", "code": "82FC", "glyph_index": 375},
+    {"character": "다", "code": "83FC", "glyph_index": 563},
+    {"character": "라", "code": "84FC", "glyph_index": 751},
+    {"character": "마", "code": "85FC", "glyph_index": 939},
+    {"character": "바", "code": "86FC", "glyph_index": 1127},
+    {"character": "사", "code": "87FC", "glyph_index": 1315},
+    {"character": "아", "code": "889E", "glyph_index": 1409},
+    {"character": "자", "code": "96FB", "glyph_index": 4134},
+    {"character": "드", "code": "97FC", "glyph_index": 4323},
+    {"character": "살", "code": "9871", "glyph_index": 4373}
+  ]
+}

@@ -1,0 +1,3 @@
+canvas_id,resource_id,shift_mode,shift_x,crop_x,crop_y,crop_w,crop_h,translation_target,evidence,status,notes
+pda_bg01_probe,pda/bg01,raster_rows,0,0,0,256,192,뒤로 / 소지품,user clean-boot screenshots and exact もどる glyph-mask match,diagnostic_full_resource_preview,누락된 PDA 배경 리소스 전체를 가시화해 버튼 좌표와 보호 영역을 확정
+pda_pda01_probe,pda/pda01,raster_rows,0,0,0,64,64,소지품 / 지우기,user clean-boot 持ち物 screenshot and index-preview visual match,diagnostic_full_resource_preview,동일 자산의 일본어 消す도 함께 검토하고 HEAR 및 버튼 외곽은 보호

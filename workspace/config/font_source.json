@@ -1,0 +1,45 @@
+{
+  "schema_version": 2,
+  "selection_status": "approved_by_user_runtime_qa",
+  "source": {
+    "path": "G:\\Downloads\\Korean Traslate Project\\Font\\Galmuri11-Condensed_16x16(12px).png",
+    "size": 632129,
+    "sha256": "3EE2A45C20120C42705AE3EE9540DB191A1443E110ECA6D0C4A1760CBE0B91E5"
+  },
+  "source_grid": {
+    "cell_width": 16,
+    "cell_height": 16,
+    "design_size_px": 12,
+    "style": "Galmuri11 Condensed",
+    "columns": 64,
+    "rows": 175,
+    "cell_count": 11200,
+    "nonempty_cell_count": 11172,
+    "padding_cell_count": 28
+  },
+  "codepoint_order": {
+    "status": "confirmed_for_build_input",
+    "mapping": "U+AC00..U+D7A3 in cells 0..11171",
+    "evidence": "11172 consecutive nonempty cells, 28 trailing transparent cells, and 15-syllable intro runtime display"
+  },
+  "target": {
+    "file": "data/font_lc.bin",
+    "cell_width": 16,
+    "cell_height": 16,
+    "bits_per_pixel": 2,
+    "conversion": "direct 16x16 cell import; foreground mapped to 2bpp value 3",
+    "measured_test_ink_box": "7x11",
+    "status": "approved"
+  },
+  "runtime_evidence": {
+    "gate": "intro-font-ab-001",
+    "rom_sha256": "A58DC58A2F8572E64EB7134F4361279BD313BEA9E23470733D78D095DDD6123A",
+    "user_verdict": "selected; size and readability are good"
+  },
+  "rejected_alternative": {
+    "path": "G:\\Downloads\\Korean Traslate Project\\Font\\Galmuri9_16x16(10px).png",
+    "sha256": "C1450F969219948271E67D3CA15C4496E9AE6F86582A4A1B34036FE279C8D9D2",
+    "reason": "not needed after the 12px Condensed variant passed user runtime review"
+  },
+  "copy_source_into_project": false
+}

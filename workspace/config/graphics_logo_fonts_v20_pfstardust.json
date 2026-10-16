@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "bold": {
+    "path": "../../../../Font/PF스타더스트 3.0 Bold.ttf",
+    "sha256": "D23021D127C8E020843B5A39D3FA27B4A92D62598F06DC541538318FD0A4F4C1",
+    "size": 30,
+    "text": "어나더 코드"
+  },
+  "regular": {
+    "path": "../../../../Font/PF스타더스트 3.0.ttf",
+    "sha256": "14E09873C3D5B9A0237759C9ABD7CCB851EAAC938EA7B05AB37E3311DFF56DA2",
+    "size": 12,
+    "text": "두 개의 기억"
+  }
+}

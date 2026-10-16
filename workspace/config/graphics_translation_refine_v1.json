@@ -1,0 +1,60 @@
+{
+  "schema_version": 1,
+  "canvases": {
+    "chapter1_number": {
+      "cleanup": [{"box": [70, 68, 117, 49], "background": 72}],
+      "text_blocks": [{"source_box": [90, 75, 75, 35], "source_background": 76, "target_background": 72, "polarity": "bright", "min_delta": 10, "target_center": [126.0, 93.5], "target_height": 23}]
+    },
+    "chapter1_title": {
+      "cleanup": [{"box": [54, 68, 149, 49], "background": 72}],
+      "text_blocks": [{"source_box": [70, 75, 120, 35], "source_background": 76, "target_background": 72, "polarity": "bright", "min_delta": 10, "target_center": [127.5, 94.0], "target_height": 22}]
+    },
+    "opening_1948": {
+      "cleanup": [{"box": [14, 49, 229, 74], "background": 17}],
+      "text_blocks": [
+        {"source_box": [95, 54, 70, 25], "source_background": 15, "target_background": 17, "polarity": "bright", "min_delta": 10, "target_center": [129.0, 66.5], "target_height": 19},
+        {"source_box": [55, 88, 145, 28], "source_background": 15, "target_background": 17, "polarity": "bright", "min_delta": 10, "target_center": [128.5, 106.5], "target_height": 19}
+      ]
+    },
+    "opening_1994": {
+      "cleanup": [{"box": [14, 49, 229, 74], "background": 17}],
+      "text_blocks": [
+        {"source_box": [95, 54, 70, 25], "source_background": 15, "target_background": 17, "polarity": "bright", "min_delta": 10, "target_center": [129.0, 66.5], "target_height": 19},
+        {"source_box": [80, 88, 100, 28], "source_background": 15, "target_background": 17, "polarity": "bright", "min_delta": 10, "target_center": [129.0, 106.0], "target_height": 20}
+      ]
+    },
+    "opening_2005": {
+      "cleanup": [{"box": [14, 49, 229, 74], "background": 17}],
+      "text_blocks": [
+        {"source_box": [95, 54, 70, 25], "source_background": 15, "target_background": 17, "polarity": "bright", "min_delta": 10, "target_center": [127.5, 66.0], "target_height": 19},
+        {"source_box": [55, 88, 145, 28], "source_background": 15, "target_background": 17, "polarity": "bright", "min_delta": 10, "target_center": [128.5, 106.5], "target_height": 19}
+      ]
+    },
+    "opening_ah": {
+      "cleanup": [{"box": [68, 64, 123, 54], "background": 0}],
+      "text_blocks": [{"source_box": [100, 74, 55, 32], "source_background": 15, "target_background": 0, "polarity": "bright", "min_delta": 10, "target_center": [143.0, 85.0], "target_height": 28}]
+    },
+    "opening_father": {
+      "cleanup": [{"box": [40, 125, 140, 40], "background": 0}],
+      "text_blocks": [{"source_box": [40, 128, 60, 30], "source_background": 0, "target_background": 0, "polarity": "bright", "min_delta": 10, "target_center": [116.5, 144.0], "target_height": 24}]
+    },
+    "opening_why": {
+      "cleanup": [{"box": [65, 65, 150, 53], "background": 150}],
+      "text_blocks": [{"source_box": [90, 74, 75, 35], "source_background": 159, "target_background": 150, "polarity": "bright", "min_delta": 10, "target_center": [137.5, 91.5], "target_height": 25}]
+    },
+    "title_logo": {
+      "resize_crops": [{"source_box": [22, 80, 214, 26], "target_box": [9, 76, 238, 34], "background": 255, "preserve_boxes": [[230, 106, 15, 8]]}]
+    },
+    "title_menu": {
+      "cleanup": [{"box": [80, 65, 105, 25], "background": 255}, {"box": [80, 93, 105, 26], "background": 255}],
+      "text_blocks": [
+        {"source_box": [100, 66, 60, 23], "source_background": 255, "target_background": 255, "polarity": "dark", "min_delta": 10, "target_center": [132.0, 78.0], "target_height": 16},
+        {"source_box": [100, 94, 60, 23], "source_background": 255, "target_background": 255, "polarity": "dark", "min_delta": 10, "target_center": [131.5, 106.0], "target_height": 16}
+      ]
+    },
+    "title_touch": {
+      "cleanup": [{"box": [30, 65, 200, 30], "background": 255}],
+      "text_blocks": [{"source_box": [70, 68, 120, 25], "source_background": 255, "target_background": 255, "polarity": "dark", "min_delta": 10, "target_center": [128.5, 80.0], "target_height": 14}]
+    }
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "schema_version": 1,
+  "canvases": {
+    "system_yes": {
+      "change_boxes": [[4, 9, 24, 11]],
+      "restore_rows": [
+        {
+          "box": [4, 9, 24, 11],
+          "sample_box": [4, 9, 24, 11],
+          "method": "mode",
+          "only_indices": [115, 190, 195, 203],
+          "ignore_indices": [0]
+        }
+      ],
+      "labels": [
+        {
+          "text": "예",
+          "center": [16.0, 14.5],
+          "ink_index": 115,
+          "bounds_box": [4, 9, 24, 11]
+        }
+      ]
+    },
+    "system_no": {
+      "change_boxes": [[4, 9, 24, 11]],
+      "restore_rows": [
+        {
+          "box": [4, 9, 24, 11],
+          "sample_box": [4, 9, 24, 11],
+          "method": "mode",
+          "only_indices": [115, 191, 195, 203],
+          "ignore_indices": [0]
+        }
+      ],
+      "labels": [
+        {
+          "text": "아니요",
+          "center": [16.0, 14.5],
+          "ink_index": 115,
+          "bounds_box": [4, 9, 24, 11]
+        }
+      ]
+    }
+  }
+}

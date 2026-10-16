@@ -1,0 +1,2 @@
+canvas_id,resource_id,shift_mode,shift_x,crop_x,crop_y,crop_w,crop_h,translation_target,evidence,status,notes
+opening_1948,v05_bg/V5_000,tiled8_sequence,-64,0,0,256,192,1948년 / 블러드 에드워드섬,user-selected Galmuri11 Bold atlas and isolated runtime PoC,conditional_poc_candidate,원본 숫자 1948은 보존하고 年과 장소명만 단색 Bold 글자로 교체

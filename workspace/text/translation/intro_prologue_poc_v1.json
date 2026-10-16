@@ -1,0 +1,39 @@
+{
+  "schema_version": 1,
+  "batch_id": "intro-prologue-poc-v1",
+  "build_class": "development_poc_not_release_eligible",
+  "source_sha256": "6C8CB19DE7B86DC5F1147E4927D6916571968A06B5C2E9B88F62C22C271DD0A1",
+  "scope": "overlay 0 first three runtime-confirmed intro subtitle screens",
+  "entries": [
+    {
+      "text_id": "arm9_overlay_000_file_000:003EBC",
+      "source_raw_hex": "825082528DCB8DC58CE382CC92A92577283630292572256D283130298B4395AA82CD8DC588AB82BE82C182BD257728313230292565",
+      "source_text": "１３才最後の朝%w(60)%r%m(10)気分は最悪だった%w(120)%e",
+      "translation_text": "열셋마지막아침%w(60)%r%m(10)기분은최악이었다%w(120)%e",
+      "status": "development_poc_user_runtime_seen",
+      "context_status": "first automatic intro screen confirmed by user runtime screenshot",
+      "reinsertion_policy": "fixed_length_preserve_all_directives",
+      "notes": "Korean wording is a technical PoC and is not final translation approval."
+    },
+    {
+      "text_id": "arm9_overlay_000_file_000:004034",
+      "source_raw_hex": "82BB82CC92A9814182ED82BD82B582CD25772836302925728375838983628368814583478368838F815B8368938782D682C68CFC82A982A425728FAC82B382C8914482CC8FE382C982A282BD257728313230292565",
+      "source_text": "その朝、わたしは%w(60)%rブラッド・エドワード島へと向かう%r小さな船の上にいた%w(120)%e",
+      "translation_text": "바로그날아침나는%w(60)%r저멀리블러드에드워드섬으로향하는%r조그만배위에있었다%w(120)%e",
+      "status": "development_poc_needs_runtime_qa",
+      "context_status": "second automatic intro screen confirmed by user runtime screenshot",
+      "reinsertion_policy": "fixed_length_preserve_all_directives",
+      "notes": "Korean wording is provisional; line cells are matched 8/16/9 to the Japanese source."
+    },
+    {
+      "text_id": "arm9_overlay_000_file_000:003EF4",
+      "source_raw_hex": "946782CD90C382A982BE82C182BD82AF82EA82C7257728363029257282ED82BD82B582CC905382CD91E5976882EA82C5257728313230292565",
+      "source_text": "波は静かだったけれど%w(60)%rわたしの心は大揺れで%w(120)%e",
+      "translation_text": "파도는아주잔잔했지만%w(60)%r내마음은크게흔들렸다%w(120)%e",
+      "status": "development_poc_user_runtime_seen",
+      "context_status": "third automatic intro screen confirmed by user runtime screenshot",
+      "reinsertion_policy": "fixed_length_preserve_all_directives",
+      "notes": "Korean wording is provisional; user confirmed this is runtime screen 3, not screen 2."
+    }
+  ]
+}

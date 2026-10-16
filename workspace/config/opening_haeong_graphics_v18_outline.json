@@ -1,0 +1,134 @@
+{
+  "schema_version": 1,
+  "font_config": "opening_font_sources_v15.json",
+  "canvases": {
+    "opening_1948": {
+      "cleanup_box": [14, 49, 229, 74],
+      "background_index": 17,
+      "outline_index": 240,
+      "outline_radius": 1,
+      "ink_index": 255,
+      "labels": [
+        {"text": "1948년", "size": 20, "center": [129.0, 66.5]},
+        {"text": "블러드 에드워드섬", "size": 20, "center": [128.5, 106.0]}
+      ]
+    },
+    "opening_1994": {
+      "cleanup_box": [14, 49, 229, 74],
+      "background_index": 17,
+      "outline_index": 240,
+      "outline_radius": 1,
+      "ink_index": 255,
+      "labels": [
+        {"text": "1994년", "size": 20, "center": [129.0, 66.5]},
+        {"text": "시애틀 교외", "size": 20, "center": [129.0, 106.0]}
+      ]
+    },
+    "opening_2005": {
+      "cleanup_box": [14, 49, 229, 74],
+      "background_index": 17,
+      "outline_index": 240,
+      "outline_radius": 1,
+      "ink_index": 255,
+      "labels": [
+        {"text": "2005년", "size": 20, "center": [127.5, 66.0]},
+        {"text": "블러드 에드워드섬", "size": 20, "center": [128.5, 106.5]}
+      ]
+    },
+    "opening_father": {
+      "cleanup_box": [40, 125, 140, 40],
+      "background_index": 0,
+      "outline_index": 231,
+      "outline_radius": 1,
+      "ink_index": 255,
+      "labels": [
+        {"text": "여보…", "size": 26, "center": [116.5, 144.0]}
+      ]
+    },
+    "opening_why": {
+      "cleanup_box": [65, 65, 150, 53],
+      "background_index": 239,
+      "outline_index": 240,
+      "outline_radius": 1,
+      "ink_index": 255,
+      "labels": [
+        {"text": "왜…!?", "size": 28, "center": [137.5, 91.5]}
+      ]
+    },
+    "opening_ah": {
+      "cleanup_box": [68, 64, 123, 54],
+      "background_index": 0,
+      "outline_index": 236,
+      "outline_radius": 1,
+      "ink_index": 255,
+      "labels": [
+        {"text": "앗!!", "size": 28, "center": [143.0, 85.0]}
+      ]
+    },
+    "opening_hide": {
+      "cleanup_box": [60, 98, 160, 75],
+      "background_index": 0,
+      "outline_index": 235,
+      "outline_radius": 1,
+      "ink_index": 255,
+      "labels": [
+        {"text": "애슐리, 빨리", "size": 24, "center": [138.0, 116.0]},
+        {"text": "숨어!", "size": 24, "center": [138.0, 156.0]}
+      ]
+    },
+    "opening_mama": {
+      "cleanup_box": [25, 85, 140, 35],
+      "background_index": 0,
+      "outline_index": 238,
+      "outline_radius": 1,
+      "ink_index": 255,
+      "labels": [
+        {"text": "엄마…", "size": 24, "center": [90.0, 102.0]}
+      ]
+    },
+    "opening_completed": {
+      "cleanup_box": [35, 85, 150, 36],
+      "background_index": 0,
+      "outline_index": 235,
+      "outline_radius": 1,
+      "ink_index": 255,
+      "labels": [
+        {"text": "완성했다…", "size": 24, "center": [105.5, 103.0]}
+      ]
+    },
+    "opening_finally": {
+      "cleanup_box": [90, 70, 130, 35],
+      "background_index": 0,
+      "outline_index": 236,
+      "outline_radius": 1,
+      "ink_index": 255,
+      "labels": [
+        {"text": "드디어…", "size": 24, "center": [154.0, 87.0]}
+      ]
+    },
+    "opening_richard": {
+      "cleanup_box": [40, 68, 170, 35],
+      "background_index": 23,
+      "outline_index": 236,
+      "outline_radius": 1,
+      "ink_index": 255,
+      "labels": [
+        {"text": "리처드…", "size": 24, "center": [123.5, 85.0]}
+      ]
+    }
+  },
+  "retained_existing_graphics": [
+    "chapter1_number",
+    "chapter1_title",
+    "opening_title_logo_a",
+    "opening_title_logo_b",
+    "pda_mark",
+    "system_back",
+    "system_examine_disabled",
+    "system_examine_normal",
+    "system_talk",
+    "title_logo",
+    "title_menu",
+    "title_touch"
+  ]
+}

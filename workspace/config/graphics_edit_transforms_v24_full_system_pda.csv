@@ -1,0 +1,26 @@
+canvas_id,resource_id,shift_mode,shift_x,crop_x,crop_y,crop_w,crop_h,translation_target,evidence,status,notes
+title_logo,sys_bg/title01,tiled8_sequence,-64,0,0,256,192,어나더 코드 두 개의 기억,8-tile sequence alignment,editing_normalization_confirmed_visual,전체 타일 스트림을 왼쪽 8타일 순환 이동
+title_touch,sys_bg/title02,tiled8_sequence,-64,0,0,256,192,화면을 터치해 주세요,8-tile sequence alignment,editing_normalization_confirmed_visual,행 단위 이동에서 내려갔던 마지막 글자와 저작권 문구가 수평으로 정렬됨
+title_menu,sys_bg/title03,tiled8_sequence,-64,0,0,256,192,처음부터 / 이어하기,8-tile sequence alignment,editing_normalization_confirmed_visual,메뉴와 저작권 문구를 화면 좌표로 결합
+system_talk,sys_bg/sys_icon,raster_rows,0,0,80,32,16,대화,user screenshot and atlas match,editing_crop_confirmed,전체 스프라이트 시트 중 話す 셀만 분리
+pda_mark,pda/mark,tiled8_sequence,-24,0,0,64,64,뒤로,tile sequence candidates prove complete one-line button,editing_normalization_confirmed_visual,타일 스트림을 3칸 이동해 갈린 버튼 전체를 x17..47 한 줄로 결합하고 중심 x32에 정렬
+chapter1_number,p01_bg/P01_C0,tiled8_sequence,-64,0,0,256,192,제1장,8-tile sequence alignment,editing_normalization_confirmed_visual,장 번호를 화면 중앙으로 복원
+chapter1_title,p01_bg/P01_C1,tiled8_sequence,-64,0,0,256,192,디와의 만남,8-tile sequence alignment,editing_normalization_confirmed_visual,타일 경계가 글자를 가르지 않도록 전체 스트림 이동
+opening_1948,v05_bg/V5_000,tiled8_sequence,-64,0,0,256,192,1948년 / 블러드 에드워드섬,user screenshot and 8-tile alignment,editing_normalization_confirmed_visual,연도와 장소 카드의 타일 스트림 시작점 복원
+opening_1994,v05_bg/V5_007,tiled8_sequence,-64,0,0,256,192,1994년 / 시애틀 교외,8-tile sequence alignment,editing_normalization_confirmed_visual,동형 연도와 장소 카드
+opening_2005,v05_bg/V5_015,tiled8_sequence,-64,0,0,256,192,2005년 / 블러드 에드워드섬,8-tile sequence alignment,editing_normalization_confirmed_visual,동형 연도와 장소 카드
+opening_father,v05_bg/V5_023,tiled8_sequence,-64,0,0,256,192,여보…,user screenshot and 8-tile alignment,editing_normalization_confirmed_visual,타일 경계가 글자를 가르지 않도록 전체 스트림 이동
+opening_why,v05_bg/V5_024,tiled8_sequence,-64,0,0,256,192,왜…!?,user screenshot and 8-tile alignment,editing_normalization_confirmed_visual,왼쪽과 오른쪽으로 갈린 본문을 같은 행으로 결합
+opening_ah,v05_bg/V5_025,raster_rows,0,0,0,256,192,앗!!,user screenshot and index preview,editing_normalization_confirmed_visual,이미 한 화면 중앙에 있어 이동 없음
+opening_hide,v05_bg/V5_026,tiled8_sequence,-64,0,0,256,192,애슐리 빨리 숨어,user runtime screenshot and archive alignment,editing_normalization_runtime_observed,런타임에서 보인 두 줄 문구의 타일 스트림 시작점 복원
+opening_mama,v05_bg/V5_027,tiled8_sequence,-64,0,0,256,192,엄마…,user runtime screenshot and archive alignment,editing_normalization_runtime_observed,오프닝 누락 문구
+opening_completed,v05_bg/V5_028,tiled8_sequence,-64,0,0,256,192,완성했다…,user runtime screenshot and archive alignment,editing_normalization_runtime_observed,오프닝 누락 문구
+opening_finally,v05_bg/V5_029,tiled8_sequence,-64,0,0,256,192,드디어…,user runtime screenshot and archive alignment,editing_normalization_runtime_observed,오프닝 누락 문구
+opening_richard,v05_bg/V5_030,tiled8_sequence,-64,0,0,256,192,리처드…,user runtime screenshot and archive alignment,editing_normalization_runtime_observed,오프닝 누락 문구
+opening_title_logo_a,v05_bg/title01,tiled8_sequence,-64,0,0,256,192,어나더 코드 두 개의 기억,pixel-identical duplicate of sys_bg/title01,editing_normalization_static_duplicate,오프닝 archive의 타이틀 로고 중복 자원
+opening_title_logo_b,v05_bg/V5_031,tiled8_sequence,-64,0,0,256,192,어나더 코드 두 개의 기억,pixel-identical duplicate of sys_bg/title01 and runtime screenshot,editing_normalization_runtime_observed,오프닝 종료 프레임의 타이틀 로고
+system_back,sys_bg/sys_icon,raster_rows,0,72,0,32,32,뒤로,user runtime screenshot proves lower half survives old crop,editing_crop_runtime_corrected,32x16 절단을 32x32 전체 버튼 캔버스로 확장
+system_examine_normal,sys_bg/sys_icon,raster_rows,0,104,0,32,32,조사,user runtime screenshot proves lower half survives old crop,editing_crop_runtime_corrected,32x16 절단을 32x32 전체 버튼 캔버스로 확장
+system_examine_disabled,sys_bg/sys_icon,raster_rows,0,32,80,32,16,조사,user runtime screenshot and atlas crop,editing_crop_runtime_observed,비활성 회색 조사 아이콘
+pda_back_bg,pda/bg01,raster_rows,0,32,136,32,32,뒤로,user clean-boot screenshot and exact もどる glyph-mask match,editing_crop_runtime_observed,PDA 배경에 베이크된 별도 뒤로 버튼
+pda_inventory_actions,pda/pda01,raster_rows,0,0,0,64,64,소지품 / 지우기,user clean-boot 持ち物 screenshot and index-preview match,editing_crop_runtime_observed,持ち物과 消す를 번역하고 HEAR 및 버튼 외곽은 보호

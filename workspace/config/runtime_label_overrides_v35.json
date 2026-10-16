@@ -1,0 +1,87 @@
+{
+  "schema_version": 1,
+  "source_rom_sha256": "6C8CB19DE7B86DC5F1147E4927D6916571968A06B5C2E9B88F62C22C271DD0A1",
+  "status": "runtime_observed_weak_string_overrides",
+  "entries": [
+    {
+      "text_id": "arm9:05B2E8",
+      "component": "arm9",
+      "component_offset": "0x05B2E8",
+      "source_text": "ＤＡＳカード%s",
+      "source_raw_hex": "826382608272834A815B83682573",
+      "translation_text": "DAS 카드 %s",
+      "evidence": "user runtime screenshot of the DAS card list",
+      "status": "runtime_observed"
+    },
+    {
+      "text_id": "arm9:05B674",
+      "component": "arm9",
+      "component_offset": "0x05B674",
+      "source_text": "%s章     TIME %.2d:%.2d:%.2d",
+      "source_raw_hex": "25738FCD202020202054494D4520252E32643A252E32643A252E3264",
+      "translation_text": "%s화     TIME %.2d:%.2d:%.2d",
+      "evidence": "user runtime screenshot of the chapter 2 save slot",
+      "status": "runtime_observed"
+    },
+    {
+      "text_id": "arm9:05B698",
+      "component": "arm9",
+      "component_offset": "0x05B698",
+      "source_text": "１章     TIME %.2d:%.2d:%.2d",
+      "source_raw_hex": "82508FCD202020202054494D4520252E32643A252E32643A252E3264",
+      "translation_text": "1화     TIME %.2d:%.2d:%.2d",
+      "evidence": "fallback save-slot format adjacent to the runtime-observed formatter",
+      "status": "paired_static_candidate"
+    },
+    {
+      "text_id": "arm9_overlay_032_file_032:0100E0",
+      "component": "arm9_overlay_032_file_032",
+      "component_offset": "0x0100E0",
+      "source_text": "ふたりの子供の肖像画",
+      "source_raw_hex": "82D382BD82E882CC8E718B9F82CC8FD1919C89E6",
+      "translation_text": "두 아이의 초상화",
+      "evidence": "user runtime screenshot of the portrait selection screen",
+      "status": "runtime_observed"
+    },
+    {
+      "text_id": "arm9_overlay_032_file_032:0100F8",
+      "component": "arm9_overlay_032_file_032",
+      "component_offset": "0x0100F8",
+      "source_text": "ピアノを前にした男の肖像画",
+      "source_raw_hex": "83738341836D82F0914F82C982B582BD926A82CC8FD1919C89E6",
+      "translation_text": "피아노 앞 남자 초상화",
+      "evidence": "user runtime screenshot of the portrait selection screen; shortened in build layer to fit the fixed slot",
+      "status": "runtime_observed"
+    },
+    {
+      "text_id": "arm9_overlay_034_file_034:00D00C",
+      "component": "arm9_overlay_034_file_034",
+      "component_offset": "0x00D00C",
+      "source_text": "わたしをクロゼットに隠した",
+      "source_raw_hex": "82ED82BD82B582F0834E838D835B8362836782C9894282B582BD",
+      "translation_text": "나를 옷장에 숨겼다",
+      "evidence": "user runtime screenshot of the memory-choice screen",
+      "status": "runtime_observed"
+    },
+    {
+      "text_id": "arm9:05B6B8",
+      "component": "arm9",
+      "component_offset": "0x05B6B8",
+      "source_text": "クリアデータ",
+      "source_raw_hex": "834E838A83418366815B835E",
+      "translation_text": "클리어데이터",
+      "evidence": "user runtime screenshot of the cleared save-slot label; SSOT spacing removed only in build layer to fit the fixed slot",
+      "status": "runtime_observed"
+    },
+    {
+      "text_id": "arm9_overlay_001_file_001:002BD4",
+      "component": "arm9_overlay_001_file_001",
+      "component_offset": "0x002BD4",
+      "source_text": "■CO-プロデューサー",
+      "source_raw_hex": "81A1434F2D8376838D83668385815B8354815B",
+      "translation_text": "■공동 프로듀서",
+      "evidence": "user runtime screenshot of the ending credits",
+      "status": "runtime_observed"
+    }
+  ]
+}

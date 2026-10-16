@@ -1,0 +1,98 @@
+{
+  "schema_version": 1,
+  "extends": "graphics_translation_refine_v11.json",
+  "canvases": {
+    "system_talk": {
+      "restore_rows": [
+        {
+          "box": [4, 2, 24, 10],
+          "sample_box": [4, 2, 24, 10]
+        }
+      ],
+      "font_texts": [
+        {
+          "text": "대화",
+          "font_path": "../../../../Font/Galmuri9.ttf",
+          "font_size": 10,
+          "center": [16.0, 7.5],
+          "value": 10
+        }
+      ],
+      "index_constraints": [
+        {
+          "box": [4, 2, 24, 10],
+          "allowed_indices": [115, 200, 201, 202, 208, 240, 241, 242, 245, 246, 252]
+        }
+      ]
+    },
+    "system_back": {
+      "restore_rows": [
+        {
+          "box": [4, 5, 24, 10],
+          "sample_box": [4, 5, 24, 10]
+        }
+      ],
+      "font_texts": [
+        {
+          "text": "뒤로",
+          "font_path": "../../../../Font/Galmuri9.ttf",
+          "font_size": 10,
+          "center": [16.0, 9.5],
+          "value": 0
+        }
+      ],
+      "index_constraints": [
+        {
+          "box": [4, 5, 24, 10],
+          "allowed_indices": [0, 115, 188, 193, 205, 212, 220, 254]
+        }
+      ]
+    },
+    "system_examine_normal": {
+      "restore_rows": [
+        {
+          "box": [4, 5, 24, 10],
+          "sample_box": [4, 5, 24, 10]
+        }
+      ],
+      "font_texts": [
+        {
+          "text": "조사",
+          "font_path": "../../../../Font/Galmuri9.ttf",
+          "font_size": 10,
+          "center": [16.0, 9.5],
+          "value": 0
+        }
+      ],
+      "index_constraints": [
+        {
+          "box": [4, 5, 24, 10],
+          "allowed_indices": [0, 115, 179, 211, 215, 216, 219, 224, 230, 238, 254]
+        }
+      ]
+    },
+    "system_examine_disabled": {
+      "restore_rows": [
+        {
+          "box": [4, 2, 24, 10],
+          "sample_box": [4, 2, 24, 10]
+        }
+      ],
+      "font_texts": [
+        {
+          "text": "조사",
+          "font_path": "../../../../Font/Galmuri9.ttf",
+          "font_size": 10,
+          "center": [16.0, 7.5],
+          "value": 0
+        }
+      ],
+      "index_constraints": [
+        {
+          "box": [4, 2, 24, 10],
+          "allowed_indices": [154, 162, 164, 171, 174]
+        }
+      ]
+    }
+  }
+}

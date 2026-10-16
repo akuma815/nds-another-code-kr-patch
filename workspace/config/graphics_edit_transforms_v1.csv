@@ -1,0 +1,13 @@
+canvas_id,resource_id,shift_x,crop_x,crop_y,crop_w,crop_h,translation_target,evidence,status,notes
+title_logo,sys_bg/title01,-64,0,0,256,192,아나더 코드 두 개의 기억,index preview wrap,editing_normalization_inferred,가로 256픽셀 원형 버퍼를 왼쪽 64픽셀 이동
+title_touch,sys_bg/title02,-64,0,0,256,192,화면을 터치해 주세요,index preview wrap,editing_normalization_inferred,가로 256픽셀 원형 버퍼를 왼쪽 64픽셀 이동
+title_menu,sys_bg/title03,-64,0,0,256,192,처음부터 / 이어하기,index preview wrap,editing_normalization_confirmed_visual,메뉴와 하단 저작권 표기의 랩어라운드 해제
+system_talk,sys_bg/sys_icon,0,0,80,32,16,말하기,user screenshot and atlas match,editing_crop_confirmed,전체 스프라이트 시트 중 話す 셀만 분리
+chapter1_number,p01_bg/P01_C0,-64,0,0,256,192,제1장,index preview wrap,editing_normalization_confirmed_visual,第１章을 화면 중앙으로 복원
+chapter1_title,p01_bg/P01_C1,-64,0,0,256,192,디와의 만남,index preview wrap,editing_normalization_confirmed_visual,좌우로 갈라진 마지막 글자를 같은 화면에 결합
+opening_1948,v05_bg/V5_000,-64,0,0,256,192,1948년 / 블러드 에드워드섬,user screenshot and index preview,editing_normalization_confirmed_visual,연도와 장소 카드의 좌우 랩어라운드 해제
+opening_1994,v05_bg/V5_007,-64,0,0,256,192,1994년 / 시애틀 교외,index preview wrap,editing_normalization_inferred,동형 연도와 장소 카드
+opening_2005,v05_bg/V5_015,-64,0,0,256,192,2005년 / 블러드 에드워드섬,index preview wrap,editing_normalization_inferred,동형 연도와 장소 카드
+opening_father,v05_bg/V5_023,-64,0,0,256,192,아빠…,user screenshot and index preview,editing_normalization_inferred,런타임 절대 위치는 그래픽 PoC에서 확인 필요
+opening_why,v05_bg/V5_024,-64,0,0,256,192,왜…!?,user screenshot and index preview,editing_normalization_confirmed_visual,왼쪽의 물음표와 오른쪽 본문을 결합
+opening_ah,v05_bg/V5_025,0,0,0,256,192,앗!!,user screenshot and index preview,editing_normalization_confirmed_visual,이미 한 화면 중앙에 있어 이동 없음

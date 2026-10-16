@@ -1,0 +1,11 @@
+canvas_id,resource_id,shift_mode,shift_x,crop_x,crop_y,crop_w,crop_h,translation_target,evidence,status,notes
+pda_raster_m32,pda/mark,raster_rows,-32,0,0,64,64,뒤로,diagnostic,alignment_candidate,기존 v8 가로 행 이동
+pda_raster_m24,pda/mark,raster_rows,-24,0,0,64,64,뒤로,diagnostic,alignment_candidate,v9 가로 행 이동
+pda_tiles_0,pda/mark,tiled8_sequence,0,0,0,64,64,뒤로,diagnostic,alignment_candidate,원본 타일 스트림
+pda_tiles_m8,pda/mark,tiled8_sequence,-8,0,0,64,64,뒤로,diagnostic,alignment_candidate,타일 스트림 1칸 이동
+pda_tiles_m16,pda/mark,tiled8_sequence,-16,0,0,64,64,뒤로,diagnostic,alignment_candidate,타일 스트림 2칸 이동
+pda_tiles_m24,pda/mark,tiled8_sequence,-24,0,0,64,64,뒤로,diagnostic,alignment_candidate,타일 스트림 3칸 이동
+pda_tiles_m32,pda/mark,tiled8_sequence,-32,0,0,64,64,뒤로,diagnostic,alignment_candidate,타일 스트림 4칸 이동
+pda_tiles_m40,pda/mark,tiled8_sequence,-40,0,0,64,64,뒤로,diagnostic,alignment_candidate,타일 스트림 5칸 이동
+pda_tiles_m48,pda/mark,tiled8_sequence,-48,0,0,64,64,뒤로,diagnostic,alignment_candidate,타일 스트림 6칸 이동
+pda_tiles_m56,pda/mark,tiled8_sequence,-56,0,0,64,64,뒤로,diagnostic,alignment_candidate,타일 스트림 7칸 이동

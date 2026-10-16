@@ -1,0 +1,1170 @@
+{
+  "date": "2026-10-16",
+  "project": "어나더 코드: 두 개의 기억",
+  "files": [
+    {
+      "path": "docs/FONT_AND_OPENING_TEXT_RETROSPECTIVE_KO.md",
+      "source": "docs/FONT_AND_OPENING_TEXT_RETROSPECTIVE_KO.md",
+      "bytes": 32206,
+      "sha256": "5d7e3f2bd2a9d102f267e70fe5aa1cca44a23e772aeec8c99746924b97ca8428"
+    },
+    {
+      "path": "docs/HANDOFF_2026-08-23.md",
+      "source": "docs/HANDOFF_2026-08-23.md",
+      "bytes": 77701,
+      "sha256": "b119be87971bbe35270f972a7ac73e432fc96567bedab0a8080546d3335421d3"
+    },
+    {
+      "path": "docs/HANDOFF_2026-08-24.md",
+      "source": "docs/HANDOFF_2026-08-24.md",
+      "bytes": 56232,
+      "sha256": "ffc31d20b44b2ac158a06b5278da0a1bf2cdcf63eba9ec615d68df405ee3a1d6"
+    },
+    {
+      "path": "docs/HANDOFF_2026-08-26.md",
+      "source": "docs/HANDOFF_2026-08-26.md",
+      "bytes": 21620,
+      "sha256": "572767d135ed482dbbbd98f780d5b96684aab13fd1b514b3eaf74891e1e6774c"
+    },
+    {
+      "path": "docs/HANDOFF_2026-08-28.md",
+      "source": "docs/HANDOFF_2026-08-28.md",
+      "bytes": 72202,
+      "sha256": "53902daa02b008fb62f96cba7c841cfb194eded11b47f1ba7ca8dd8f07e92fc0"
+    },
+    {
+      "path": "docs/HANDOFF_2026-08-29.md",
+      "source": "docs/HANDOFF_2026-08-29.md",
+      "bytes": 77196,
+      "sha256": "8e241217ff5800f2dba0d2aece7a468ae2a827e2f86dfdf7e6111514b89d8cc5"
+    },
+    {
+      "path": "docs/HANDOFF_2026-08-30.md",
+      "source": "docs/HANDOFF_2026-08-30.md",
+      "bytes": 3410,
+      "sha256": "b4e05c1e6c3ceffa7f6bde6904b1a814474e7d94bdfdd5a7f0910200641ff7a9"
+    },
+    {
+      "path": "docs/HANDOFF_2026-09-02.md",
+      "source": "docs/HANDOFF_2026-09-02.md",
+      "bytes": 4068,
+      "sha256": "311137bbedbec0c50d6b6a94f99f42c95891980d5f9f0753b65888abc9c82800"
+    },
+    {
+      "path": "docs/public/another_code_font_opening_share/tools/01_extract_hangul_demand.py",
+      "source": "docs/public/another_code_font_opening_share/tools/01_extract_hangul_demand.py",
+      "bytes": 2481,
+      "sha256": "09a3e16194812f35403e030a19648b0c3fcf2693cff837d5e80c75c5e1693cc7"
+    },
+    {
+      "path": "docs/public/another_code_font_opening_share/tools/02_analyze_sjis_font.py",
+      "source": "docs/public/another_code_font_opening_share/tools/02_analyze_sjis_font.py",
+      "bytes": 3931,
+      "sha256": "0a064ba8b5b3c98a602cea48acb9e6518613f5a5e23ab4a1944256219f42e025"
+    },
+    {
+      "path": "docs/public/another_code_font_opening_share/tools/03_audit_hangul_mapping.py",
+      "source": "docs/public/another_code_font_opening_share/tools/03_audit_hangul_mapping.py",
+      "bytes": 3963,
+      "sha256": "bc286a0b28e2b6657326b33f646067e69e987937580cf6839d7b4cf654690757"
+    },
+    {
+      "path": "docs/public/another_code_font_opening_share/tools/04_build_hangul_font.py",
+      "source": "docs/public/another_code_font_opening_share/tools/04_build_hangul_font.py",
+      "bytes": 5420,
+      "sha256": "97eea96a38c7531c755348c3d1c9383ce4817baf843dbbebb95c42cd884d91cc"
+    },
+    {
+      "path": "docs/public/another_code_font_opening_share/tools/05_mapping_to_tbl.py",
+      "source": "docs/public/another_code_font_opening_share/tools/05_mapping_to_tbl.py",
+      "bytes": 1572,
+      "sha256": "adae76c0d10323c3564f7e2ab08a3eb0daf7a3a0f26b0379308dee5f99952007"
+    },
+    {
+      "path": "docs/public/another_code_font_opening_share/tools/LICENSE.txt",
+      "source": "docs/public/another_code_font_opening_share/tools/LICENSE.txt",
+      "bytes": 1096,
+      "sha256": "1034929465dd1f1bc426c578dff54901e23d1ceebd56af1aca001ccab9ae0b06"
+    },
+    {
+      "path": "docs/public/another_code_font_opening_share/tools/README_KO.md",
+      "source": "docs/public/another_code_font_opening_share/tools/README_KO.md",
+      "bytes": 4183,
+      "sha256": "1e70106af3ecbc26b469a64d6a4db0e9ed9dc0447b43c256d2f8c6a68578e4ae"
+    },
+    {
+      "path": "docs/public/another_code_font_opening_share/tools/example_mapping.json",
+      "source": "docs/public/another_code_font_opening_share/tools/example_mapping.json",
+      "bytes": 533,
+      "sha256": "d6b44d2ac4563bb4dd5457d818f248d644df9266fea6db49ba47c262e2125193"
+    },
+    {
+      "path": "docs/public/another_code_font_opening_share/tools/requirements.txt",
+      "source": "docs/public/another_code_font_opening_share/tools/requirements.txt",
+      "bytes": 13,
+      "sha256": "dce978a554b00caca70d59f539d25c61fcc89681e02d7fec42948cd5c3c0a127"
+    },
+    {
+      "path": "workspace/config/dialogue_e2e_v1.json",
+      "source": "workspace/config/dialogue_e2e_v1.json",
+      "bytes": 991,
+      "sha256": "4d5506fead04474cccf8879334f6a732ecce34c540defce7dd8317a8f06a764d"
+    },
+    {
+      "path": "workspace/config/font_source.json",
+      "source": "workspace/config/font_source.json",
+      "bytes": 1593,
+      "sha256": "c67f79e51ad1360422bf2e8f04da3ce401e5d92a03e3672f8b63d33ed1439112"
+    },
+    {
+      "path": "workspace/config/graphics_choice_buttons_v25.json",
+      "source": "workspace/config/graphics_choice_buttons_v25.json",
+      "bytes": 997,
+      "sha256": "651193979e3ba4cb28171db4298ec7dff01713dc612b867897ec9a32dc68c26c"
+    },
+    {
+      "path": "workspace/config/graphics_choice_probe_v25.csv",
+      "source": "workspace/config/graphics_choice_probe_v25.csv",
+      "bytes": 804,
+      "sha256": "233004122bdc99b7649b26b5494c5bad9464625cc0049e74811bf423881be6da"
+    },
+    {
+      "path": "workspace/config/graphics_edit_transforms_opening_1948_bold_poc_v1.csv",
+      "source": "workspace/config/graphics_edit_transforms_opening_1948_bold_poc_v1.csv",
+      "bytes": 375,
+      "sha256": "77a241868a316931e4170072d371a9e6bf5287facb07752103b73fbe0536d4a2"
+    },
+    {
+      "path": "workspace/config/graphics_edit_transforms_opening_1948_haeong_poc_v1.csv",
+      "source": "workspace/config/graphics_edit_transforms_opening_1948_haeong_poc_v1.csv",
+      "bytes": 379,
+      "sha256": "b68cf24766f5643d932eadff7e29572b5a8fe17f5ad1b9a2e82e5e678bb1d79b"
+    },
+    {
+      "path": "workspace/config/graphics_edit_transforms_v1.csv",
+      "source": "workspace/config/graphics_edit_transforms_v1.csv",
+      "bytes": 2190,
+      "sha256": "6d9ab38a73a6b45711aac12eb638785f0c8f225ec88f09bf8f123e8087c11d27"
+    },
+    {
+      "path": "workspace/config/graphics_edit_transforms_v19_full_system_icons.csv",
+      "source": "workspace/config/graphics_edit_transforms_v19_full_system_icons.csv",
+      "bytes": 4889,
+      "sha256": "459ba57a0453d9279347649652c1839ed3f82af1ac87026f162f2a73a7dd8ff6"
+    },
+    {
+      "path": "workspace/config/graphics_edit_transforms_v2.csv",
+      "source": "workspace/config/graphics_edit_transforms_v2.csv",
+      "bytes": 2571,
+      "sha256": "e579c6e87fe2f36078d8be07008b01de79e46690413afb8e9f35bb25af731ce8"
+    },
+    {
+      "path": "workspace/config/graphics_edit_transforms_v24_full_system_pda.csv",
+      "source": "workspace/config/graphics_edit_transforms_v24_full_system_pda.csv",
+      "bytes": 5324,
+      "sha256": "fe6456eb76b9dbbd9cc6a5304727602ec3a24ec28e1265b4fc4aa1762fd18754"
+    },
+    {
+      "path": "workspace/config/graphics_edit_transforms_v25_full_system_pda_choices.csv",
+      "source": "workspace/config/graphics_edit_transforms_v25_full_system_pda_choices.csv",
+      "bytes": 5751,
+      "sha256": "f72cde786d2e096a3e20b60206fa9ca27733ed1adbdfec5b90f40f86841f9c9f"
+    },
+    {
+      "path": "workspace/config/graphics_edit_transforms_v27_all_chapters.csv",
+      "source": "workspace/config/graphics_edit_transforms_v27_all_chapters.csv",
+      "bytes": 5701,
+      "sha256": "2a8c7ff7d026cba294ac8c4a86f64833872d82220e241153865ef800d9b4a906"
+    },
+    {
+      "path": "workspace/config/graphics_edit_transforms_v3.csv",
+      "source": "workspace/config/graphics_edit_transforms_v3.csv",
+      "bytes": 2727,
+      "sha256": "d82833eda2ffe70989ed0755db830db85da747ae87f3afad6e1f20c5af2bf1e0"
+    },
+    {
+      "path": "workspace/config/graphics_edit_transforms_v32_runtime_labels.csv",
+      "source": "workspace/config/graphics_edit_transforms_v32_runtime_labels.csv",
+      "bytes": 5324,
+      "sha256": "1df2f2079105f3c6f70115d9b866a4eb3e476b6cba57f49a55a7acdf22dfbfea"
+    },
+    {
+      "path": "workspace/config/graphics_edit_transforms_v33_cumulative.csv",
+      "source": "workspace/config/graphics_edit_transforms_v33_cumulative.csv",
+      "bytes": 11333,
+      "sha256": "8beefe6bc73746b2b0be65f844460e7ffa9db75cbccc017e6fd4712b9790a5a4"
+    },
+    {
+      "path": "workspace/config/graphics_edit_transforms_v34_cumulative.csv",
+      "source": "workspace/config/graphics_edit_transforms_v34_cumulative.csv",
+      "bytes": 11868,
+      "sha256": "83735fc54e0e6d644158851d417ac88470a93192a67d5ceac819cf130f272571"
+    },
+    {
+      "path": "workspace/config/graphics_edit_transforms_v35_cumulative.csv",
+      "source": "workspace/config/graphics_edit_transforms_v35_cumulative.csv",
+      "bytes": 11872,
+      "sha256": "ecda43681ae61369dfc98d963c4074431b7bfbe91a9d1df7b57991b6185bc628"
+    },
+    {
+      "path": "workspace/config/graphics_edit_transforms_v37_cumulative.csv",
+      "source": "workspace/config/graphics_edit_transforms_v37_cumulative.csv",
+      "bytes": 12119,
+      "sha256": "f3d71e4f27f3fa1c4c50c4604390331cc88d4e1af17bed0dc5a58b9ab0b3231a"
+    },
+    {
+      "path": "workspace/config/graphics_edit_transforms_v38_cumulative.csv",
+      "source": "workspace/config/graphics_edit_transforms_v38_cumulative.csv",
+      "bytes": 12122,
+      "sha256": "66770011a3cbdac585a72d31c5056123d5f39f7c7601d6637883762b7db1fa3a"
+    },
+    {
+      "path": "workspace/config/graphics_edit_transforms_v39_cumulative.csv",
+      "source": "workspace/config/graphics_edit_transforms_v39_cumulative.csv",
+      "bytes": 12378,
+      "sha256": "91b9345b52175a056c28d0eccb209eab51abb155c1c7c50fdee8a2ae98c949f3"
+    },
+    {
+      "path": "workspace/config/graphics_edit_transforms_v4.csv",
+      "source": "workspace/config/graphics_edit_transforms_v4.csv",
+      "bytes": 2799,
+      "sha256": "8cd7c999aa28c1743c591cfce948d44f887caf8098c067e1b4a496c57dd7d013"
+    },
+    {
+      "path": "workspace/config/graphics_edit_transforms_v5.csv",
+      "source": "workspace/config/graphics_edit_transforms_v5.csv",
+      "bytes": 2823,
+      "sha256": "21209ac7f1ecd656b830992755d269edd88f84f6a0d7a68f8942fe813cd63b48"
+    },
+    {
+      "path": "workspace/config/graphics_edit_transforms_v6.csv",
+      "source": "workspace/config/graphics_edit_transforms_v6.csv",
+      "bytes": 2817,
+      "sha256": "526b58298a9ea79e137da3a7537a8f235d489e23b6fc68bcd2b000bf9a0b972d"
+    },
+    {
+      "path": "workspace/config/graphics_edit_transforms_v7.csv",
+      "source": "workspace/config/graphics_edit_transforms_v7.csv",
+      "bytes": 4288,
+      "sha256": "e44452963dbb9ef6a1ce20ebcc082e244282c48389b27d0cce2aaf99e9443fef"
+    },
+    {
+      "path": "workspace/config/graphics_edit_transforms_v8.csv",
+      "source": "workspace/config/graphics_edit_transforms_v8.csv",
+      "bytes": 4827,
+      "sha256": "eba79c177b75c22a668552028688e0803028f1260e2ab2b30acf66ed9caa30ae"
+    },
+    {
+      "path": "workspace/config/graphics_font_sources_v19_pfstardust.json",
+      "source": "workspace/config/graphics_font_sources_v19_pfstardust.json",
+      "bytes": 542,
+      "sha256": "b9dbb9194c625cb22b6fec052a694d61282d9eb424ba4e6e4ab27b8a59bf94e9"
+    },
+    {
+      "path": "workspace/config/graphics_logo_fonts_v20_pfstardust.json",
+      "source": "workspace/config/graphics_logo_fonts_v20_pfstardust.json",
+      "bytes": 443,
+      "sha256": "8693bb955f90565a2c3c1fa950ce865fe55ed4e3fcd0a2305814218d8e1a3f01"
+    },
+    {
+      "path": "workspace/config/graphics_missing_pda_v24.json",
+      "source": "workspace/config/graphics_missing_pda_v24.json",
+      "bytes": 1341,
+      "sha256": "a402560cbd0ba5385cdcd370512764a685a67d4fe0ca502a93749ca21c4fa9a5"
+    },
+    {
+      "path": "workspace/config/graphics_missing_pda_v24_probe.csv",
+      "source": "workspace/config/graphics_missing_pda_v24_probe.csv",
+      "bytes": 635,
+      "sha256": "54c34b59e9a114b7e6db6300a234839b99c775766804644a942b4bfdf63efb0c"
+    },
+    {
+      "path": "workspace/config/graphics_small_text_v21_pfstardust_regular.json",
+      "source": "workspace/config/graphics_small_text_v21_pfstardust_regular.json",
+      "bytes": 500,
+      "sha256": "9dd50f853c4d8d6c031a1d0ae6416bcf3640ccc8798465e40b42c8b18dd8b095"
+    },
+    {
+      "path": "workspace/config/graphics_small_text_v22_dunggeunmo.json",
+      "source": "workspace/config/graphics_small_text_v22_dunggeunmo.json",
+      "bytes": 533,
+      "sha256": "34cae70fa8a8baf38ebcd8693833bc21b9f875ba3e96763df4fa2071944f4adc"
+    },
+    {
+      "path": "workspace/config/graphics_small_text_v23_galmuri7.json",
+      "source": "workspace/config/graphics_small_text_v23_galmuri7.json",
+      "bytes": 450,
+      "sha256": "91c9fcb159d87f768eef9acd5003c5580a2285c1dd5756d07141330c9498f801"
+    },
+    {
+      "path": "workspace/config/graphics_small_text_v24_galmuri7.json",
+      "source": "workspace/config/graphics_small_text_v24_galmuri7.json",
+      "bytes": 390,
+      "sha256": "48214cb6e1c9560d8e2c92d6cc8c04d23a0ce45861968759c82c6818d36d5fdf"
+    },
+    {
+      "path": "workspace/config/graphics_small_text_v25_galmuri7.json",
+      "source": "workspace/config/graphics_small_text_v25_galmuri7.json",
+      "bytes": 357,
+      "sha256": "98cbcb63a75683dd0f9ecf42e07be85fc3b211c676959b1ee4341e568fbb8be0"
+    },
+    {
+      "path": "workspace/config/graphics_small_text_v34_palette_order_repairs.json",
+      "source": "workspace/config/graphics_small_text_v34_palette_order_repairs.json",
+      "bytes": 404,
+      "sha256": "ea32f56ceb16fb968b108c515ee1b25f34222bc2c0e449bfd833174398030128"
+    },
+    {
+      "path": "workspace/config/graphics_sys_icon_full_probe_v26.csv",
+      "source": "workspace/config/graphics_sys_icon_full_probe_v26.csv",
+      "bytes": 261,
+      "sha256": "e77784e7ce68fa60f25cdb454038f9b77dc440080a9f9cd5a5853d86206520f0"
+    },
+    {
+      "path": "workspace/config/graphics_translation_refine_v1.json",
+      "source": "workspace/config/graphics_translation_refine_v1.json",
+      "bytes": 4004,
+      "sha256": "8fda9a07a577ba0069c45551e49028d99c01a05f9a5b85cea2fb503d668f6b99"
+    },
+    {
+      "path": "workspace/config/graphics_translation_refine_v10.json",
+      "source": "workspace/config/graphics_translation_refine_v10.json",
+      "bytes": 556,
+      "sha256": "69798481d1b1ff62d8717325a8a69f4c119f7dae5d12aa32a91c45ae9070ff39"
+    },
+    {
+      "path": "workspace/config/graphics_translation_refine_v11.json",
+      "source": "workspace/config/graphics_translation_refine_v11.json",
+      "bytes": 6655,
+      "sha256": "1b778d69e4a5843585d11ad78a6fe8c18bc67a3cb04dbdd49cc2090a13bf6368"
+    },
+    {
+      "path": "workspace/config/graphics_translation_refine_v12.json",
+      "source": "workspace/config/graphics_translation_refine_v12.json",
+      "bytes": 2249,
+      "sha256": "6572fab899919f9315b665f032b3f76e5776465bd90bbd6ead8118e541ab73de"
+    },
+    {
+      "path": "workspace/config/graphics_translation_refine_v13.json",
+      "source": "workspace/config/graphics_translation_refine_v13.json",
+      "bytes": 97,
+      "sha256": "14e8976629de32b65465cb43dc7befdfc0b5d1bd8789e90b56530dd285ca0a3d"
+    },
+    {
+      "path": "workspace/config/graphics_translation_refine_v2.json",
+      "source": "workspace/config/graphics_translation_refine_v2.json",
+      "bytes": 685,
+      "sha256": "d40e6a2acc110af23dbe2a05cea18789092226e65db54abb25e9c979e84530a6"
+    },
+    {
+      "path": "workspace/config/graphics_translation_refine_v3.json",
+      "source": "workspace/config/graphics_translation_refine_v3.json",
+      "bytes": 1340,
+      "sha256": "196d5b89cc8026f43780de3cbb38a17a28241de67c2584a7de1853c041ba16fa"
+    },
+    {
+      "path": "workspace/config/graphics_translation_refine_v4.json",
+      "source": "workspace/config/graphics_translation_refine_v4.json",
+      "bytes": 869,
+      "sha256": "7c561fb1c553ae5b1354b71ad22e3a2b5ba15a20d45ae9e21dc12db473f07449"
+    },
+    {
+      "path": "workspace/config/graphics_translation_refine_v5.json",
+      "source": "workspace/config/graphics_translation_refine_v5.json",
+      "bytes": 2049,
+      "sha256": "3d44c18e613d51f2122f2599d6c5ee08d2740142639766d400edb9493729aa04"
+    },
+    {
+      "path": "workspace/config/graphics_translation_refine_v6.json",
+      "source": "workspace/config/graphics_translation_refine_v6.json",
+      "bytes": 556,
+      "sha256": "311ed4725da69d74a04ecce6af0e6cfef469c99ee2587ec23125af0ed6e1e6df"
+    },
+    {
+      "path": "workspace/config/graphics_translation_refine_v7.json",
+      "source": "workspace/config/graphics_translation_refine_v7.json",
+      "bytes": 556,
+      "sha256": "558b00ecb6cde7afe124e12f6effd2450768cbd626c8a2ca14dc34f5ed2bcfaa"
+    },
+    {
+      "path": "workspace/config/graphics_translation_refine_v8.json",
+      "source": "workspace/config/graphics_translation_refine_v8.json",
+      "bytes": 679,
+      "sha256": "e0feddd6ebe68aa8c7a78b220486becd7eb94429eb841efe2766cbb953b091fc"
+    },
+    {
+      "path": "workspace/config/graphics_translation_refine_v9.json",
+      "source": "workspace/config/graphics_translation_refine_v9.json",
+      "bytes": 679,
+      "sha256": "b0efd0569c0c5364964833ed6aef7550a3e5298c7ab70c679ee1ca0264a14530"
+    },
+    {
+      "path": "workspace/config/graphics_v34_inventory_probe.csv",
+      "source": "workspace/config/graphics_v34_inventory_probe.csv",
+      "bytes": 352,
+      "sha256": "78ade488a7d7f83430cb237618fbf5d2a4e0fa7fdba2b0fb1627a9e1a0717e04"
+    },
+    {
+      "path": "workspace/config/graphics_v34_palette_order_repairs.json",
+      "source": "workspace/config/graphics_v34_palette_order_repairs.json",
+      "bytes": 2741,
+      "sha256": "8f392981ddb3610b3e4ae8d1c5d6eaa26cf633245d0e5992015e425536b5a9c8"
+    },
+    {
+      "path": "workspace/config/hangul_code_pool_intro_poc_v1.json",
+      "source": "workspace/config/hangul_code_pool_intro_poc_v1.json",
+      "bytes": 430,
+      "sha256": "d4de7f1e81687a0226d8c689dda3e80485d513545ec765cdc602855498d5d3d5"
+    },
+    {
+      "path": "workspace/config/hangul_mapping_full_candidate_20260826_r2.json",
+      "source": "workspace/config/hangul_mapping_full_candidate_20260826_r2.json",
+      "bytes": 189840,
+      "sha256": "5401a427f2c3897fb7c0f394b996ce6ea1199d85aac111ca8488c6d63255715c"
+    },
+    {
+      "path": "workspace/config/hangul_mapping_full_candidate_20260828_r1.json",
+      "source": "workspace/config/hangul_mapping_full_candidate_20260828_r1.json",
+      "bytes": 189840,
+      "sha256": "ebfcd50235efa7808e68b5d1a31468f3a0f81794bc7288f6d9f264e709ea4512"
+    },
+    {
+      "path": "workspace/config/hangul_mapping_full_candidate_20260828_r2.json",
+      "source": "workspace/config/hangul_mapping_full_candidate_20260828_r2.json",
+      "bytes": 190072,
+      "sha256": "0d149c3b735c626a3b638de2a61da6128616c94226a26c8b9b43c59b879ab9b7"
+    },
+    {
+      "path": "workspace/config/hangul_mapping_full_candidate_20260828_v33.json",
+      "source": "workspace/config/hangul_mapping_full_candidate_20260828_v33.json",
+      "bytes": 190197,
+      "sha256": "318f5a932cae2e80f83814bd5531f3f2f8611c7a3eaddca1f23c44cb4fe96c24"
+    },
+    {
+      "path": "workspace/config/hangul_mapping_full_candidate_20260829_v34.json",
+      "source": "workspace/config/hangul_mapping_full_candidate_20260829_v34.json",
+      "bytes": 190073,
+      "sha256": "7584a8a842b4f1695781d1b43d684a2509d91389fa58d4df4e9f3c597a5c050a"
+    },
+    {
+      "path": "workspace/config/hangul_mapping_full_candidate_20260829_v35.json",
+      "source": "workspace/config/hangul_mapping_full_candidate_20260829_v35.json",
+      "bytes": 190073,
+      "sha256": "e7aa28ee36757030cb96eb71f3032f4a10726b3a4517a7beb88e72c948875171"
+    },
+    {
+      "path": "workspace/config/hangul_mapping_full_candidate_20260829_v36.json",
+      "source": "workspace/config/hangul_mapping_full_candidate_20260829_v36.json",
+      "bytes": 190073,
+      "sha256": "ca875c8d720eff15b5a8f727236737cd8070b5aa71bbcf4a4dc8931ec3cf966b"
+    },
+    {
+      "path": "workspace/config/hangul_mapping_full_candidate_20260829_v37.json",
+      "source": "workspace/config/hangul_mapping_full_candidate_20260829_v37.json",
+      "bytes": 190073,
+      "sha256": "95d7601561f5054edc6369f000985e05b49c806fdd2794233e3f04ee827b9d4b"
+    },
+    {
+      "path": "workspace/config/hangul_mapping_full_candidate_20260829_v38.json",
+      "source": "workspace/config/hangul_mapping_full_candidate_20260829_v38.json",
+      "bytes": 190073,
+      "sha256": "5d96ae2460c64ac7c720e68a8d3cb8fc1752da6fd979a0d16d33db214b5433d3"
+    },
+    {
+      "path": "workspace/config/hangul_mapping_full_candidate_20260829_v39.json",
+      "source": "workspace/config/hangul_mapping_full_candidate_20260829_v39.json",
+      "bytes": 190073,
+      "sha256": "bd3cdadff45118623ed570f92e9632c1e787c9f9bb377467c03752500737362a"
+    },
+    {
+      "path": "workspace/config/hangul_mapping_full_candidate_20260829_v40.json",
+      "source": "workspace/config/hangul_mapping_full_candidate_20260829_v40.json",
+      "bytes": 190073,
+      "sha256": "2a24e65d1c0cd1b92ba23bea0de87f2ba38cb7150f2537f64ce0ec5d9de623d6"
+    },
+    {
+      "path": "workspace/config/hangul_mapping_full_candidate_20260829_v41.json",
+      "source": "workspace/config/hangul_mapping_full_candidate_20260829_v41.json",
+      "bytes": 190073,
+      "sha256": "34af61afe53ba7c23559807ed068ac40c77861c0f8bf9afa550c38d97a189b61"
+    },
+    {
+      "path": "workspace/config/hangul_mapping_full_candidate_20260829_v42.json",
+      "source": "workspace/config/hangul_mapping_full_candidate_20260829_v42.json",
+      "bytes": 190073,
+      "sha256": "52f8a5ada947574794ac85e3276a2e49ccf32eb3bee95c0210188cc5aed17373"
+    },
+    {
+      "path": "workspace/config/hangul_mapping_full_candidate_20260829_v43.json",
+      "source": "workspace/config/hangul_mapping_full_candidate_20260829_v43.json",
+      "bytes": 190073,
+      "sha256": "ea3e161a52f7e72957e45608207ab5e4d18489ca6df2e529087ce5261f6cb0dc"
+    },
+    {
+      "path": "workspace/config/hangul_mapping_full_candidate_20260829_v44.json",
+      "source": "workspace/config/hangul_mapping_full_candidate_20260829_v44.json",
+      "bytes": 190073,
+      "sha256": "4caa26ff2136afe66c984e9802b052e9a2b7896e9be73f76b9cd033034619c22"
+    },
+    {
+      "path": "workspace/config/hangul_mapping_full_candidate_v1.json",
+      "source": "workspace/config/hangul_mapping_full_candidate_v1.json",
+      "bytes": 189831,
+      "sha256": "a139a996346bbf4aa212ca20702178c79bc3f1fd665517054515a8c9aae16b92"
+    },
+    {
+      "path": "workspace/config/hangul_mapping_intro_code_range_poc_v1.json",
+      "source": "workspace/config/hangul_mapping_intro_code_range_poc_v1.json",
+      "bytes": 1169,
+      "sha256": "f7fd76adb94948a69c7734adc5f24fff57dfd574dac5226d3443b2de2a3ff516"
+    },
+    {
+      "path": "workspace/config/hangul_mapping_intro_csv_relocation_poc_v1.json",
+      "source": "workspace/config/hangul_mapping_intro_csv_relocation_poc_v1.json",
+      "bytes": 4646,
+      "sha256": "243638a8ec3a506a72e3e244c6525d8b4e16ebb254c0d9cbf8c42c7df317dfff"
+    },
+    {
+      "path": "workspace/config/hangul_mapping_intro_poc_v1.json",
+      "source": "workspace/config/hangul_mapping_intro_poc_v1.json",
+      "bytes": 5083,
+      "sha256": "2d7da9fbf6a6e274f14c819c1b52b661f60a32aed140054d1ba7833a2dba07f5"
+    },
+    {
+      "path": "workspace/config/intro_csv_relocation_poc_v1.json",
+      "source": "workspace/config/intro_csv_relocation_poc_v1.json",
+      "bytes": 1175,
+      "sha256": "9b836262d23d034411689773c29fac6feb3dda9b1b13cd867df53d571f46dd8f"
+    },
+    {
+      "path": "workspace/config/intro_first_screen_poc_v1.json",
+      "source": "workspace/config/intro_first_screen_poc_v1.json",
+      "bytes": 1576,
+      "sha256": "82354e48383d3acef3bfb7d9a5627ae38344d7abb675e241c354bf20a1b91ff8"
+    },
+    {
+      "path": "workspace/config/opening_font_sources_v14.json",
+      "source": "workspace/config/opening_font_sources_v14.json",
+      "bytes": 986,
+      "sha256": "7f565cba97cfee63de2e26bd267bf8a580848350e41b1a6588dfacabe2c2de37"
+    },
+    {
+      "path": "workspace/config/opening_font_sources_v15.json",
+      "source": "workspace/config/opening_font_sources_v15.json",
+      "bytes": 504,
+      "sha256": "c4f2a2fb207c1d1487923084c9aa45ac44ba761cda63bc7ffaa05d19e5196b9b"
+    },
+    {
+      "path": "workspace/config/opening_haeong_graphics_v16.json",
+      "source": "workspace/config/opening_haeong_graphics_v16.json",
+      "bytes": 3111,
+      "sha256": "2e34cd186fe15a42ff4cf675d01dd0b98f774a07e13ebe1513ec1234de1d3082"
+    },
+    {
+      "path": "workspace/config/opening_haeong_graphics_v17.json",
+      "source": "workspace/config/opening_haeong_graphics_v17.json",
+      "bytes": 3111,
+      "sha256": "03aaf6d8d596fc0ffa4f09d300c0a1b969605de24d83077dafefd028cd9e2dcc"
+    },
+    {
+      "path": "workspace/config/opening_haeong_graphics_v18_outline.json",
+      "source": "workspace/config/opening_haeong_graphics_v18_outline.json",
+      "bytes": 3716,
+      "sha256": "fbe7b301a036544f9f99378a273a57efde9157e9456b700476a8984166036413"
+    },
+    {
+      "path": "workspace/config/pda_mark_alignment_candidates.csv",
+      "source": "workspace/config/pda_mark_alignment_candidates.csv",
+      "bytes": 1284,
+      "sha256": "a6bb7d119cac5e9f95f5a21a9a3291eb86120b20f6e91bf6de9bfc785a080d36"
+    },
+    {
+      "path": "workspace/config/pfstardust_graphics_v19.json",
+      "source": "workspace/config/pfstardust_graphics_v19.json",
+      "bytes": 10144,
+      "sha256": "f5f9a56ebc2b622a1473900ddcb6ef66ab91515876aa340859b02e5a411c8e5e"
+    },
+    {
+      "path": "workspace/config/pfstardust_graphics_v27_all_chapters.json",
+      "source": "workspace/config/pfstardust_graphics_v27_all_chapters.json",
+      "bytes": 12219,
+      "sha256": "c81af48eb6f8468b9c211b05ea7d07ea84bc6ae126d27515bd75684bbabd1677"
+    },
+    {
+      "path": "workspace/config/pfstardust_graphics_v27_all_chapters_r4_cleanup.json",
+      "source": "workspace/config/pfstardust_graphics_v27_all_chapters_r4_cleanup.json",
+      "bytes": 12287,
+      "sha256": "7039cbcfac2d234a999efb1b0ef25bd222ffc8b889f64d0a9265dea8ddf31849"
+    },
+    {
+      "path": "workspace/config/qa_environment.json",
+      "source": "workspace/config/qa_environment.json",
+      "bytes": 1083,
+      "sha256": "05d6d5046f59c3f03891d6dfab44691e3dcae8f902d8343f8d5249c727052433"
+    },
+    {
+      "path": "workspace/config/runtime_label_overrides_v35.json",
+      "source": "workspace/config/runtime_label_overrides_v35.json",
+      "bytes": 3668,
+      "sha256": "9ccc56592fa11c9a98ec1e01dc30bcd2dcd3794ff5aa3b5555b49dd8caa4be03"
+    },
+    {
+      "path": "workspace/config/source_rom.json",
+      "source": "workspace/config/source_rom.json",
+      "bytes": 1695,
+      "sha256": "a2cd3fa1b61b349f5b1d29e7ce898eb041e860baeb9fa5ac24f095f9d64cd54b"
+    },
+    {
+      "path": "workspace/graphics/README.md",
+      "source": "workspace/graphics/README.md",
+      "bytes": 4428,
+      "sha256": "0fac8ae56f12df92788b046ad628390e458aae19d007e9404f5e32cdfed69f2c"
+    },
+    {
+      "path": "workspace/graphics/baked_text_blocks_v1.csv",
+      "source": "workspace/graphics/baked_text_blocks_v1.csv",
+      "bytes": 412,
+      "sha256": "061a01c9896d4378a72112531ec1130bbc0d38241b3fe5d6861b5529298e3f60"
+    },
+    {
+      "path": "workspace/graphics/baked_text_blocks_v2.csv",
+      "source": "workspace/graphics/baked_text_blocks_v2.csv",
+      "bytes": 4129,
+      "sha256": "ebfb87e9e9540f68fa84cae1be27537449f9fc070011144b7269aeee84536ca5"
+    },
+    {
+      "path": "workspace/graphics/baked_text_blocks_v27_chapters_locations.csv",
+      "source": "workspace/graphics/baked_text_blocks_v27_chapters_locations.csv",
+      "bytes": 4792,
+      "sha256": "ace5d2f56ddec547f5c05919e063bdc53e63cb184d40ca32ae064cb20cc82c1c"
+    },
+    {
+      "path": "workspace/graphics/baked_text_blocks_v3.csv",
+      "source": "workspace/graphics/baked_text_blocks_v3.csv",
+      "bytes": 4466,
+      "sha256": "cb5dbf908738d6cc4c3bd93726395fcbf89ce2230f2e625fd0e6c6b1b53b7249"
+    },
+    {
+      "path": "workspace/graphics/baked_text_blocks_v4.csv",
+      "source": "workspace/graphics/baked_text_blocks_v4.csv",
+      "bytes": 4611,
+      "sha256": "b42ee816440ad1826e3099ab10dcdcac34da23ba3c3de9e1b0f07c95f2703d99"
+    },
+    {
+      "path": "workspace/graphics/baked_text_blocks_v5.csv",
+      "source": "workspace/graphics/baked_text_blocks_v5.csv",
+      "bytes": 4653,
+      "sha256": "34d57d300bb79fddd73febdb7424128e4ac3fc455aad3a12d98bc2cc1e86316f"
+    },
+    {
+      "path": "workspace/graphics/baked_text_blocks_v6.csv",
+      "source": "workspace/graphics/baked_text_blocks_v6.csv",
+      "bytes": 4671,
+      "sha256": "51777a258508b2b7a248d61a40b54affd7c528887f4a48f47440aa2cb8b4c908"
+    },
+    {
+      "path": "workspace/graphics/baked_text_blocks_v7.csv",
+      "source": "workspace/graphics/baked_text_blocks_v7.csv",
+      "bytes": 4645,
+      "sha256": "8d79784482308d0134eb800b5fb71d4d1a3223c2baa828e862aa9ed2b96a9c33"
+    },
+    {
+      "path": "workspace/graphics/baked_text_blocks_v8.csv",
+      "source": "workspace/graphics/baked_text_blocks_v8.csv",
+      "bytes": 4658,
+      "sha256": "54a05c8c5a2d92cb24aadd0edfeb7827c29922a3313134a4ea0ce62cbcf56105"
+    },
+    {
+      "path": "workspace/graphics/baked_text_blocks_v9.csv",
+      "source": "workspace/graphics/baked_text_blocks_v9.csv",
+      "bytes": 8418,
+      "sha256": "c31c7d19fcd1c502156a15e64fe7c6e926ff752be22c88219b261af9b8c31c50"
+    },
+    {
+      "path": "workspace/graphics/open_review.cmd",
+      "source": "workspace/graphics/open_review.cmd",
+      "bytes": 47,
+      "sha256": "13269afe19518f5911ab3a91cab035555597da87b316d326285059ceaf336ab8"
+    },
+    {
+      "path": "workspace/graphics/runtime_untranslated_items_v28.csv",
+      "source": "workspace/graphics/runtime_untranslated_items_v28.csv",
+      "bytes": 3500,
+      "sha256": "5b2aa7a2b415e54d93cdad6eafbccd30a696a3d9bf2e4dbb94b93f5b242d5c5f"
+    },
+    {
+      "path": "workspace/graphics/pack_v2/catalog.csv",
+      "source": "workspace/graphics/pack_v2/catalog.csv",
+      "bytes": 445486,
+      "sha256": "cd5b8b52cf5cd79e73e292b59b4c7187c0516e7117ea6e7d482e79612b3ea066"
+    },
+    {
+      "path": "workspace/graphics/pack_v2/model_texture_catalog.csv",
+      "source": "workspace/graphics/pack_v2/model_texture_catalog.csv",
+      "bytes": 74876,
+      "sha256": "f2ca87abd19f5c5f1ac511bce5972121f0e2e34f01cf33053ac751e6a91cea57"
+    },
+    {
+      "path": "workspace/graphics/pack_v2/report.json",
+      "source": "workspace/graphics/pack_v2/report.json",
+      "bytes": 1195120,
+      "sha256": "d2b67dc88e4a6c8d1b586c78f73f41a5a47b070cc7677440b755f9f95f608df3"
+    },
+    {
+      "path": "workspace/graphics/translate_candle_restart_v39_myst03_tex_preview_r3_centered_clean/report.json",
+      "source": "workspace/graphics/translate_candle_restart_v39_myst03_tex_preview_r3_centered_clean/report.json",
+      "bytes": 2275,
+      "sha256": "24322396764b3ae7798bd904adb089a355d46d090b7237092181b4bf51163e91"
+    },
+    {
+      "path": "workspace/graphics/translate_doll_back_v38_myst00_tex_preview_r4_flip_y_large_clean/report.json",
+      "source": "workspace/graphics/translate_doll_back_v38_myst00_tex_preview_r4_flip_y_large_clean/report.json",
+      "bytes": 2269,
+      "sha256": "d29518ce5a99444ea38f2c71b65847a51977f3188c53ce4022ebe2dd9fc807d7"
+    },
+    {
+      "path": "workspace/graphics/translate_photo_back_v34_myst00_preview_r3/report.json",
+      "source": "workspace/graphics/translate_photo_back_v34_myst00_preview_r3/report.json",
+      "bytes": 1900,
+      "sha256": "58c5dcf7b53c44bee46037b98e94ae4e8ca51122eef10c34fab94374313ee426"
+    },
+    {
+      "path": "workspace/graphics/translate_refined_v27_all_chapters_locations_preview_r4_cleanup_final/report.json",
+      "source": "workspace/graphics/translate_refined_v27_all_chapters_locations_preview_r4_cleanup_final/report.json",
+      "bytes": 69756,
+      "sha256": "75772ef89f4118ac6655c0d9b8aae2cd5da1b4d1bfbfe7e2dd05326b2b14f66a"
+    },
+    {
+      "path": "workspace/graphics/translate_v34_palette_order_repairs_preview_r8_final/report.json",
+      "source": "workspace/graphics/translate_v34_palette_order_repairs_preview_r8_final/report.json",
+      "bytes": 55096,
+      "sha256": "269ca4634267502b1c92e1a5e67ea54360633ef1d4d5a167a9db59f114e47aac"
+    },
+    {
+      "path": "workspace/scripts/analyze_dialogue_layout_profiles.py",
+      "source": "workspace/scripts/analyze_dialogue_layout_profiles.py",
+      "bytes": 6191,
+      "sha256": "44c391d3f2865539f007ecdea700c041855cb2865809f3c5bda51011d7c85f52"
+    },
+    {
+      "path": "workspace/scripts/analyze_font_sheet.py",
+      "source": "workspace/scripts/analyze_font_sheet.py",
+      "bytes": 3922,
+      "sha256": "ba40d0ff87d8ebe270bf58a903ca41fc3d7552dd999344a4935c2e989de0d528"
+    },
+    {
+      "path": "workspace/scripts/analyze_full_hangul_code_pool.py",
+      "source": "workspace/scripts/analyze_full_hangul_code_pool.py",
+      "bytes": 14062,
+      "sha256": "ab51ed4b63e07c06c9cd89eff5de2bbc4759459b3837eb41e44dcf6c3e5dd737"
+    },
+    {
+      "path": "workspace/scripts/analyze_game_font.py",
+      "source": "workspace/scripts/analyze_game_font.py",
+      "bytes": 4208,
+      "sha256": "012cc33983d38f10043e986b60a12e432fc20d73c907e383f07cfdc0ead4b203"
+    },
+    {
+      "path": "workspace/scripts/analyze_pack_resources.py",
+      "source": "workspace/scripts/analyze_pack_resources.py",
+      "bytes": 25188,
+      "sha256": "f12748a5c939646c8b31259d9dd20933ebde72e59a669980d44141a4f64fb175"
+    },
+    {
+      "path": "workspace/scripts/analyze_photo_command_gpu3d.py",
+      "source": "workspace/scripts/analyze_photo_command_gpu3d.py",
+      "bytes": 6854,
+      "sha256": "aef2cf5c353cb1eb4debcaa3f4d092e7cb07b100029a98cdf0252f8ff54183b8"
+    },
+    {
+      "path": "workspace/scripts/analyze_photo_command_runtime.py",
+      "source": "workspace/scripts/analyze_photo_command_runtime.py",
+      "bytes": 5584,
+      "sha256": "801c65fab5e82f3e54db51a0507131e93503c27f15c13acf4f20c1f890558b41"
+    },
+    {
+      "path": "workspace/scripts/analyze_prior_patch_text.py",
+      "source": "workspace/scripts/analyze_prior_patch_text.py",
+      "bytes": 4460,
+      "sha256": "fb46c792d960ac2f1793ce6ca27789596c52e7239980e43092bbb6b2948c409b"
+    },
+    {
+      "path": "workspace/scripts/analyze_text_population.py",
+      "source": "workspace/scripts/analyze_text_population.py",
+      "bytes": 11640,
+      "sha256": "35d9dc6a8d939b0a7a41a87f990db5de8f0096f12357ca064c72d9446ec03cdd"
+    },
+    {
+      "path": "workspace/scripts/analyze_text_references.py",
+      "source": "workspace/scripts/analyze_text_references.py",
+      "bytes": 4626,
+      "sha256": "88aca641a49ead26f7a9a3946f4e41f11500db2a81618e966ce5c29d2957c975"
+    },
+    {
+      "path": "workspace/scripts/analyze_translation_relocation.py",
+      "source": "workspace/scripts/analyze_translation_relocation.py",
+      "bytes": 23043,
+      "sha256": "297e7427f1efbc6d87f30590d917513332b429088becf944086aa485ff6a1722"
+    },
+    {
+      "path": "workspace/scripts/assemble_v33_graphics_population.py",
+      "source": "workspace/scripts/assemble_v33_graphics_population.py",
+      "bytes": 7115,
+      "sha256": "e659eca7ae6180cf365cdce88e73996f9f1573f1e586dc1281fe954c4c7a8e7e"
+    },
+    {
+      "path": "workspace/scripts/assemble_v34_graphics_population.py",
+      "source": "workspace/scripts/assemble_v34_graphics_population.py",
+      "bytes": 9722,
+      "sha256": "e1c50f530ff8141713a039a3e232d3bd3e4b78f5d6662795717e63bf4c68676b"
+    },
+    {
+      "path": "workspace/scripts/assemble_v35_graphics_population.py",
+      "source": "workspace/scripts/assemble_v35_graphics_population.py",
+      "bytes": 4789,
+      "sha256": "c94a9276b5d68a8cb3c067678cde47e31dbcdc4fa896b01ae75772c65fedbb4d"
+    },
+    {
+      "path": "workspace/scripts/assemble_v37_graphics_population.py",
+      "source": "workspace/scripts/assemble_v37_graphics_population.py",
+      "bytes": 5644,
+      "sha256": "bac6e4b95426e2063b06c0fe354be3de14029834a3ffe815362b1790ce8f2ce7"
+    },
+    {
+      "path": "workspace/scripts/assemble_v38_graphics_population.py",
+      "source": "workspace/scripts/assemble_v38_graphics_population.py",
+      "bytes": 5103,
+      "sha256": "7cbaa64ce2221542c93026f244500c2a98f149fe3bae0180e0751cb5659cb26e"
+    },
+    {
+      "path": "workspace/scripts/assemble_v39_graphics_population.py",
+      "source": "workspace/scripts/assemble_v39_graphics_population.py",
+      "bytes": 5647,
+      "sha256": "09dfc36378dea050d2f855dbb6a6c6b6f43acc4082908e36555924afa2203c89"
+    },
+    {
+      "path": "workspace/scripts/audit_translation_csv.py",
+      "source": "workspace/scripts/audit_translation_csv.py",
+      "bytes": 18201,
+      "sha256": "0a05fa473ee127cbcfb46b6dc197acb6588738612865f02f74ce42c78d89654a"
+    },
+    {
+      "path": "workspace/scripts/build_dialogue_e2e.py",
+      "source": "workspace/scripts/build_dialogue_e2e.py",
+      "bytes": 10163,
+      "sha256": "408a38d8027925888ff115890d3123a5edc6a05562874668f26773587846b7a6"
+    },
+    {
+      "path": "workspace/scripts/build_dunggeunmo_graphics_v22.py",
+      "source": "workspace/scripts/build_dunggeunmo_graphics_v22.py",
+      "bytes": 3688,
+      "sha256": "74e418c2c3e26f586fde2053ce22bfa733581ed9a83daa93a7559018ff5c9b88"
+    },
+    {
+      "path": "workspace/scripts/build_font_poc.py",
+      "source": "workspace/scripts/build_font_poc.py",
+      "bytes": 8701,
+      "sha256": "f71ca468cd838a555d2f29cf6989ee6f2543f84a3503b0e9af72ad2b6258a63f"
+    },
+    {
+      "path": "workspace/scripts/build_full_translation_qa.py",
+      "source": "workspace/scripts/build_full_translation_qa.py",
+      "bytes": 26035,
+      "sha256": "ee095bb9ee960d91effcd5a3c8e298674a9cccee74fa6ec7be69b468b836723d"
+    },
+    {
+      "path": "workspace/scripts/build_galmuri7_system_labels_v23.py",
+      "source": "workspace/scripts/build_galmuri7_system_labels_v23.py",
+      "bytes": 13509,
+      "sha256": "bf929ebd8f0b2be93608eef71f7babda4e7b2ce1e7cd1446e6dce50899fd403a"
+    },
+    {
+      "path": "workspace/scripts/build_graphics_edit_canvases.py",
+      "source": "workspace/scripts/build_graphics_edit_canvases.py",
+      "bytes": 10068,
+      "sha256": "1de782f1a262249edfc73b6a064c11027bc5974506cc45df5639473a7c087824"
+    },
+    {
+      "path": "workspace/scripts/build_graphics_pack_qa.py",
+      "source": "workspace/scripts/build_graphics_pack_qa.py",
+      "bytes": 28705,
+      "sha256": "f6e368d71319f3a8b6437fc124fb0ea4610e1972e846ebd84b1d194fd4753c47"
+    },
+    {
+      "path": "workspace/scripts/build_graphics_review.py",
+      "source": "workspace/scripts/build_graphics_review.py",
+      "bytes": 13052,
+      "sha256": "0c2d353c42296421f2cdedc90b0f016b47ca2818e3a85f40a428f170c4308972"
+    },
+    {
+      "path": "workspace/scripts/build_graphics_text_census_sheets.py",
+      "source": "workspace/scripts/build_graphics_text_census_sheets.py",
+      "bytes": 2976,
+      "sha256": "4d4a463bac79c61b6ccbd5b1ccc329f748f90728ed95c4bf9273229246fbd557"
+    },
+    {
+      "path": "workspace/scripts/build_myst00_back_preview.py",
+      "source": "workspace/scripts/build_myst00_back_preview.py",
+      "bytes": 8714,
+      "sha256": "c4005ab98c006e7a6ac0f33101c4af38c70415d980ca385f812f6eb11ea5cff3"
+    },
+    {
+      "path": "workspace/scripts/build_myst00_tex_back_preview.py",
+      "source": "workspace/scripts/build_myst00_tex_back_preview.py",
+      "bytes": 8429,
+      "sha256": "6143c6dfa7bbc43c585efda2a0776aaf44176b28613876e9151fa77f5a343106"
+    },
+    {
+      "path": "workspace/scripts/build_myst03_tex_restart_preview.py",
+      "source": "workspace/scripts/build_myst03_tex_restart_preview.py",
+      "bytes": 8452,
+      "sha256": "ac1b63897c747ee228ec84abb64d37d25060b1e992d9f55d737b754c0c70f406"
+    },
+    {
+      "path": "workspace/scripts/build_opening_1948_font_poc.py",
+      "source": "workspace/scripts/build_opening_1948_font_poc.py",
+      "bytes": 9767,
+      "sha256": "e28f1a30a64e92fc51979b6976fd4061f4e213aebcb2721d6880c42ee277e2b6"
+    },
+    {
+      "path": "workspace/scripts/build_opening_1948_ttf_poc.py",
+      "source": "workspace/scripts/build_opening_1948_ttf_poc.py",
+      "bytes": 6154,
+      "sha256": "ea052ad614f689ebf45f8da6d7d0838a7ec37865a9e6203523c588ba97e09850"
+    },
+    {
+      "path": "workspace/scripts/build_opening_haeong_graphics.py",
+      "source": "workspace/scripts/build_opening_haeong_graphics.py",
+      "bytes": 10582,
+      "sha256": "9d36647c3d274e02363307fa250f770055f233158a6db37152f1b59818b48aaf"
+    },
+    {
+      "path": "workspace/scripts/build_pfstardust_graphics.py",
+      "source": "workspace/scripts/build_pfstardust_graphics.py",
+      "bytes": 17287,
+      "sha256": "da563857af78032605c7d619fa6aaab97001124edbbf85033d2194c790631df0"
+    },
+    {
+      "path": "workspace/scripts/build_pfstardust_graphics_v20.py",
+      "source": "workspace/scripts/build_pfstardust_graphics_v20.py",
+      "bytes": 9407,
+      "sha256": "e5223fe5ab358c7841c9f74da60d37a43b03bfa77f7c79ee1c8485247df49439"
+    },
+    {
+      "path": "workspace/scripts/build_pfstardust_graphics_v21.py",
+      "source": "workspace/scripts/build_pfstardust_graphics_v21.py",
+      "bytes": 11251,
+      "sha256": "8aceb65200e7def5ffe7a558e13893681d4d5e6f746ea0a09dce0c4968206055"
+    },
+    {
+      "path": "workspace/scripts/build_photo_command_cur_u_preview.py",
+      "source": "workspace/scripts/build_photo_command_cur_u_preview.py",
+      "bytes": 8822,
+      "sha256": "3e6f30292cac4c66bb6191376b6dd3242afd2828eff47605c306a24a22523f2e"
+    },
+    {
+      "path": "workspace/scripts/build_photo_command_cur_u_runtime_linear_preview.py",
+      "source": "workspace/scripts/build_photo_command_cur_u_runtime_linear_preview.py",
+      "bytes": 9527,
+      "sha256": "8abbbca7de9d3ea59973341b9c92a7f4b7f78be889f42dcf46f56fb351db85dd"
+    },
+    {
+      "path": "workspace/scripts/build_photo_command_p02_preview.py",
+      "source": "workspace/scripts/build_photo_command_p02_preview.py",
+      "bytes": 7617,
+      "sha256": "c9ce57769a20fd0379120d5e8dadf3942ea4a7b9cddb6791956d5d379051e8ab"
+    },
+    {
+      "path": "workspace/scripts/build_photo_command_p02_qa.py",
+      "source": "workspace/scripts/build_photo_command_p02_qa.py",
+      "bytes": 15770,
+      "sha256": "8123af002129d15310a58f0ceb02c4a8861bfe3155bc8c5ec3b32180de92eda5"
+    },
+    {
+      "path": "workspace/scripts/build_public_retrospective_html.py",
+      "source": "workspace/scripts/build_public_retrospective_html.py",
+      "bytes": 29559,
+      "sha256": "f31c2900fd9a07e55ac9cd616d13135444c9827c8bd3127c7d3bede5e4b8039d"
+    },
+    {
+      "path": "workspace/scripts/build_retrospective_figures.py",
+      "source": "workspace/scripts/build_retrospective_figures.py",
+      "bytes": 9902,
+      "sha256": "f801ea8e78046a477b3f3497d8bc040b442decee8ac6a3811f55092d32a6faa2"
+    },
+    {
+      "path": "workspace/scripts/build_translation_batch.py",
+      "source": "workspace/scripts/build_translation_batch.py",
+      "bytes": 10180,
+      "sha256": "966e1fa6810690379dd9d59b0a2f59f51cb2c3a770379cef76c9cd878694c595"
+    },
+    {
+      "path": "workspace/scripts/build_translation_relocation_poc.py",
+      "source": "workspace/scripts/build_translation_relocation_poc.py",
+      "bytes": 22675,
+      "sha256": "47cf0b716d6935dacf16696aef7bbbb606c1e4204f2473881fdb572b59c95d2f"
+    },
+    {
+      "path": "workspace/scripts/dump_melonds_nds_memory.py",
+      "source": "workspace/scripts/dump_melonds_nds_memory.py",
+      "bytes": 17730,
+      "sha256": "7ee8f36c5b845a7714c8508f4a0353eba102ef911a525ac810b98769849ac864"
+    },
+    {
+      "path": "workspace/scripts/export_translation_csv.py",
+      "source": "workspace/scripts/export_translation_csv.py",
+      "bytes": 11395,
+      "sha256": "8c711d3dc55f4b52f762f614b864d04c67cbfe760d9de5ce93c850c99aaf7c96"
+    },
+    {
+      "path": "workspace/scripts/extract_pack_graphics.py",
+      "source": "workspace/scripts/extract_pack_graphics.py",
+      "bytes": 23246,
+      "sha256": "1cd173397aafc3574f2212818919df2cabb1b4a51293730259698b05b1cd273c"
+    },
+    {
+      "path": "workspace/scripts/extract_script_candidates.py",
+      "source": "workspace/scripts/extract_script_candidates.py",
+      "bytes": 7766,
+      "sha256": "b8f0e26f89ef7df4dccc3aea160f468233a00d2eb8f3d7a4e6fd3273e6bec015"
+    },
+    {
+      "path": "workspace/scripts/generate_full_hangul_mapping.py",
+      "source": "workspace/scripts/generate_full_hangul_mapping.py",
+      "bytes": 7765,
+      "sha256": "31b1f559dd2524305bda36e6b410778eed7a4f0e04611254ee566041fcb08e15"
+    },
+    {
+      "path": "workspace/scripts/generate_hangul_mapping.py",
+      "source": "workspace/scripts/generate_hangul_mapping.py",
+      "bytes": 4755,
+      "sha256": "3b451b4b5c6f4e463e850f5e5e12cc53758aaf0bb97921a0d906bca6dae5f49b"
+    },
+    {
+      "path": "workspace/scripts/make_release_dist.py",
+      "source": "workspace/scripts/make_release_dist.py",
+      "bytes": 15950,
+      "sha256": "adb1c087ea8322f49e4dde9f531b85f797215f7a524c4e22eb8f884eea7e0bfe"
+    },
+    {
+      "path": "workspace/scripts/nds_inventory.py",
+      "source": "workspace/scripts/nds_inventory.py",
+      "bytes": 16881,
+      "sha256": "bdb47b8f30167fea9ca536b8a57d1ce1b241e264403f70ac1c50069258a79235"
+    },
+    {
+      "path": "workspace/scripts/normalize_translated_graphics.py",
+      "source": "workspace/scripts/normalize_translated_graphics.py",
+      "bytes": 9270,
+      "sha256": "8f1481ffe6523e58f70e20e9596ab3a9af5bffefb6550f40af56e842ded6632c"
+    },
+    {
+      "path": "workspace/scripts/refine_translated_graphics.py",
+      "source": "workspace/scripts/refine_translated_graphics.py",
+      "bytes": 22208,
+      "sha256": "fb65d2765767a25bf12076f4bccbc2a7e10150c49c239978c14427f9dfc928e1"
+    },
+    {
+      "path": "workspace/scripts/render_nds_vram_tile_sheets.py",
+      "source": "workspace/scripts/render_nds_vram_tile_sheets.py",
+      "bytes": 2382,
+      "sha256": "257ccb1fb918559e43f37c3bf214e17460eb34ed399f212ef26c21841ce5a344"
+    },
+    {
+      "path": "workspace/scripts/render_pack_index_previews.py",
+      "source": "workspace/scripts/render_pack_index_previews.py",
+      "bytes": 7500,
+      "sha256": "e73b007d29598ddae19aad6476fb5cdc56471d392231736f7e74312b2b4c24ed"
+    },
+    {
+      "path": "workspace/scripts/restore_translation_csv_protected_fields.py",
+      "source": "workspace/scripts/restore_translation_csv_protected_fields.py",
+      "bytes": 3695,
+      "sha256": "04f53445e5f535963e08029236b6f612aaedd7d7110bed8a26978b91c2a15b37"
+    },
+    {
+      "path": "workspace/scripts/scan_melonds_live_labels.py",
+      "source": "workspace/scripts/scan_melonds_live_labels.py",
+      "bytes": 11417,
+      "sha256": "232231fea0e424daeeda2bf1d603678efaa231295e3f222bebf3c3e58d2aafbb"
+    },
+    {
+      "path": "workspace/tests/test_analysis_tools.py",
+      "source": "workspace/tests/test_analysis_tools.py",
+      "bytes": 38644,
+      "sha256": "f2fbecd8d385e2dc8bd45ef1a44e968579ba5cb2bfe00225c21ff97bafe12cdb"
+    },
+    {
+      "path": "workspace/text/translation/README_translation_csv.md",
+      "source": "workspace/text/translation/README_translation_csv.md",
+      "bytes": 3730,
+      "sha256": "30c762c0c3dd7f1186eabbf6f2bb6735174a00ad34f01b15fbc74200eb3ed15f"
+    },
+    {
+      "path": "workspace/text/translation/another_code_full_text_v1.csv",
+      "source": "workspace/text/translation/another_code_full_text_v1.csv",
+      "bytes": 3247305,
+      "sha256": "9a4701947a81db3bc0c73bf7d9350ff28ee4b1f9271d79fb7720c97d81ec1f0e"
+    },
+    {
+      "path": "workspace/text/translation/another_code_full_text_v1_ko.csv",
+      "source": "workspace/text/translation/another_code_full_text_v1_ko.csv",
+      "bytes": 3730341,
+      "sha256": "0dad428f502f6231af5383c02e26454bf47d5e81acc7951df342e69c6008a861"
+    },
+    {
+      "path": "workspace/text/translation/dialogue_e2e_v1.json",
+      "source": "workspace/text/translation/dialogue_e2e_v1.json",
+      "bytes": 494,
+      "sha256": "9111e258f41d99f924ed6c9f51d731b565cc96357bb3123a78aa5d0c749dfd9e"
+    },
+    {
+      "path": "workspace/text/translation/intro_code_range_poc_v1.json",
+      "source": "workspace/text/translation/intro_code_range_poc_v1.json",
+      "bytes": 1171,
+      "sha256": "dda1d09780c1a056156ee99efc09c1645db8869705f0a5b758fe0038a449f556"
+    },
+    {
+      "path": "workspace/text/translation/intro_first_screen_poc_v1.json",
+      "source": "workspace/text/translation/intro_first_screen_poc_v1.json",
+      "bytes": 562,
+      "sha256": "689c6666a96c0a3533281802b86c2c79f53eb0b4a7f10b24e686185e8d39e452"
+    },
+    {
+      "path": "workspace/text/translation/intro_prologue_poc_v1.json",
+      "source": "workspace/text/translation/intro_prologue_poc_v1.json",
+      "bytes": 2605,
+      "sha256": "8ef6c0e9b4f1f37f13d328cf9d2d0b6ea18feab6239b0260cbef349150c3450c"
+    },
+    {
+      "path": "tools/dialogue_editor/README.md",
+      "source": "tools/dialogue_editor/README.md",
+      "bytes": 3353,
+      "sha256": "74301b29d5e23296b0cd2b9044e0c6e98cb80cc5590a1cbeccb2695fb5acda41"
+    },
+    {
+      "path": "tools/dialogue_editor/another_code_dialogue_editor.py",
+      "source": "tools/dialogue_editor/another_code_dialogue_editor.py",
+      "bytes": 49124,
+      "sha256": "8b6892af14e5d2c979230e6ef4d298c8ab5f1b59f8bfd078ecaf1124dd9aaaa3"
+    },
+    {
+      "path": "tools/dialogue_editor/another_code_layout_profiles.json",
+      "source": "tools/dialogue_editor/another_code_layout_profiles.json",
+      "bytes": 3008,
+      "sha256": "a52eebd9198baef9ad8c279f4448b44942e2c8e70316dd9c4fd6a783d34d8a8b"
+    },
+    {
+      "path": "tools/dialogue_editor/test_another_code_dialogue_editor.py",
+      "source": "tools/dialogue_editor/test_another_code_dialogue_editor.py",
+      "bytes": 6514,
+      "sha256": "3b724aed2de9269f882d8f01d38d06bcf474e4dc46eab0188ab5beefed15ee9e"
+    },
+    {
+      "path": "docs/PROJECT_NOTES.md",
+      "source": "README.md",
+      "bytes": 16478,
+      "sha256": "b658a9a02362d08d89702157672feee1f299f9563c41f3eb2267cb7a6604b6a0"
+    }
+  ]
+}

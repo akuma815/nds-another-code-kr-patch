@@ -1,0 +1,19 @@
+{
+  "schema_version": 1,
+  "font": {
+    "path": "../../../../Font/PF스타더스트 3.0 Bold.ttf",
+    "sha256": "D23021D127C8E020843B5A39D3FA27B4A92D62598F06DC541538318FD0A4F4C1",
+    "format": "truetype_pixel_style",
+    "binary_threshold": 128,
+    "roles": [
+      "title_logo",
+      "title_menu",
+      "title_touch",
+      "chapter_card",
+      "opening_caption",
+      "system_icon",
+      "pda_icon"
+    ]
+  },
+  "decision": "Use the user-selected PF Stardust 3.0 Bold font for every baked Korean text graphic in the v19 QA set."
+}

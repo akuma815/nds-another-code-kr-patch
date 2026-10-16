@@ -1,0 +1,263 @@
+{
+  "schema_version": 1,
+  "mapping_id": "intro-prologue-poc-v1-mapping",
+  "status": "development_poc_mapping_not_whole_game_approved",
+  "source_sha256": "6C8CB19DE7B86DC5F1147E4927D6916571968A06B5C2E9B88F62C22C271DD0A1",
+  "batch_id": "intro-prologue-poc-v1",
+  "pool_id": "intro-poc-high-sjis-unused-v1",
+  "font_sha256": "3EE2A45C20120C42705AE3EE9540DB191A1443E110ECA6D0C4A1760CBE0B91E5",
+  "character_count": 50,
+  "available_pool_count": 61,
+  "mappings": [
+    {
+      "character": "열",
+      "code": "9871",
+      "glyph_index": 4373
+    },
+    {
+      "character": "셋",
+      "code": "9870",
+      "glyph_index": 4372
+    },
+    {
+      "character": "마",
+      "code": "986F",
+      "glyph_index": 4371
+    },
+    {
+      "character": "지",
+      "code": "986E",
+      "glyph_index": 4370
+    },
+    {
+      "character": "막",
+      "code": "986D",
+      "glyph_index": 4369
+    },
+    {
+      "character": "아",
+      "code": "986C",
+      "glyph_index": 4368
+    },
+    {
+      "character": "침",
+      "code": "986B",
+      "glyph_index": 4367
+    },
+    {
+      "character": "기",
+      "code": "986A",
+      "glyph_index": 4366
+    },
+    {
+      "character": "분",
+      "code": "9869",
+      "glyph_index": 4365
+    },
+    {
+      "character": "은",
+      "code": "9868",
+      "glyph_index": 4364
+    },
+    {
+      "character": "최",
+      "code": "9867",
+      "glyph_index": 4363
+    },
+    {
+      "character": "악",
+      "code": "9866",
+      "glyph_index": 4362
+    },
+    {
+      "character": "이",
+      "code": "9865",
+      "glyph_index": 4361
+    },
+    {
+      "character": "었",
+      "code": "9864",
+      "glyph_index": 4360
+    },
+    {
+      "character": "다",
+      "code": "9863",
+      "glyph_index": 4359
+    },
+    {
+      "character": "바",
+      "code": "984D",
+      "glyph_index": 4337
+    },
+    {
+      "character": "로",
+      "code": "984B",
+      "glyph_index": 4335
+    },
+    {
+      "character": "그",
+      "code": "9849",
+      "glyph_index": 4333
+    },
+    {
+      "character": "날",
+      "code": "9848",
+      "glyph_index": 4332
+    },
+    {
+      "character": "나",
+      "code": "9847",
+      "glyph_index": 4331
+    },
+    {
+      "character": "는",
+      "code": "985C",
+      "glyph_index": 4352
+    },
+    {
+      "character": "저",
+      "code": "9845",
+      "glyph_index": 4329
+    },
+    {
+      "character": "멀",
+      "code": "9844",
+      "glyph_index": 4328
+    },
+    {
+      "character": "리",
+      "code": "9843",
+      "glyph_index": 4327
+    },
+    {
+      "character": "블",
+      "code": "9842",
+      "glyph_index": 4326
+    },
+    {
+      "character": "러",
+      "code": "9840",
+      "glyph_index": 4324
+    },
+    {
+      "character": "드",
+      "code": "97FC",
+      "glyph_index": 4323
+    },
+    {
+      "character": "에",
+      "code": "97FB",
+      "glyph_index": 4322
+    },
+    {
+      "character": "워",
+      "code": "97FA",
+      "glyph_index": 4321
+    },
+    {
+      "character": "섬",
+      "code": "97F9",
+      "glyph_index": 4320
+    },
+    {
+      "character": "으",
+      "code": "97F8",
+      "glyph_index": 4319
+    },
+    {
+      "character": "향",
+      "code": "97F7",
+      "glyph_index": 4318
+    },
+    {
+      "character": "하",
+      "code": "97F6",
+      "glyph_index": 4317
+    },
+    {
+      "character": "조",
+      "code": "97F5",
+      "glyph_index": 4316
+    },
+    {
+      "character": "만",
+      "code": "9857",
+      "glyph_index": 4347
+    },
+    {
+      "character": "배",
+      "code": "97F4",
+      "glyph_index": 4315
+    },
+    {
+      "character": "위",
+      "code": "97F3",
+      "glyph_index": 4314
+    },
+    {
+      "character": "있",
+      "code": "97F2",
+      "glyph_index": 4313
+    },
+    {
+      "character": "파",
+      "code": "9860",
+      "glyph_index": 4356
+    },
+    {
+      "character": "도",
+      "code": "985D",
+      "glyph_index": 4353
+    },
+    {
+      "character": "주",
+      "code": "985B",
+      "glyph_index": 4351
+    },
+    {
+      "character": "잔",
+      "code": "985A",
+      "glyph_index": 4350
+    },
+    {
+      "character": "했",
+      "code": "9858",
+      "glyph_index": 4348
+    },
+    {
+      "character": "내",
+      "code": "9855",
+      "glyph_index": 4345
+    },
+    {
+      "character": "음",
+      "code": "9854",
+      "glyph_index": 4344
+    },
+    {
+      "character": "크",
+      "code": "9853",
+      "glyph_index": 4343
+    },
+    {
+      "character": "게",
+      "code": "9851",
+      "glyph_index": 4341
+    },
+    {
+      "character": "흔",
+      "code": "9850",
+      "glyph_index": 4340
+    },
+    {
+      "character": "들",
+      "code": "984F",
+      "glyph_index": 4339
+    },
+    {
+      "character": "렸",
+      "code": "984E",
+      "glyph_index": 4338
+    }
+  ]
+}

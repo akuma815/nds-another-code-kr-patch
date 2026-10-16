@@ -1,0 +1,2357 @@
+{
+  "schema_version": 1,
+  "status": "galmuri7_system_labels_image_preview_static_only",
+  "graphics_config": {
+    "path": "workspace\\config\\pfstardust_graphics_v19.json",
+    "sha256": "F5F9A56EBC2B622A1473900DDCB6EF66AB91515876AA340859B02E5A411C8E5E"
+  },
+  "font_config": {
+    "path": "workspace\\config\\graphics_font_sources_v19_pfstardust.json",
+    "sha256": "B9DBB9194C625CB22B6FEC052A694D61282D9EB424BA4E6E4AB27B8A59BF94E9"
+  },
+  "font": {
+    "path": "../../../../Font/PF스타더스트 3.0 Bold.ttf",
+    "sha256": "D23021D127C8E020843B5A39D3FA27B4A92D62598F06DC541538318FD0A4F4C1",
+    "format": "truetype_pixel_style",
+    "binary_threshold": 128,
+    "roles": [
+      "title_logo",
+      "title_menu",
+      "title_touch",
+      "chapter_card",
+      "opening_caption",
+      "system_icon",
+      "pda_icon"
+    ]
+  },
+  "reference_dir": "workspace\\graphics\\edit_canvases_v19_full_system_icons\\editable_indexed",
+  "image_count": 26,
+  "rebuilt_count": 26,
+  "contact_sheet": "contact_sheet.png",
+  "outputs": [
+    {
+      "canvas_id": "chapter1_number",
+      "action": "pf_stardust_binary_ttf_rebuilt_from_source_indexed_canvas",
+      "changed_pixel_count": 1057,
+      "change_boxes": [
+        [
+          70,
+          68,
+          117,
+          49
+        ]
+      ],
+      "operations": [
+        {
+          "kind": "fill_box",
+          "box": [
+            70,
+            68,
+            117,
+            49
+          ],
+          "background_index": 145
+        },
+        {
+          "kind": "outline",
+          "text": "제1장",
+          "box": [
+            97,
+            82,
+            58,
+            23,
+            833
+          ],
+          "index": 240,
+          "radius": 1
+        },
+        {
+          "kind": "binary_ttf_text",
+          "text": "제1장",
+          "font_size": 24,
+          "center": [
+            126.0,
+            93.5
+          ],
+          "output_box": [
+            98,
+            83,
+            56,
+            21,
+            410
+          ],
+          "ink_index": 255
+        }
+      ],
+      "indexed_png": "indexed\\chapter1_number.png",
+      "indexed_png_sha256": "3E7BCD555C97AA34D0811E547A3A203C8542C46A3BA73A74BA9930A801ACE5CD",
+      "preview_png": "preview_x4\\chapter1_number.png",
+      "preview_png_sha256": "94604BB46F89620B02B546D88FE583C6C10474AD21E85B40EE16263A97BDA73C"
+    },
+    {
+      "canvas_id": "chapter1_title",
+      "action": "pf_stardust_binary_ttf_rebuilt_from_source_indexed_canvas",
+      "changed_pixel_count": 2079,
+      "change_boxes": [
+        [
+          30,
+          68,
+          200,
+          49
+        ]
+      ],
+      "operations": [
+        {
+          "kind": "fill_box",
+          "box": [
+            30,
+            68,
+            200,
+            49
+          ],
+          "background_index": 145
+        },
+        {
+          "kind": "outline",
+          "text": "디와의 만남",
+          "box": [
+            73,
+            82,
+            109,
+            23,
+            1455
+          ],
+          "index": 240,
+          "radius": 1
+        },
+        {
+          "kind": "binary_ttf_text",
+          "text": "디와의 만남",
+          "font_size": 24,
+          "center": [
+            127.5,
+            94.0
+          ],
+          "output_box": [
+            74,
+            83,
+            107,
+            21,
+            703
+          ],
+          "ink_index": 255
+        }
+      ],
+      "indexed_png": "indexed\\chapter1_title.png",
+      "indexed_png_sha256": "25897FC53ADD9BB6D8DC397C1FD686DB2E8B76F5844522F9E50EEB980BEE8D02",
+      "preview_png": "preview_x4\\chapter1_title.png",
+      "preview_png_sha256": "D351AA70480209B5204D6365F83A3DC4C6E5B30979EFE25D2BEEB2FA0595819A"
+    },
+    {
+      "canvas_id": "opening_1948",
+      "action": "pf_stardust_binary_ttf_rebuilt_from_source_indexed_canvas",
+      "changed_pixel_count": 3337,
+      "change_boxes": [
+        [
+          14,
+          49,
+          229,
+          74
+        ]
+      ],
+      "operations": [
+        {
+          "kind": "fill_box",
+          "box": [
+            14,
+            49,
+            229,
+            74
+          ],
+          "background_index": 17
+        },
+        {
+          "kind": "outline",
+          "text": "1948년",
+          "box": [
+            95,
+            57,
+            68,
+            19,
+            795
+          ],
+          "index": 240,
+          "radius": 1
+        },
+        {
+          "kind": "binary_ttf_text",
+          "text": "1948년",
+          "font_size": 20,
+          "center": [
+            129.0,
+            66.5
+          ],
+          "output_box": [
+            96,
+            58,
+            66,
+            17,
+            372
+          ],
+          "ink_index": 255
+        },
+        {
+          "kind": "outline",
+          "text": "블러드 에드워드섬",
+          "box": [
+            58,
+            96,
+            140,
+            19,
+            1870
+          ],
+          "index": 240,
+          "radius": 1
+        },
+        {
+          "kind": "binary_ttf_text",
+          "text": "블러드 에드워드섬",
+          "font_size": 20,
+          "center": [
+            128.5,
+            106.0
+          ],
+          "output_box": [
+            59,
+            97,
+            138,
+            17,
+            880
+          ],
+          "ink_index": 255
+        }
+      ],
+      "indexed_png": "indexed\\opening_1948.png",
+      "indexed_png_sha256": "85156928304A5A8EA06BA61190F688C7253293ED8B4FB63ED7D57D3A05991ACA",
+      "preview_png": "preview_x4\\opening_1948.png",
+      "preview_png_sha256": "D49706E92DA86367E6DAA38DC544671461950370BEEDC31415B9139E783254FC"
+    },
+    {
+      "canvas_id": "opening_1994",
+      "action": "pf_stardust_binary_ttf_rebuilt_from_source_indexed_canvas",
+      "changed_pixel_count": 2444,
+      "change_boxes": [
+        [
+          14,
+          49,
+          229,
+          74
+        ]
+      ],
+      "operations": [
+        {
+          "kind": "fill_box",
+          "box": [
+            14,
+            49,
+            229,
+            74
+          ],
+          "background_index": 17
+        },
+        {
+          "kind": "outline",
+          "text": "1994년",
+          "box": [
+            95,
+            57,
+            68,
+            19,
+            774
+          ],
+          "index": 240,
+          "radius": 1
+        },
+        {
+          "kind": "binary_ttf_text",
+          "text": "1994년",
+          "font_size": 20,
+          "center": [
+            129.0,
+            66.5
+          ],
+          "output_box": [
+            96,
+            58,
+            66,
+            17,
+            359
+          ],
+          "ink_index": 255
+        },
+        {
+          "kind": "outline",
+          "text": "시애틀 교외",
+          "box": [
+            84,
+            96,
+            89,
+            19,
+            1157
+          ],
+          "index": 240,
+          "radius": 1
+        },
+        {
+          "kind": "binary_ttf_text",
+          "text": "시애틀 교외",
+          "font_size": 20,
+          "center": [
+            129.0,
+            106.0
+          ],
+          "output_box": [
+            85,
+            97,
+            87,
+            17,
+            561
+          ],
+          "ink_index": 255
+        }
+      ],
+      "indexed_png": "indexed\\opening_1994.png",
+      "indexed_png_sha256": "EF6FE6EB7B26C954FFAE2222A60C7D1CFA39FAA6C716E65DAC243A36FBC3A567",
+      "preview_png": "preview_x4\\opening_1994.png",
+      "preview_png_sha256": "2CCBEA60EE519250D797DAC6AA78E1D863B8CD004C5987D06BA9430C95EB3B12"
+    },
+    {
+      "canvas_id": "opening_2005",
+      "action": "pf_stardust_binary_ttf_rebuilt_from_source_indexed_canvas",
+      "changed_pixel_count": 3335,
+      "change_boxes": [
+        [
+          14,
+          49,
+          229,
+          74
+        ]
+      ],
+      "operations": [
+        {
+          "kind": "fill_box",
+          "box": [
+            14,
+            49,
+            229,
+            74
+          ],
+          "background_index": 17
+        },
+        {
+          "kind": "outline",
+          "text": "2005년",
+          "box": [
+            93,
+            56,
+            68,
+            19,
+            885
+          ],
+          "index": 240,
+          "radius": 1
+        },
+        {
+          "kind": "binary_ttf_text",
+          "text": "2005년",
+          "font_size": 20,
+          "center": [
+            127.5,
+            66.0
+          ],
+          "output_box": [
+            94,
+            57,
+            66,
+            17,
+            414
+          ],
+          "ink_index": 255
+        },
+        {
+          "kind": "outline",
+          "text": "블러드 에드워드섬",
+          "box": [
+            58,
+            97,
+            140,
+            19,
+            1870
+          ],
+          "index": 240,
+          "radius": 1
+        },
+        {
+          "kind": "binary_ttf_text",
+          "text": "블러드 에드워드섬",
+          "font_size": 20,
+          "center": [
+            128.5,
+            106.5
+          ],
+          "output_box": [
+            59,
+            98,
+            138,
+            17,
+            880
+          ],
+          "ink_index": 255
+        }
+      ],
+      "indexed_png": "indexed\\opening_2005.png",
+      "indexed_png_sha256": "0BFC60C258FF7B5A29B010129CF8C7D60E847F3D1AFBE36181CCE8451DFB8980",
+      "preview_png": "preview_x4\\opening_2005.png",
+      "preview_png_sha256": "7B0F5F99FF9649950541FCCC49766E2B8A0DBCDE094C9302EE4DB347D6E5D29C"
+    },
+    {
+      "canvas_id": "opening_ah",
+      "action": "pf_stardust_binary_ttf_rebuilt_from_source_indexed_canvas",
+      "changed_pixel_count": 1180,
+      "change_boxes": [
+        [
+          68,
+          64,
+          123,
+          54
+        ]
+      ],
+      "operations": [
+        {
+          "kind": "fill_box",
+          "box": [
+            68,
+            64,
+            123,
+            54
+          ],
+          "background_index": 0
+        },
+        {
+          "kind": "outline",
+          "text": "앗!!",
+          "box": [
+            125,
+            71,
+            36,
+            27,
+            637
+          ],
+          "index": 236,
+          "radius": 1
+        },
+        {
+          "kind": "binary_ttf_text",
+          "text": "앗!!",
+          "font_size": 28,
+          "center": [
+            143.0,
+            85.0
+          ],
+          "output_box": [
+            126,
+            72,
+            34,
+            25,
+            320
+          ],
+          "ink_index": 255
+        }
+      ],
+      "indexed_png": "indexed\\opening_ah.png",
+      "indexed_png_sha256": "A28C2157C4105B9D643915FC6A99CAF6BD13596A0EC655A1C66D712FDC3C4453",
+      "preview_png": "preview_x4\\opening_ah.png",
+      "preview_png_sha256": "5C3EA42F859FFD3FB316EEA56B3F9CDE528C8BCF8682A23DFDF9141E0B443782"
+    },
+    {
+      "canvas_id": "opening_completed",
+      "action": "pf_stardust_binary_ttf_rebuilt_from_source_indexed_canvas",
+      "changed_pixel_count": 1797,
+      "change_boxes": [
+        [
+          35,
+          85,
+          150,
+          36
+        ]
+      ],
+      "operations": [
+        {
+          "kind": "fill_box",
+          "box": [
+            35,
+            85,
+            150,
+            36
+          ],
+          "background_index": 0
+        },
+        {
+          "kind": "outline",
+          "text": "완성했다…",
+          "box": [
+            59,
+            91,
+            93,
+            23,
+            1318
+          ],
+          "index": 235,
+          "radius": 1
+        },
+        {
+          "kind": "binary_ttf_text",
+          "text": "완성했다…",
+          "font_size": 24,
+          "center": [
+            105.5,
+            103.0
+          ],
+          "output_box": [
+            60,
+            92,
+            91,
+            21,
+            637
+          ],
+          "ink_index": 255
+        }
+      ],
+      "indexed_png": "indexed\\opening_completed.png",
+      "indexed_png_sha256": "DB3113D811DF2238034CCF45E7CE3A2B41298E39656DB4B762BF1DA1DB7B459A",
+      "preview_png": "preview_x4\\opening_completed.png",
+      "preview_png_sha256": "5D413412BF3462A2886B9E471232010EE08B568062B395F26A011D67DF642C5E"
+    },
+    {
+      "canvas_id": "opening_father",
+      "action": "pf_stardust_binary_ttf_rebuilt_from_source_indexed_canvas",
+      "changed_pixel_count": 1144,
+      "change_boxes": [
+        [
+          40,
+          125,
+          140,
+          40
+        ]
+      ],
+      "operations": [
+        {
+          "kind": "fill_box",
+          "box": [
+            40,
+            125,
+            140,
+            40
+          ],
+          "background_index": 0
+        },
+        {
+          "kind": "outline",
+          "text": "여보…",
+          "box": [
+            87,
+            131,
+            58,
+            25,
+            712
+          ],
+          "index": 231,
+          "radius": 1
+        },
+        {
+          "kind": "binary_ttf_text",
+          "text": "여보…",
+          "font_size": 26,
+          "center": [
+            116.5,
+            144.0
+          ],
+          "output_box": [
+            88,
+            132,
+            56,
+            23,
+            368
+          ],
+          "ink_index": 255
+        }
+      ],
+      "indexed_png": "indexed\\opening_father.png",
+      "indexed_png_sha256": "B7D760B7E5E0054424BAD9ABCFB2139F48934FCFCDF49466A31EB9BA935CE643",
+      "preview_png": "preview_x4\\opening_father.png",
+      "preview_png_sha256": "FA864BFA346371CA8AFD9B8A689BCF11ABDE96982402C2B14CCBF744AE7DEC60"
+    },
+    {
+      "canvas_id": "opening_finally",
+      "action": "pf_stardust_binary_ttf_rebuilt_from_source_indexed_canvas",
+      "changed_pixel_count": 1141,
+      "change_boxes": [
+        [
+          90,
+          70,
+          130,
+          35
+        ]
+      ],
+      "operations": [
+        {
+          "kind": "fill_box",
+          "box": [
+            90,
+            70,
+            130,
+            35
+          ],
+          "background_index": 0
+        },
+        {
+          "kind": "outline",
+          "text": "드디어…",
+          "box": [
+            117,
+            75,
+            74,
+            23,
+            855
+          ],
+          "index": 236,
+          "radius": 1
+        },
+        {
+          "kind": "binary_ttf_text",
+          "text": "드디어…",
+          "font_size": 24,
+          "center": [
+            154.0,
+            87.0
+          ],
+          "output_box": [
+            118,
+            76,
+            72,
+            21,
+            411
+          ],
+          "ink_index": 255
+        }
+      ],
+      "indexed_png": "indexed\\opening_finally.png",
+      "indexed_png_sha256": "60B716DE28D19A4C2C95BBA794FF9D99DF7ED6D3AF7A57C8E12DD3C1CE7C7EFE",
+      "preview_png": "preview_x4\\opening_finally.png",
+      "preview_png_sha256": "FD61E9E66562176B55C946AF339DE7993BA0E93437DC789820303BA3EBDB6B56"
+    },
+    {
+      "canvas_id": "opening_hide",
+      "action": "pf_stardust_binary_ttf_rebuilt_from_source_indexed_canvas",
+      "changed_pixel_count": 3561,
+      "change_boxes": [
+        [
+          60,
+          98,
+          160,
+          75
+        ]
+      ],
+      "operations": [
+        {
+          "kind": "fill_box",
+          "box": [
+            60,
+            98,
+            160,
+            75
+          ],
+          "background_index": 0
+        },
+        {
+          "kind": "outline",
+          "text": "애슐리, 빨리",
+          "box": [
+            79,
+            104,
+            117,
+            23,
+            1703
+          ],
+          "index": 235,
+          "radius": 1
+        },
+        {
+          "kind": "binary_ttf_text",
+          "text": "애슐리, 빨리",
+          "font_size": 24,
+          "center": [
+            138.0,
+            116.0
+          ],
+          "output_box": [
+            80,
+            105,
+            115,
+            21,
+            875
+          ],
+          "ink_index": 255
+        },
+        {
+          "kind": "outline",
+          "text": "숨어!",
+          "box": [
+            115,
+            144,
+            46,
+            24,
+            700
+          ],
+          "index": 235,
+          "radius": 1
+        },
+        {
+          "kind": "binary_ttf_text",
+          "text": "숨어!",
+          "font_size": 24,
+          "center": [
+            138.0,
+            156.0
+          ],
+          "output_box": [
+            116,
+            145,
+            44,
+            22,
+            351
+          ],
+          "ink_index": 255
+        }
+      ],
+      "indexed_png": "indexed\\opening_hide.png",
+      "indexed_png_sha256": "B2DD9F6B6BB2EEF21235DD506F57366148663CD103345B34F1433B8A1C64BEE0",
+      "preview_png": "preview_x4\\opening_hide.png",
+      "preview_png_sha256": "0FDF35E1E2A23173FC2DF26F4F46549BF0224471269476779EC2B5720268FF78"
+    },
+    {
+      "canvas_id": "opening_mama",
+      "action": "pf_stardust_binary_ttf_rebuilt_from_source_indexed_canvas",
+      "changed_pixel_count": 1063,
+      "change_boxes": [
+        [
+          25,
+          85,
+          140,
+          35
+        ]
+      ],
+      "operations": [
+        {
+          "kind": "fill_box",
+          "box": [
+            25,
+            85,
+            140,
+            35
+          ],
+          "background_index": 0
+        },
+        {
+          "kind": "outline",
+          "text": "엄마…",
+          "box": [
+            64,
+            90,
+            52,
+            23,
+            689
+          ],
+          "index": 238,
+          "radius": 1
+        },
+        {
+          "kind": "binary_ttf_text",
+          "text": "엄마…",
+          "font_size": 24,
+          "center": [
+            90.0,
+            102.0
+          ],
+          "output_box": [
+            65,
+            91,
+            50,
+            21,
+            334
+          ],
+          "ink_index": 255
+        }
+      ],
+      "indexed_png": "indexed\\opening_mama.png",
+      "indexed_png_sha256": "1815DA61CD502C45D1A5D28F1E8D6B343EE670667D8846227A9C5DC4B8E2D013",
+      "preview_png": "preview_x4\\opening_mama.png",
+      "preview_png_sha256": "AF8E3ABE75D5E7C6AA18615E6C930DCF327CB7D70CC96A93FF343521F421F882"
+    },
+    {
+      "canvas_id": "opening_richard",
+      "action": "pf_stardust_binary_ttf_rebuilt_from_source_indexed_canvas",
+      "changed_pixel_count": 1311,
+      "change_boxes": [
+        [
+          40,
+          68,
+          170,
+          35
+        ]
+      ],
+      "operations": [
+        {
+          "kind": "fill_box",
+          "box": [
+            40,
+            68,
+            170,
+            35
+          ],
+          "background_index": 23
+        },
+        {
+          "kind": "outline",
+          "text": "리처드…",
+          "box": [
+            86,
+            73,
+            74,
+            23,
+            855
+          ],
+          "index": 236,
+          "radius": 1
+        },
+        {
+          "kind": "binary_ttf_text",
+          "text": "리처드…",
+          "font_size": 24,
+          "center": [
+            123.5,
+            85.0
+          ],
+          "output_box": [
+            87,
+            74,
+            72,
+            21,
+            397
+          ],
+          "ink_index": 255
+        }
+      ],
+      "indexed_png": "indexed\\opening_richard.png",
+      "indexed_png_sha256": "16E76ADA68FA15F80B8920307484DDC6D694C6B6A231B03764D41C928BD3020C",
+      "preview_png": "preview_x4\\opening_richard.png",
+      "preview_png_sha256": "96F30A23E0EB71CB615C64242830D8967114257FC3E6E25FC2C20877B766B04A"
+    },
+    {
+      "canvas_id": "opening_title_logo_a",
+      "action": "pf_stardust_bold_logo_with_dunggeunmo_mono_hinted_subtitle",
+      "changed_pixel_count": 4768,
+      "change_boxes": [
+        [
+          8,
+          76,
+          240,
+          50
+        ]
+      ],
+      "operations": [
+        {
+          "kind": "fill_box",
+          "box": [
+            8,
+            76,
+            240,
+            50
+          ],
+          "background_index": 255
+        },
+        {
+          "kind": "preserve_box",
+          "box": [
+            228,
+            104,
+            20,
+            12
+          ]
+        },
+        {
+          "kind": "source_style_speed_line",
+          "box": [
+            20,
+            82,
+            38,
+            1
+          ],
+          "index": 244
+        },
+        {
+          "kind": "source_style_speed_line",
+          "box": [
+            198,
+            82,
+            38,
+            1
+          ],
+          "index": 244
+        },
+        {
+          "kind": "source_style_speed_line",
+          "box": [
+            16,
+            91,
+            58,
+            1
+          ],
+          "index": 242
+        },
+        {
+          "kind": "source_style_speed_line",
+          "box": [
+            182,
+            91,
+            58,
+            1
+          ],
+          "index": 242
+        },
+        {
+          "kind": "source_style_speed_line",
+          "box": [
+            10,
+            101,
+            236,
+            1
+          ],
+          "index": 242
+        },
+        {
+          "kind": "source_style_speed_line",
+          "box": [
+            20,
+            104,
+            45,
+            1
+          ],
+          "index": 244
+        },
+        {
+          "kind": "source_style_speed_line",
+          "box": [
+            191,
+            104,
+            45,
+            1
+          ],
+          "index": 244
+        },
+        {
+          "kind": "source_style_speed_line",
+          "box": [
+            38,
+            107,
+            38,
+            1
+          ],
+          "index": 246
+        },
+        {
+          "kind": "source_style_speed_line",
+          "box": [
+            180,
+            107,
+            38,
+            1
+          ],
+          "index": 246
+        },
+        {
+          "kind": "speed_line_glyph_clearance",
+          "radius": 1,
+          "box": [
+            59,
+            80,
+            138,
+            28,
+            1892
+          ],
+          "background_index": 255
+        },
+        {
+          "kind": "binary_ttf_text",
+          "text": "어나더 코드",
+          "font_role": "bold",
+          "font_size": 30,
+          "center": [
+            128.0,
+            94.0
+          ],
+          "output_box": [
+            60,
+            81,
+            136,
+            26,
+            1051
+          ],
+          "ink_index": 241
+        },
+        {
+          "kind": "small_text_cleanup",
+          "box": [
+            90,
+            110,
+            76,
+            14
+          ],
+          "background_index": 255
+        },
+        {
+          "kind": "binary_ttf_text",
+          "text": "두 개의 기억",
+          "font_role": "dunggeunmo_mono_hinted",
+          "font_size": 12,
+          "center": [
+            128.0,
+            117.0
+          ],
+          "output_box": [
+            93,
+            112,
+            70,
+            10,
+            208
+          ],
+          "ink_index": 244,
+          "render_mode": "freetype_mono_hinting"
+        }
+      ],
+      "indexed_png": "indexed\\opening_title_logo_a.png",
+      "indexed_png_sha256": "1A4A491007684B89916107489910AAB4A8478F3EACF333E91AC6F2BE882286A4",
+      "preview_png": "preview_x4\\opening_title_logo_a.png",
+      "preview_png_sha256": "29FC385EF633E8377A5B2ABB9F06D82A495E2A1A65FEB9A1B9AA64AF763B4731"
+    },
+    {
+      "canvas_id": "opening_title_logo_b",
+      "action": "pf_stardust_bold_logo_with_dunggeunmo_mono_hinted_subtitle",
+      "changed_pixel_count": 4768,
+      "change_boxes": [
+        [
+          8,
+          76,
+          240,
+          50
+        ]
+      ],
+      "operations": [
+        {
+          "kind": "fill_box",
+          "box": [
+            8,
+            76,
+            240,
+            50
+          ],
+          "background_index": 255
+        },
+        {
+          "kind": "preserve_box",
+          "box": [
+            228,
+            104,
+            20,
+            12
+          ]
+        },
+        {
+          "kind": "source_style_speed_line",
+          "box": [
+            20,
+            82,
+            38,
+            1
+          ],
+          "index": 244
+        },
+        {
+          "kind": "source_style_speed_line",
+          "box": [
+            198,
+            82,
+            38,
+            1
+          ],
+          "index": 244
+        },
+        {
+          "kind": "source_style_speed_line",
+          "box": [
+            16,
+            91,
+            58,
+            1
+          ],
+          "index": 242
+        },
+        {
+          "kind": "source_style_speed_line",
+          "box": [
+            182,
+            91,
+            58,
+            1
+          ],
+          "index": 242
+        },
+        {
+          "kind": "source_style_speed_line",
+          "box": [
+            10,
+            101,
+            236,
+            1
+          ],
+          "index": 242
+        },
+        {
+          "kind": "source_style_speed_line",
+          "box": [
+            20,
+            104,
+            45,
+            1
+          ],
+          "index": 244
+        },
+        {
+          "kind": "source_style_speed_line",
+          "box": [
+            191,
+            104,
+            45,
+            1
+          ],
+          "index": 244
+        },
+        {
+          "kind": "source_style_speed_line",
+          "box": [
+            38,
+            107,
+            38,
+            1
+          ],
+          "index": 246
+        },
+        {
+          "kind": "source_style_speed_line",
+          "box": [
+            180,
+            107,
+            38,
+            1
+          ],
+          "index": 246
+        },
+        {
+          "kind": "speed_line_glyph_clearance",
+          "radius": 1,
+          "box": [
+            59,
+            80,
+            138,
+            28,
+            1892
+          ],
+          "background_index": 255
+        },
+        {
+          "kind": "binary_ttf_text",
+          "text": "어나더 코드",
+          "font_role": "bold",
+          "font_size": 30,
+          "center": [
+            128.0,
+            94.0
+          ],
+          "output_box": [
+            60,
+            81,
+            136,
+            26,
+            1051
+          ],
+          "ink_index": 241
+        },
+        {
+          "kind": "small_text_cleanup",
+          "box": [
+            90,
+            110,
+            76,
+            14
+          ],
+          "background_index": 255
+        },
+        {
+          "kind": "binary_ttf_text",
+          "text": "두 개의 기억",
+          "font_role": "dunggeunmo_mono_hinted",
+          "font_size": 12,
+          "center": [
+            128.0,
+            117.0
+          ],
+          "output_box": [
+            93,
+            112,
+            70,
+            10,
+            208
+          ],
+          "ink_index": 244,
+          "render_mode": "freetype_mono_hinting"
+        }
+      ],
+      "indexed_png": "indexed\\opening_title_logo_b.png",
+      "indexed_png_sha256": "1A4A491007684B89916107489910AAB4A8478F3EACF333E91AC6F2BE882286A4",
+      "preview_png": "preview_x4\\opening_title_logo_b.png",
+      "preview_png_sha256": "29FC385EF633E8377A5B2ABB9F06D82A495E2A1A65FEB9A1B9AA64AF763B4731"
+    },
+    {
+      "canvas_id": "opening_why",
+      "action": "pf_stardust_binary_ttf_rebuilt_from_source_indexed_canvas",
+      "changed_pixel_count": 1518,
+      "change_boxes": [
+        [
+          65,
+          65,
+          150,
+          53
+        ]
+      ],
+      "operations": [
+        {
+          "kind": "fill_box",
+          "box": [
+            65,
+            65,
+            150,
+            53
+          ],
+          "background_index": 239
+        },
+        {
+          "kind": "outline",
+          "text": "왜…!?",
+          "box": [
+            106,
+            78,
+            63,
+            27,
+            925
+          ],
+          "index": 240,
+          "radius": 1
+        },
+        {
+          "kind": "binary_ttf_text",
+          "text": "왜…!?",
+          "font_size": 28,
+          "center": [
+            137.5,
+            91.5
+          ],
+          "output_box": [
+            107,
+            79,
+            61,
+            25,
+            516
+          ],
+          "ink_index": 255
+        }
+      ],
+      "indexed_png": "indexed\\opening_why.png",
+      "indexed_png_sha256": "D3DEFFB4455731CC83785C08A8290EB262329439BCB77D4360B3FC62CE00F5F8",
+      "preview_png": "preview_x4\\opening_why.png",
+      "preview_png_sha256": "519ACD8FB0FEB569387578689E20C2DA92CCAF4914EDA928AA4E3E3C3B054EDE"
+    },
+    {
+      "canvas_id": "pda_mark",
+      "action": "galmuri7_native_8x8_system_label",
+      "changed_pixel_count": 125,
+      "change_boxes": [
+        [
+          12,
+          44,
+          24,
+          8
+        ]
+      ],
+      "operations": [
+        {
+          "kind": "restore_selected_indices",
+          "box": [
+            12,
+            44,
+            24,
+            8
+          ],
+          "sample_box": [
+            12,
+            44,
+            24,
+            8
+          ],
+          "method": "mode",
+          "row_indices": [
+            11,
+            11,
+            11,
+            12,
+            12,
+            14,
+            14,
+            14
+          ],
+          "only_indices": [
+            1,
+            7
+          ],
+          "explicit_row_backgrounds": false,
+          "preserved_outside_selected_indices": true
+        },
+        {
+          "kind": "shadow",
+          "text": "뒤로",
+          "box": [
+            17,
+            44,
+            16,
+            8,
+            46
+          ],
+          "index": 7
+        },
+        {
+          "kind": "bitmap_atlas_text",
+          "text": "뒤로",
+          "font_role": "galmuri7_native_8x8",
+          "cell_size": [
+            8,
+            8
+          ],
+          "center": [
+            24.0,
+            47.5
+          ],
+          "output_box": [
+            16,
+            44,
+            16,
+            8,
+            46
+          ],
+          "ink_index": 1
+        }
+      ],
+      "indexed_png": "indexed\\pda_mark.png",
+      "indexed_png_sha256": "5F6B2A6623336B8B0668E9C7766A60BAE0312C7FA834E20B1E2CFD6AEEA1D2D6",
+      "preview_png": "preview_x4\\pda_mark.png",
+      "preview_png_sha256": "AF2B34EE16198A94957D9DB7C0BD9F43DB0BA4424110439B20E027427828E0F0"
+    },
+    {
+      "canvas_id": "system_back",
+      "action": "galmuri7_native_8x8_system_label",
+      "changed_pixel_count": 160,
+      "change_boxes": [
+        [
+          4,
+          9,
+          24,
+          11
+        ]
+      ],
+      "operations": [
+        {
+          "kind": "restore_rows",
+          "box": [
+            4,
+            9,
+            24,
+            11
+          ],
+          "sample_box": [
+            4,
+            9,
+            24,
+            11
+          ],
+          "method": "max",
+          "row_indices": [
+            193,
+            193,
+            193,
+            193,
+            193,
+            198,
+            212,
+            217,
+            217,
+            217,
+            205
+          ]
+        },
+        {
+          "kind": "bitmap_atlas_text",
+          "text": "뒤로",
+          "font_role": "galmuri7_native_8x8",
+          "cell_size": [
+            8,
+            8
+          ],
+          "center": [
+            16.0,
+            14.5
+          ],
+          "output_box": [
+            8,
+            10,
+            16,
+            8,
+            46
+          ],
+          "ink_index": 115
+        }
+      ],
+      "indexed_png": "indexed\\system_back.png",
+      "indexed_png_sha256": "8C9B50278F800066BC4607DAFA5C63ED9AC0137E3D3F51AFD3FADBBD5356968E",
+      "preview_png": "preview_x4\\system_back.png",
+      "preview_png_sha256": "BC8231FD55FF2A54862B43011002A1C358BE1EF486D6F62F7046F549FDF14D77"
+    },
+    {
+      "canvas_id": "system_examine_disabled",
+      "action": "galmuri7_native_8x8_system_label",
+      "changed_pixel_count": 138,
+      "change_boxes": [
+        [
+          4,
+          2,
+          24,
+          10
+        ]
+      ],
+      "operations": [
+        {
+          "kind": "restore_rows",
+          "box": [
+            4,
+            2,
+            24,
+            10
+          ],
+          "sample_box": [
+            4,
+            2,
+            24,
+            10
+          ],
+          "method": "max",
+          "row_indices": [
+            171,
+            171,
+            171,
+            171,
+            171,
+            171,
+            174,
+            174,
+            174,
+            174
+          ]
+        },
+        {
+          "kind": "bitmap_atlas_text",
+          "text": "조사",
+          "font_role": "galmuri7_native_8x8",
+          "cell_size": [
+            8,
+            8
+          ],
+          "center": [
+            16.0,
+            7.5
+          ],
+          "output_box": [
+            8,
+            4,
+            16,
+            8,
+            35
+          ],
+          "ink_index": 154
+        }
+      ],
+      "indexed_png": "indexed\\system_examine_disabled.png",
+      "indexed_png_sha256": "33DA70C1EFB8357B8959437834FCCA2380E0C36F486F8FA47A555F4A0280939C",
+      "preview_png": "preview_x4\\system_examine_disabled.png",
+      "preview_png_sha256": "B9FE78B3210671BCD0541D03BD8DD4E682D41144A41DFC63605B1C7469961824"
+    },
+    {
+      "canvas_id": "system_examine_normal",
+      "action": "galmuri7_native_8x8_system_label",
+      "changed_pixel_count": 151,
+      "change_boxes": [
+        [
+          4,
+          9,
+          24,
+          11
+        ]
+      ],
+      "operations": [
+        {
+          "kind": "restore_rows",
+          "box": [
+            4,
+            9,
+            24,
+            11
+          ],
+          "sample_box": [
+            4,
+            9,
+            24,
+            11
+          ],
+          "method": "max",
+          "row_indices": [
+            215,
+            215,
+            216,
+            216,
+            215,
+            218,
+            218,
+            230,
+            230,
+            230,
+            219
+          ]
+        },
+        {
+          "kind": "bitmap_atlas_text",
+          "text": "조사",
+          "font_role": "galmuri7_native_8x8",
+          "cell_size": [
+            8,
+            8
+          ],
+          "center": [
+            16.0,
+            14.5
+          ],
+          "output_box": [
+            8,
+            10,
+            16,
+            8,
+            35
+          ],
+          "ink_index": 115
+        }
+      ],
+      "indexed_png": "indexed\\system_examine_normal.png",
+      "indexed_png_sha256": "2EC105F348F05227848064237E10197A101E4FCAFF2FED21FED364DC9E40A58F",
+      "preview_png": "preview_x4\\system_examine_normal.png",
+      "preview_png_sha256": "774F4BA46737E4D203E73AA00A30A5371CB7955C4520CD6C5014A86CBCC70968"
+    },
+    {
+      "canvas_id": "system_talk",
+      "action": "galmuri7_native_8x8_system_label",
+      "changed_pixel_count": 129,
+      "change_boxes": [
+        [
+          4,
+          2,
+          24,
+          10
+        ]
+      ],
+      "operations": [
+        {
+          "kind": "restore_rows",
+          "box": [
+            4,
+            2,
+            24,
+            10
+          ],
+          "sample_box": [
+            4,
+            2,
+            24,
+            10
+          ],
+          "method": "max",
+          "row_indices": [
+            241,
+            242,
+            242,
+            241,
+            245,
+            245,
+            252,
+            252,
+            252,
+            246
+          ]
+        },
+        {
+          "kind": "bitmap_atlas_text",
+          "text": "대화",
+          "font_role": "galmuri7_native_8x8",
+          "cell_size": [
+            8,
+            8
+          ],
+          "center": [
+            16.0,
+            7.5
+          ],
+          "output_box": [
+            8,
+            4,
+            16,
+            8,
+            49
+          ],
+          "ink_index": 115
+        }
+      ],
+      "indexed_png": "indexed\\system_talk.png",
+      "indexed_png_sha256": "E4CAA5EAECC513E5A501E9656519622F98DEE3918805DD5A5B25A353DE8BC548",
+      "preview_png": "preview_x4\\system_talk.png",
+      "preview_png_sha256": "DBCC40BB8CC7DA6745EA860F5F8AD2BEFBEBF310B7A606DF82A43D4DE3C27E51"
+    },
+    {
+      "canvas_id": "title_logo",
+      "action": "pf_stardust_bold_logo_with_dunggeunmo_mono_hinted_subtitle",
+      "changed_pixel_count": 4768,
+      "change_boxes": [
+        [
+          8,
+          76,
+          240,
+          50
+        ]
+      ],
+      "operations": [
+        {
+          "kind": "fill_box",
+          "box": [
+            8,
+            76,
+            240,
+            50
+          ],
+          "background_index": 255
+        },
+        {
+          "kind": "preserve_box",
+          "box": [
+            228,
+            104,
+            20,
+            12
+          ]
+        },
+        {
+          "kind": "source_style_speed_line",
+          "box": [
+            20,
+            82,
+            38,
+            1
+          ],
+          "index": 244
+        },
+        {
+          "kind": "source_style_speed_line",
+          "box": [
+            198,
+            82,
+            38,
+            1
+          ],
+          "index": 244
+        },
+        {
+          "kind": "source_style_speed_line",
+          "box": [
+            16,
+            91,
+            58,
+            1
+          ],
+          "index": 242
+        },
+        {
+          "kind": "source_style_speed_line",
+          "box": [
+            182,
+            91,
+            58,
+            1
+          ],
+          "index": 242
+        },
+        {
+          "kind": "source_style_speed_line",
+          "box": [
+            10,
+            101,
+            236,
+            1
+          ],
+          "index": 242
+        },
+        {
+          "kind": "source_style_speed_line",
+          "box": [
+            20,
+            104,
+            45,
+            1
+          ],
+          "index": 244
+        },
+        {
+          "kind": "source_style_speed_line",
+          "box": [
+            191,
+            104,
+            45,
+            1
+          ],
+          "index": 244
+        },
+        {
+          "kind": "source_style_speed_line",
+          "box": [
+            38,
+            107,
+            38,
+            1
+          ],
+          "index": 246
+        },
+        {
+          "kind": "source_style_speed_line",
+          "box": [
+            180,
+            107,
+            38,
+            1
+          ],
+          "index": 246
+        },
+        {
+          "kind": "speed_line_glyph_clearance",
+          "radius": 1,
+          "box": [
+            59,
+            80,
+            138,
+            28,
+            1892
+          ],
+          "background_index": 255
+        },
+        {
+          "kind": "binary_ttf_text",
+          "text": "어나더 코드",
+          "font_role": "bold",
+          "font_size": 30,
+          "center": [
+            128.0,
+            94.0
+          ],
+          "output_box": [
+            60,
+            81,
+            136,
+            26,
+            1051
+          ],
+          "ink_index": 241
+        },
+        {
+          "kind": "small_text_cleanup",
+          "box": [
+            90,
+            110,
+            76,
+            14
+          ],
+          "background_index": 255
+        },
+        {
+          "kind": "binary_ttf_text",
+          "text": "두 개의 기억",
+          "font_role": "dunggeunmo_mono_hinted",
+          "font_size": 12,
+          "center": [
+            128.0,
+            117.0
+          ],
+          "output_box": [
+            93,
+            112,
+            70,
+            10,
+            208
+          ],
+          "ink_index": 244,
+          "render_mode": "freetype_mono_hinting"
+        }
+      ],
+      "indexed_png": "indexed\\title_logo.png",
+      "indexed_png_sha256": "1A4A491007684B89916107489910AAB4A8478F3EACF333E91AC6F2BE882286A4",
+      "preview_png": "preview_x4\\title_logo.png",
+      "preview_png_sha256": "29FC385EF633E8377A5B2ABB9F06D82A495E2A1A65FEB9A1B9AA64AF763B4731"
+    },
+    {
+      "canvas_id": "title_menu",
+      "action": "pf_stardust_binary_ttf_rebuilt_from_source_indexed_canvas",
+      "changed_pixel_count": 1225,
+      "change_boxes": [
+        [
+          80,
+          65,
+          105,
+          25
+        ],
+        [
+          80,
+          93,
+          105,
+          26
+        ]
+      ],
+      "operations": [
+        {
+          "kind": "fill_box",
+          "box": [
+            80,
+            65,
+            105,
+            25
+          ],
+          "background_index": 255
+        },
+        {
+          "kind": "fill_box",
+          "box": [
+            80,
+            93,
+            105,
+            26
+          ],
+          "background_index": 255
+        },
+        {
+          "kind": "binary_ttf_text",
+          "text": "처음부터",
+          "font_size": 16,
+          "center": [
+            132.0,
+            78.0
+          ],
+          "output_box": [
+            104,
+            71,
+            55,
+            14,
+            286
+          ],
+          "ink_index": 196
+        },
+        {
+          "kind": "binary_ttf_text",
+          "text": "이어하기",
+          "font_size": 16,
+          "center": [
+            131.5,
+            106.0
+          ],
+          "output_box": [
+            106,
+            99,
+            52,
+            14,
+            259
+          ],
+          "ink_index": 196
+        }
+      ],
+      "indexed_png": "indexed\\title_menu.png",
+      "indexed_png_sha256": "1530B2CFE0E873B3FA96CB4B3B327FC56A635F0C93FA153EC1F298AE47177A69",
+      "preview_png": "preview_x4\\title_menu.png",
+      "preview_png_sha256": "FB1F3E3C806FD183AD4DA480537A59C33AB426395AF4A0533E7B173C5C7459CD"
+    },
+    {
+      "canvas_id": "title_touch",
+      "action": "pf_stardust_binary_ttf_rebuilt_from_source_indexed_canvas",
+      "changed_pixel_count": 1332,
+      "change_boxes": [
+        [
+          30,
+          65,
+          200,
+          30
+        ]
+      ],
+      "operations": [
+        {
+          "kind": "fill_box",
+          "box": [
+            30,
+            65,
+            200,
+            30
+          ],
+          "background_index": 255
+        },
+        {
+          "kind": "binary_ttf_text",
+          "text": "화면을 터치해 주세요",
+          "font_size": 14,
+          "center": [
+            128.5,
+            80.0
+          ],
+          "output_box": [
+            72,
+            74,
+            113,
+            13,
+            445
+          ],
+          "ink_index": 240
+        }
+      ],
+      "indexed_png": "indexed\\title_touch.png",
+      "indexed_png_sha256": "4BA0A8CBB71FE751E817E6E8000A9088D64DC637F03E223D832973B82855C5C2",
+      "preview_png": "preview_x4\\title_touch.png",
+      "preview_png_sha256": "B2F80D45D1DD5FF0CFF1815C15A86F9C2949A708F1DCF9D932D5F9E19283F040"
+    },
+    {
+      "canvas_id": "pda_back_bg",
+      "action": "galmuri7_native_8x8_system_label",
+      "changed_pixel_count": 129,
+      "change_boxes": [
+        [
+          4,
+          9,
+          24,
+          11
+        ]
+      ],
+      "operations": [
+        {
+          "kind": "restore_explicit_row_backgrounds",
+          "box": [
+            4,
+            11,
+            24,
+            8
+          ],
+          "sample_box": [
+            4,
+            11,
+            24,
+            8
+          ],
+          "method": "explicit",
+          "row_indices": [
+            156,
+            156,
+            156,
+            180,
+            180,
+            210,
+            210,
+            210
+          ],
+          "only_indices": [],
+          "explicit_row_backgrounds": true,
+          "preserved_outside_selected_indices": false
+        },
+        {
+          "kind": "bitmap_atlas_text",
+          "text": "뒤로",
+          "font_role": "galmuri7_native_8x8",
+          "cell_size": [
+            8,
+            8
+          ],
+          "center": [
+            16.0,
+            14.5
+          ],
+          "output_box": [
+            8,
+            10,
+            16,
+            8,
+            46
+          ],
+          "ink_index": 36
+        }
+      ],
+      "indexed_png": "indexed\\pda_back_bg.png",
+      "indexed_png_sha256": "2EFEECB7A9E3714CC93E2C4C3348E96A1133FE89898C47CAE9A5D1359930246B",
+      "preview_png": "preview_x4\\pda_back_bg.png",
+      "preview_png_sha256": "4DCF9FFE656B9CFF3DEDE9E29D5EEEB5B91F768CBD4C59533D0E22E1DDB405EB"
+    },
+    {
+      "canvas_id": "pda_inventory_actions",
+      "action": "galmuri7_native_8x8_system_label",
+      "changed_pixel_count": 335,
+      "change_boxes": [
+        [
+          4,
+          9,
+          30,
+          11
+        ],
+        [
+          4,
+          25,
+          28,
+          11
+        ],
+        [
+          3,
+          42,
+          26,
+          9
+        ]
+      ],
+      "operations": [
+        {
+          "kind": "restore_explicit_row_backgrounds",
+          "box": [
+            4,
+            10,
+            25,
+            9
+          ],
+          "sample_box": [
+            4,
+            10,
+            25,
+            9
+          ],
+          "method": "explicit",
+          "row_indices": [
+            14,
+            12,
+            12,
+            12,
+            12,
+            12,
+            12,
+            12,
+            11
+          ],
+          "only_indices": [],
+          "explicit_row_backgrounds": true,
+          "preserved_outside_selected_indices": false
+        },
+        {
+          "kind": "restore_explicit_row_backgrounds",
+          "box": [
+            7,
+            26,
+            21,
+            9
+          ],
+          "sample_box": [
+            7,
+            26,
+            21,
+            9
+          ],
+          "method": "explicit",
+          "row_indices": [
+            14,
+            13,
+            12,
+            12,
+            12,
+            12,
+            12,
+            12,
+            11
+          ],
+          "only_indices": [],
+          "explicit_row_backgrounds": true,
+          "preserved_outside_selected_indices": false
+        },
+        {
+          "kind": "restore_explicit_row_backgrounds",
+          "box": [
+            3,
+            43,
+            25,
+            7
+          ],
+          "sample_box": [
+            3,
+            43,
+            25,
+            7
+          ],
+          "method": "explicit",
+          "row_indices": [
+            13,
+            12,
+            12,
+            12,
+            12,
+            12,
+            13
+          ],
+          "only_indices": [],
+          "explicit_row_backgrounds": true,
+          "preserved_outside_selected_indices": false
+        },
+        {
+          "kind": "bitmap_atlas_text",
+          "text": "소지품",
+          "font_role": "galmuri7_native_8x8",
+          "cell_size": [
+            8,
+            8
+          ],
+          "center": [
+            16.0,
+            14.5
+          ],
+          "output_box": [
+            4,
+            10,
+            24,
+            8,
+            61
+          ],
+          "ink_index": 1
+        },
+        {
+          "kind": "bitmap_atlas_text",
+          "text": "지우기",
+          "font_role": "galmuri7_native_8x8",
+          "cell_size": [
+            8,
+            8
+          ],
+          "center": [
+            16.0,
+            30.5
+          ],
+          "output_box": [
+            4,
+            26,
+            24,
+            8,
+            52
+          ],
+          "ink_index": 1
+        },
+        {
+          "kind": "bitmap_atlas_text",
+          "text": "듣기",
+          "font_role": "galmuri7_native_8x8",
+          "cell_size": [
+            8,
+            8
+          ],
+          "center": [
+            16.0,
+            47.0
+          ],
+          "output_box": [
+            8,
+            43,
+            16,
+            8,
+            44
+          ],
+          "ink_index": 1
+        }
+      ],
+      "indexed_png": "indexed\\pda_inventory_actions.png",
+      "indexed_png_sha256": "8E78606563DDEF845B2E5F01D44DAA7454CA3541EB1AAA81D81AFA73E3FB1998",
+      "preview_png": "preview_x4\\pda_inventory_actions.png",
+      "preview_png_sha256": "D045D3DC5CE9BD2E3A2673ADC490366910922744FBE12D0E0D1A420EF21674D9"
+    },
+    {
+      "canvas_id": "system_inventory",
+      "action": "galmuri7_native_8x8_system_label",
+      "changed_pixel_count": 150,
+      "change_boxes": [
+        [
+          2,
+          9,
+          27,
+          11
+        ]
+      ],
+      "operations": [
+        {
+          "kind": "restore_explicit_row_backgrounds",
+          "box": [
+            2,
+            9,
+            27,
+            10
+          ],
+          "sample_box": [
+            2,
+            9,
+            27,
+            10
+          ],
+          "method": "explicit",
+          "row_indices": [
+            231,
+            231,
+            232,
+            232,
+            231,
+            236,
+            236,
+            244,
+            244,
+            244
+          ],
+          "only_indices": [],
+          "explicit_row_backgrounds": true,
+          "preserved_outside_selected_indices": false
+        },
+        {
+          "kind": "bitmap_atlas_text",
+          "text": "소지품",
+          "font_role": "galmuri7_native_8x8",
+          "cell_size": [
+            8,
+            8
+          ],
+          "center": [
+            16.0,
+            14.5
+          ],
+          "output_box": [
+            4,
+            10,
+            24,
+            8,
+            61
+          ],
+          "ink_index": 115
+        }
+      ],
+      "indexed_png": "indexed\\system_inventory.png",
+      "indexed_png_sha256": "2C87337DF3F24FABE7106B3F92C310B67DCCFBFB0288E200FB65D80DBC0CFAED",
+      "preview_png": "preview_x4\\system_inventory.png",
+      "preview_png_sha256": "2ACD22EDF8169F1CE85DEC5840CD7F459E17BC3B135D0B270CEA94FCFA1C7094"
+    }
+  ],
+  "not_proved": [
+    "runtime palette and layer composition",
+    "emulator rendering of the rebuilt state assets",
+    "whole-game behavior"
+  ],
+  "placement_policy": {
+    "name": "floor_center_origin",
+    "reason": "keep radius-one outlines exactly one pixel around glyph masks"
+  },
+  "logo_font_config": {
+    "path": "workspace\\config\\graphics_logo_fonts_v20_pfstardust.json",
+    "sha256": "8693BB955F90565A2C3C1FA950CE865FE55ED4E3FCD0A2305814218D8E1A3F01"
+  },
+  "logo_fonts": {
+    "bold": {
+      "path": "G:\\Downloads\\Korean Traslate Project\\Font\\PF스타더스트 3.0 Bold.ttf",
+      "sha256": "D23021D127C8E020843B5A39D3FA27B4A92D62598F06DC541538318FD0A4F4C1",
+      "size": 30
+    },
+    "regular": {
+      "path": "G:\\Downloads\\Korean Traslate Project\\Font\\PF스타더스트 3.0.ttf",
+      "sha256": "14E09873C3D5B9A0237759C9ABD7CCB851EAAC938EA7B05AB37E3311DFF56DA2",
+      "size": 12
+    }
+  },
+  "logo_policy": {
+    "speed_lines": "source-style long central line and graduated side streaks",
+    "subtitle": "DungGeunMo 12px rendered with FreeType monochrome hinting"
+  },
+  "small_text_profile": {
+    "config_path": "workspace\\config\\graphics_small_text_v22_dunggeunmo.json",
+    "config_sha256": "34CAE70FA8A8BAF38EBCD8693833BC21B9F875BA3E96763DF4FA2071944F4ADC",
+    "font_path": "G:\\Downloads\\Korean Traslate Project\\Font\\DungGeunMo.ttf",
+    "font_sha256": "3F184D949149F2E7E6A853593E25161FB1D3B6D3708EBF79CE78600788FDEA30",
+    "render_mode": "freetype_mono_hinting",
+    "targets": [
+      "opening_title_logo_a",
+      "opening_title_logo_b",
+      "pda_mark",
+      "system_back",
+      "system_examine_disabled",
+      "system_examine_normal",
+      "system_talk",
+      "title_logo"
+    ],
+    "scope": "image_preview_only_no_rom_build"
+  },
+  "base_image_set": {
+    "path": "workspace\\graphics\\translate_refined_v23_galmuri7_system_labels_preview",
+    "report_sha256": "0B5F25ACCB621854EDF42FE2C001A8AB547718FD61F5024CB83B2BEF608CA8BB"
+  },
+  "system_label_profile": {
+    "config_path": "workspace\\config\\graphics_small_text_v34_palette_order_repairs.json",
+    "config_sha256": "EA32F56CEB16FB968B108C515EE1B25F34222BC2C0E449BFD833174398030128",
+    "font_path": "G:\\Downloads\\Korean Traslate Project\\Font\\Galmuri7_8x8.png",
+    "font_sha256": "A2BE473E22A62942164C95DB60F3F5AA88A99F76B525994D194E9F5F9DF387EA",
+    "render_mode": "native_bitmap_cell",
+    "targets": [
+      "pda_back_bg",
+      "pda_inventory_actions",
+      "pda_mark",
+      "system_inventory"
+    ],
+    "labels": [
+      "뒤로",
+      "소지품",
+      "지우기",
+      "듣기"
+    ],
+    "scope": "image_preview_only_no_rom_build"
+  }
+}

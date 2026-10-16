@@ -1,0 +1,10 @@
+{
+  "schema_version": 1,
+  "pool_id": "intro-poc-high-sjis-unused-v1",
+  "source_sha256": "6C8CB19DE7B86DC5F1147E4927D6916571968A06B5C2E9B88F62C22C271DD0A1",
+  "start_glyph_index": 4373,
+  "end_glyph_index": 4300,
+  "order": "descending_glyph_index",
+  "source_usage_policy": "skip any two-byte code present in the current strong or auxiliary source catalog",
+  "scope": "development PoC only; not a whole-game safe-slot proof"
+}

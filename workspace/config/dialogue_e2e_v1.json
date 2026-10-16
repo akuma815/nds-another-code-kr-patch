@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "build_id": "dialogue-e2e-001",
+  "source_sha256": "6C8CB19DE7B86DC5F1147E4927D6916571968A06B5C2E9B88F62C22C271DD0A1",
+  "target_text_id": "arm9_overlay_003_file_003:002F38",
+  "source_literal": "なあに、アシュレイ",
+  "translation_literal": "왜그러니、애슐리야",
+  "translation_status": "poc_only_not_final_translation",
+  "layout_policy": "same eight two-byte glyph cells; Japanese punctuation retained for this gate",
+  "mappings": [
+    {"character": "왜", "code": "9871", "glyph_index": 4373},
+    {"character": "그", "code": "9870", "glyph_index": 4372},
+    {"character": "러", "code": "986F", "glyph_index": 4371},
+    {"character": "니", "code": "986E", "glyph_index": 4370},
+    {"character": "애", "code": "986D", "glyph_index": 4369},
+    {"character": "슐", "code": "986C", "glyph_index": 4368},
+    {"character": "리", "code": "986B", "glyph_index": 4367},
+    {"character": "야", "code": "986A", "glyph_index": 4366}
+  ]
+}

@@ -1,0 +1,2 @@
+canvas_id,resource_id,shift_mode,shift_x,crop_x,crop_y,crop_w,crop_h,translation_target,evidence,state,notes
+system_inventory,sys_bg/sys_icon,raster_rows,0,200,0,32,32,소지품,user runtime screenshot and corrected full-atlas match,editing_crop_runtime_observed,게임플레이 오른쪽 持ち物 버튼은 pda/pda01과 별도인 sys_bg/sys_icon 셀

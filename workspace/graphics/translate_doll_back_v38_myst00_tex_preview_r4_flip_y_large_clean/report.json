@@ -1,0 +1,84 @@
+{
+  "schema_version": 1,
+  "status": "png_preview_only_pending_user_approval",
+  "resource_id": "sys_bg/myst00_tex",
+  "runtime_evidence": {
+    "pid": 22496,
+    "renderer": "GPU3D",
+    "polygon_index": 0,
+    "screen_bounds": [
+      112,
+      0,
+      144,
+      32
+    ],
+    "texture_bank": "A",
+    "texture_offset": "0x00600",
+    "texture_format": "16-color linear 4bpp",
+    "decoded_exact_match_offset": "0x30"
+  },
+  "source_resource": "workspace\\graphics\\pack_v2\\decoded\\sys_bg\\myst00_tex.bin",
+  "source_sha256": "165F6C62E4FDFBE467FC16AABAB351B41831E407D736C916CE806F6720C50585",
+  "translation": {
+    "source": "もどる",
+    "korean": "뒤로"
+  },
+  "edit": {
+    "text_box": [
+      4,
+      13,
+      28,
+      23
+    ],
+    "text_origin": [
+      6,
+      13
+    ],
+    "native_phrase_size": [
+      16,
+      8
+    ],
+    "stored_phrase_size": [
+      20,
+      10
+    ],
+    "enlargement": "nearest_neighbor",
+    "centered": true,
+    "storage_transform": "flip_top_bottom",
+    "transform_scope": "complete_two_glyph_phrase",
+    "runtime_texture_transform": "flip_top_bottom",
+    "runtime_expected_orientation": "upright_after_gpu3d_vertical_flip",
+    "row_background_indices": [
+      10,
+      10,
+      10,
+      6,
+      6,
+      4,
+      5,
+      5,
+      4,
+      4
+    ],
+    "ink_index": 15,
+    "changed_pixel_count": 138,
+    "changed_outside_text_box": 0,
+    "non_text_pixels_preserved": true
+  },
+  "font": {
+    "path": "..\\..\\Font\\Galmuri7_8x8.png",
+    "sha256": "A2BE473E22A62942164C95DB60F3F5AA88A99F76B525994D194E9F5F9DF387EA"
+  },
+  "outputs": {
+    "indexed_candidate": "indexed\\myst00_tex_back_ko.png",
+    "indexed_candidate_sha256": "5773FA6E6D1B5CF6B3F24BB84417A5382066429D925B872DAC895743CEA4486F",
+    "comparison": "preview_x8\\myst00_tex_back_comparison.png",
+    "comparison_sha256": "ECE390CA21B9EA702C3F4D98AFA584E1A0F955E2C5A627E5BDD589DAB6F11261",
+    "runtime_expected": "preview_x8\\myst00_tex_back_ko_runtime_expected.png",
+    "runtime_expected_sha256": "642F3331CCE58F70AAF71EBB819CE770C5E02AE8B0985EA6B8AE217D464E459E"
+  },
+  "safety": {
+    "decoded_binary_written": false,
+    "rom_built": false
+  }
+}

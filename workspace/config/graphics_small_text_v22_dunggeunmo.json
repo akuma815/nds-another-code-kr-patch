@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "font": {
+    "path": "../../../../Font/DungGeunMo.ttf",
+    "sha256": "3F184D949149F2E7E6A853593E25161FB1D3B6D3708EBF79CE78600788FDEA30",
+    "binary_threshold": 64,
+    "render_mode": "freetype_mono_hinting"
+  },
+  "targets": {
+    "title_subtitle": [
+      "title_logo",
+      "opening_title_logo_a",
+      "opening_title_logo_b"
+    ],
+    "pda_and_system_labels": [
+      "pda_mark",
+      "system_back",
+      "system_examine_disabled",
+      "system_examine_normal",
+      "system_talk"
+    ]
+  }
+}

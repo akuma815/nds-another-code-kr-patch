@@ -1,0 +1,36 @@
+asset_id,resource_id,source_text,translation_text,category,evidence,status,preview_png
+gfx:chapter1:number,p01_bg/P01_C0,第１章,제1장,chapter,user_runtime_and_archive_pair,preview_ready,preview_x4/chapter1_number.png
+gfx:chapter1:title,p01_bg/P01_C1,ディーとの出会い,디와의 만남,chapter,user_runtime_and_archive_pair,preview_ready,preview_x4/chapter1_title.png
+gfx:chapter2:number,p09_bg/P09_C0,第２章,제2장,chapter,user_runtime_and_archive_pair,preview_ready,preview_x4/chapter2_number.png
+gfx:chapter2:title,p09_bg/P09_C1,ローレンスの屋敷,로렌스의 저택,chapter,user_runtime_and_archive_pair,preview_ready,preview_x4/chapter2_title.png
+gfx:chapter3:number,p19_bg/P19_C0,第３章,제3장,chapter,archive_pair,preview_ready,preview_x4/chapter3_number.png
+gfx:chapter3:title,p19_bg/P19_C1,フラニーの思い出,프래니의 추억,chapter,archive_pair,preview_ready,preview_x4/chapter3_title.png
+gfx:chapter4:number,p26_bg/P26_C0,第４章,제4장,chapter,archive_pair,preview_ready,preview_x4/chapter4_number.png
+gfx:chapter4:title,p26_bg/P26_C1,パパとの再会,아빠와의 재회,chapter,archive_pair,preview_ready,preview_x4/chapter4_title.png
+gfx:chapter5:number,p31_bg/P31_C0,第５章,제5장,chapter,archive_pair,preview_ready,preview_x4/chapter5_number.png
+gfx:chapter5:title,p31_bg/P31_C1,セカンド・アナザー,세컨드 어나더,chapter,archive_pair,preview_ready,preview_x4/chapter5_title.png
+gfx:chapter6:number,p37_bg/P37_C0,第６章,제6장,chapter,archive_pair,preview_ready,preview_x4/chapter6_number.png
+gfx:chapter6:title,p37_bg/P37_C1,右手の記憶,오른손의 기억,chapter,archive_pair,preview_ready,preview_x4/chapter6_title.png
+gfx:chapter_final:number,p39_bg/P39_C0,終　章,종장,chapter,archive_pair,preview_ready,preview_x4/chapter_final_number.png
+gfx:chapter_final:title,p39_bg/P39_C1,蒼い月の奇跡,푸른 달의 기적,chapter,archive_pair,preview_ready,preview_x4/chapter_final_title.png
+gfx:location:entrance_hall,p10_bg/P10ST,玄関ホール,현관 홀,location,user_runtime_and_st_pattern,preview_ready,preview_x4/location_entrance_hall.png
+gfx:location:corridor_p12,p12_bg/P12ST,廊下,복도,location,st_pattern,preview_ready,preview_x4/location_corridor_p12.png
+gfx:location:butler_room,p13_bg/P13ST,執事室,집사실,location,st_pattern,preview_ready,preview_x4/location_butler_room.png
+gfx:location:silver_bird_room,p14_bg/P14ST,銀の鳥の間,은빛 새의 방,location,st_pattern,preview_ready,preview_x4/location_silver_bird_room.png
+gfx:location:gold_bird_room,p15_bg/P15ST,金の鳥の間,금빛 새의 방,location,st_pattern,preview_ready,preview_x4/location_gold_bird_room.png
+gfx:location:music_room,p16_bg/P16ST,音楽室,음악실,location,st_pattern,preview_ready,preview_x4/location_music_room.png
+gfx:location:corridor_p19,p19_bg/P19ST,廊下,복도,location,st_pattern,preview_ready,preview_x4/location_corridor_p19.png
+gfx:location:franny_room,p20_bg/P20ST,フラニーの部屋,프래니의 방,location,st_pattern,preview_ready,preview_x4/location_franny_room.png
+gfx:location:henry_couple_room,p21_bg/P21ST,ヘンリー夫妻の部屋,헨리 부부의 방,location,st_pattern,preview_ready,preview_x4/location_henry_couple_room.png
+gfx:location:henry_study,p22_bg/P22ST,ヘンリーの書斎,헨리의 서재,location,st_pattern,preview_ready,preview_x4/location_henry_study.png
+gfx:location:henry_secret_room,p23_bg/P23ST,ヘンリーの隠し部屋,헨리의 비밀 방,location,st_pattern,preview_ready,preview_x4/location_henry_secret_room.png
+gfx:location:gallery,p25_bg/P25ST,絵画室,화실,location,st_pattern,preview_ready,preview_x4/location_gallery.png
+gfx:location:dining_room,p26_bg/P26ST,食堂,식당,location,st_pattern,preview_ready,preview_x4/location_dining_room.png
+gfx:location:lounge,p27_bg/P27ST,談話室,담화실,location,st_pattern,preview_ready,preview_x4/location_lounge.png
+gfx:location:corridor_p28,p28_bg/P28ST,廊下,복도,location,st_pattern,preview_ready,preview_x4/location_corridor_p28.png
+gfx:location:kitchen,p29_bg/P29ST,厨房,주방,location,st_pattern,preview_ready,preview_x4/location_kitchen.png
+gfx:location:storage,p30_bg/P30ST,倉庫,창고,location,st_pattern,preview_ready,preview_x4/location_storage.png
+gfx:location:corridor_p31,p31_bg/P31ST,廊下,복도,location,st_pattern,preview_ready,preview_x4/location_corridor_p31.png
+gfx:location:lawrence_room,p32_bg/P32ST,ローレンスの部屋,로렌스의 방,location,st_pattern,preview_ready,preview_x4/location_lawrence_room.png
+gfx:location:laboratory,p36_bg/P36ST,研究室,연구실,location,st_pattern,preview_ready,preview_x4/location_laboratory.png
+gfx:location:cave,p38_bg/P38ST,洞窟,동굴,location,st_pattern,preview_ready,preview_x4/location_cave.png

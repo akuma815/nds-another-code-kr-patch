@@ -1,0 +1,64 @@
+{
+  "schema_version": 1,
+  "platform": "Nintendo DS",
+  "region": "Japan",
+  "source": {
+    "path": "original/Another Code 2tsu no Kioku.nds",
+    "size": 33554432,
+    "crc32": "EC861AB2",
+    "md5": "5933D51FD3BFCE700FEA8A61E6783FC2",
+    "sha1": "A2EA8009A0A85544FF87B437F9475F54455983C1",
+    "sha256": "6C8CB19DE7B86DC5F1147E4927D6916571968A06B5C2E9B88F62C22C271DD0A1"
+  },
+  "identity_verification": {
+    "header_identity": "ANOJ Japanese retail",
+    "published_md5_match": true,
+    "published_name": "Another Code - Futatsu no Kioku (Japan).nds",
+    "reference": "https://gist.github.com/ivanagui2/395d817592f5e2e95601040770142cac"
+  },
+  "header": {
+    "title": "ANOTHERCODE",
+    "game_code": "ANOJ",
+    "maker_code": "01",
+    "unit_code": 0,
+    "device_capacity": 8,
+    "rom_version": 0,
+    "header_crc16": "8170",
+    "header_crc16_verified": true,
+    "header_size": 16384,
+    "rom_used_size": 33319424,
+    "arm9": {
+      "rom_offset": "0x00004000",
+      "entry_address": "0x02004800",
+      "load_address": "0x02004000",
+      "size": 380792
+    },
+    "arm7": {
+      "rom_offset": "0x00133400",
+      "entry_address": "0x02380000",
+      "load_address": "0x02380000",
+      "size": 160384
+    },
+    "fnt": {
+      "rom_offset": "0x0015A800",
+      "size": 627
+    },
+    "fat": {
+      "rom_offset": "0x0015AC00",
+      "size": 712
+    },
+    "arm9_overlay_table": {
+      "rom_offset": "0x00061000",
+      "size": 1152
+    },
+    "arm7_overlay_table": {
+      "rom_offset": "0x00000000",
+      "size": 0
+    },
+    "banner": {
+      "rom_offset": "0x0015B000",
+      "version": 1
+    }
+  },
+  "status": "source_identity_and_published_clean_hash_match_verified"
+}

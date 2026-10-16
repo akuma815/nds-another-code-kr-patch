@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "font": {
+    "path": "../../../../Font/KMU80TTFHaeongSans.ttf",
+    "sha256": "DF9F536E641DE9637041CE763C653B02CCD21F336246A2E30700C9D25F5E90F5",
+    "format": "truetype_outline",
+    "poc_size": 20,
+    "binary_threshold": 128,
+    "roles": ["opening_year", "opening_location", "opening_dialogue", "opening_emphasis"]
+  },
+  "decision": "Use the user-selected KMU80TTFHaeongSans candidate for all opening movie text if the isolated 1948 binary-mask PoC passes in melonDS."
+}

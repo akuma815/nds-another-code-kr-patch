@@ -1,0 +1,36 @@
+canvas_id,resource_id,shift_mode,shift_x,crop_x,crop_y,crop_w,crop_h,translation_target,evidence,status,notes
+chapter1_number,p01_bg/P01_C0,tiled8_sequence,-64,0,0,256,192,제1장,chapter resource pair and runtime confirmation,editing_normalization_confirmed_visual,기존 확정 항목
+chapter1_title,p01_bg/P01_C1,tiled8_sequence,-64,0,0,256,192,디와의 만남,chapter resource pair and runtime confirmation,editing_normalization_confirmed_visual,기존 확정 항목
+chapter2_number,p09_bg/P09_C0,tiled8_sequence,-64,0,0,256,192,제2장,chapter resource pair and user runtime screenshot,editing_normalization_runtime_observed,2장 번호
+chapter2_title,p09_bg/P09_C1,tiled8_sequence,-64,0,0,256,192,로렌스의 저택,chapter resource pair and user runtime screenshot,editing_normalization_runtime_observed,2장 부제
+chapter3_number,p19_bg/P19_C0,tiled8_sequence,-64,0,0,256,192,제3장,chapter resource pair and archive pattern,editing_normalization_static_confirmed,3장 번호
+chapter3_title,p19_bg/P19_C1,tiled8_sequence,-64,0,0,256,192,프래니의 추억,chapter resource pair and archive pattern,editing_normalization_static_confirmed,3장 부제
+chapter4_number,p26_bg/P26_C0,tiled8_sequence,-64,0,0,256,192,제4장,chapter resource pair and archive pattern,editing_normalization_static_confirmed,4장 번호
+chapter4_title,p26_bg/P26_C1,tiled8_sequence,-64,0,0,256,192,아빠와의 재회,chapter resource pair and archive pattern,editing_normalization_static_confirmed,4장 부제
+chapter5_number,p31_bg/P31_C0,tiled8_sequence,-64,0,0,256,192,제5장,chapter resource pair and archive pattern,editing_normalization_static_confirmed,5장 번호
+chapter5_title,p31_bg/P31_C1,tiled8_sequence,-64,0,0,256,192,세컨드 어나더,chapter resource pair and archive pattern,editing_normalization_static_confirmed,5장 부제
+chapter6_number,p37_bg/P37_C0,tiled8_sequence,-64,0,0,256,192,제6장,chapter resource pair and archive pattern,editing_normalization_static_confirmed,6장 번호
+chapter6_title,p37_bg/P37_C1,tiled8_sequence,-64,0,0,256,192,오른손의 기억,chapter resource pair and archive pattern,editing_normalization_static_confirmed,6장 부제
+chapter_final_number,p39_bg/P39_C0,tiled8_sequence,-64,0,0,256,192,종장,chapter resource pair and archive pattern,editing_normalization_static_confirmed,최종장 번호
+chapter_final_title,p39_bg/P39_C1,tiled8_sequence,-64,0,0,256,192,푸른 달의 기적,chapter resource pair and archive pattern,editing_normalization_static_confirmed,최종장 부제
+location_entrance_hall,p10_bg/P10ST,tiled8_sequence,-64,0,0,256,64,현관 홀,ST resource pattern and user runtime screenshot,editing_normalization_runtime_observed,장소 카드
+location_corridor_p12,p12_bg/P12ST,tiled8_sequence,-64,0,0,256,64,복도,ST resource pattern,editing_normalization_static_confirmed,장소 카드
+location_butler_room,p13_bg/P13ST,tiled8_sequence,-64,0,0,256,64,집사실,ST resource pattern,editing_normalization_static_confirmed,장소 카드
+location_silver_bird_room,p14_bg/P14ST,tiled8_sequence,-64,0,0,256,64,은빛 새의 방,ST resource pattern,editing_normalization_static_confirmed,장소 카드
+location_gold_bird_room,p15_bg/P15ST,tiled8_sequence,-64,0,0,256,64,금빛 새의 방,ST resource pattern,editing_normalization_static_confirmed,장소 카드
+location_music_room,p16_bg/P16ST,tiled8_sequence,-64,0,0,256,64,음악실,ST resource pattern,editing_normalization_static_confirmed,장소 카드
+location_corridor_p19,p19_bg/P19ST,tiled8_sequence,-64,0,0,256,64,복도,ST resource pattern,editing_normalization_static_confirmed,장소 카드
+location_franny_room,p20_bg/P20ST,tiled8_sequence,-64,0,0,256,64,프래니의 방,ST resource pattern,editing_normalization_static_confirmed,장소 카드
+location_henry_couple_room,p21_bg/P21ST,tiled8_sequence,-64,0,0,256,64,헨리 부부의 방,ST resource pattern,editing_normalization_static_confirmed,장소 카드
+location_henry_study,p22_bg/P22ST,tiled8_sequence,-64,0,0,256,64,헨리의 서재,ST resource pattern,editing_normalization_static_confirmed,장소 카드
+location_henry_secret_room,p23_bg/P23ST,tiled8_sequence,-64,0,0,256,64,헨리의 비밀 방,ST resource pattern,editing_normalization_static_confirmed,장소 카드
+location_gallery,p25_bg/P25ST,tiled8_sequence,-64,0,0,256,64,화실,ST resource pattern,editing_normalization_static_confirmed,장소 카드
+location_dining_room,p26_bg/P26ST,tiled8_sequence,-64,0,0,256,64,식당,ST resource pattern,editing_normalization_static_confirmed,장소 카드
+location_lounge,p27_bg/P27ST,tiled8_sequence,-64,0,0,256,64,담화실,ST resource pattern,editing_normalization_static_confirmed,장소 카드
+location_corridor_p28,p28_bg/P28ST,tiled8_sequence,-64,0,0,256,64,복도,ST resource pattern,editing_normalization_static_confirmed,장소 카드
+location_kitchen,p29_bg/P29ST,tiled8_sequence,-64,0,0,256,64,주방,ST resource pattern,editing_normalization_static_confirmed,장소 카드
+location_storage,p30_bg/P30ST,tiled8_sequence,-64,0,0,256,64,창고,ST resource pattern,editing_normalization_static_confirmed,장소 카드
+location_corridor_p31,p31_bg/P31ST,tiled8_sequence,-64,0,0,256,64,복도,ST resource pattern,editing_normalization_static_confirmed,장소 카드
+location_lawrence_room,p32_bg/P32ST,tiled8_sequence,-64,0,0,256,64,로렌스의 방,ST resource pattern,editing_normalization_static_confirmed,장소 카드
+location_laboratory,p36_bg/P36ST,tiled8_sequence,-64,0,0,256,64,연구실,ST resource pattern,editing_normalization_static_confirmed,장소 카드
+location_cave,p38_bg/P38ST,tiled8_sequence,-64,0,0,256,64,동굴,ST resource pattern,editing_normalization_static_confirmed,장소 카드

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "extends": "graphics_translation_refine_v1.json",
+  "canvases": {
+    "chapter1_title": {
+      "cleanup": [{"box": [30, 68, 200, 49], "background": 72}],
+      "text_blocks": [{"source_box": [70, 75, 120, 35], "source_background": 76, "target_background": 72, "polarity": "bright", "min_delta": 10, "target_center": [127.5, 94.0], "target_height": 22}]
+    },
+    "title_logo": {
+      "cleanup": [{"box": [20, 76, 210, 36], "background": 255}],
+      "text_blocks": [{"source_box": [50, 76, 160, 30], "source_background": 255, "target_background": 255, "polarity": "dark", "min_delta": 75, "target_center": [128.0, 94.0], "target_height": 34}]
+    }
+  }
+}

@@ -1,0 +1,2 @@
+canvas_id,resource_id,shift_mode,shift_x,crop_x,crop_y,crop_w,crop_h,translation_target,evidence,status,notes
+sys_icon_full_probe,sys_bg/sys_icon,raster_rows,0,0,0,256,128,system icon census,user runtime screenshot,probe,inspect complete atlas for 上に乗る

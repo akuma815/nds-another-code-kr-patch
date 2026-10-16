@@ -1,0 +1,87 @@
+{
+  "schema_version": 1,
+  "status": "png_preview_only_pending_user_approval",
+  "resource_id": "sys_bg/myst03_tex",
+  "runtime_evidence": {
+    "pid": 1188,
+    "renderer": "GPU3D",
+    "polygon_index": 1,
+    "screen_bounds": [
+      0,
+      160,
+      32,
+      192
+    ],
+    "texture_bank": "A",
+    "texture_offset": "0x00200",
+    "texture_format": "16-color linear 4bpp",
+    "texture_palette_bank": "E",
+    "texture_palette_offset": "0x00020",
+    "decoded_exact_match_offset": "0x30"
+  },
+  "source_resource": "workspace\\graphics\\pack_v2\\decoded\\sys_bg\\myst03_tex.bin",
+  "source_sha256": "123A0B6FF78FD03E522FDC5E8112F61EEF7ACECD9526C83BF8440B75E4842BD8",
+  "translation": {
+    "source": "最初から",
+    "korean": "처음부터"
+  },
+  "edit": {
+    "runtime_text_box": [
+      2,
+      9,
+      30,
+      19
+    ],
+    "stored_text_box": [
+      2,
+      13,
+      30,
+      23
+    ],
+    "runtime_text_origin": [
+      3,
+      11
+    ],
+    "glyph_offsets": [
+      0,
+      6,
+      13,
+      20
+    ],
+    "phrase_ink_width": 26,
+    "storage_transform": "flip_top_bottom",
+    "runtime_texture_transform": "flip_top_bottom",
+    "runtime_row_background_indices": [
+      11,
+      4,
+      10,
+      10,
+      11,
+      9,
+      9,
+      7,
+      7,
+      7
+    ],
+    "ink_index": 14,
+    "changed_pixel_count": 151,
+    "changed_outside_text_box": 0,
+    "non_text_pixels_preserved": true
+  },
+  "font": {
+    "path": "..\\..\\Font\\Galmuri7_8x8.png",
+    "sha256": "A2BE473E22A62942164C95DB60F3F5AA88A99F76B525994D194E9F5F9DF387EA"
+  },
+  "outputs": {
+    "indexed_candidate": "indexed\\myst03_tex_restart_ko.png",
+    "indexed_candidate_sha256": "EC80BE5BF750860945698E004BFBEF74ED04AA15F383E6F60F142C514B9BB694",
+    "runtime_comparison": "preview_x8\\myst03_tex_runtime_comparison.png",
+    "runtime_comparison_sha256": "05C7AB94CBBE6D7BE9D383A0F8CA472054DCEF5568D34EA2A0357728CCB609F2",
+    "runtime_expected": "preview_x8\\myst03_tex_restart_ko_runtime_expected.png",
+    "runtime_expected_sha256": "93FC9A240C59DAA73458F0A33D9C2DE9DA1D09124774E693116E672A776B736F"
+  },
+  "safety": {
+    "decoded_binary_written": false,
+    "rom_built": false
+  }
+}

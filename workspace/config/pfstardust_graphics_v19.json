@@ -1,0 +1,199 @@
+{
+  "schema_version": 1,
+  "font_config": "graphics_font_sources_v19_pfstardust.json",
+  "canvases": {
+    "chapter1_number": {
+      "change_boxes": [[70, 68, 117, 49]],
+      "fill_boxes": [{"box": [70, 68, 117, 49], "background_index": 145}],
+      "labels": [
+        {"text": "제1장", "size": 24, "center": [126.0, 93.5], "ink_index": 255, "outline_index": 240, "outline_radius": 1, "bounds_box": [70, 68, 117, 49]}
+      ]
+    },
+    "chapter1_title": {
+      "change_boxes": [[30, 68, 200, 49]],
+      "fill_boxes": [{"box": [30, 68, 200, 49], "background_index": 145}],
+      "labels": [
+        {"text": "디와의 만남", "size": 24, "center": [127.5, 94.0], "ink_index": 255, "outline_index": 240, "outline_radius": 1, "bounds_box": [30, 68, 200, 49]}
+      ]
+    },
+    "opening_1948": {
+      "change_boxes": [[14, 49, 229, 74]],
+      "fill_boxes": [{"box": [14, 49, 229, 74], "background_index": 17}],
+      "labels": [
+        {"text": "1948년", "size": 20, "center": [129.0, 66.5], "ink_index": 255, "outline_index": 240, "outline_radius": 1, "bounds_box": [14, 49, 229, 74]},
+        {"text": "블러드 에드워드섬", "size": 20, "center": [128.5, 106.0], "ink_index": 255, "outline_index": 240, "outline_radius": 1, "bounds_box": [14, 49, 229, 74]}
+      ]
+    },
+    "opening_1994": {
+      "change_boxes": [[14, 49, 229, 74]],
+      "fill_boxes": [{"box": [14, 49, 229, 74], "background_index": 17}],
+      "labels": [
+        {"text": "1994년", "size": 20, "center": [129.0, 66.5], "ink_index": 255, "outline_index": 240, "outline_radius": 1, "bounds_box": [14, 49, 229, 74]},
+        {"text": "시애틀 교외", "size": 20, "center": [129.0, 106.0], "ink_index": 255, "outline_index": 240, "outline_radius": 1, "bounds_box": [14, 49, 229, 74]}
+      ]
+    },
+    "opening_2005": {
+      "change_boxes": [[14, 49, 229, 74]],
+      "fill_boxes": [{"box": [14, 49, 229, 74], "background_index": 17}],
+      "labels": [
+        {"text": "2005년", "size": 20, "center": [127.5, 66.0], "ink_index": 255, "outline_index": 240, "outline_radius": 1, "bounds_box": [14, 49, 229, 74]},
+        {"text": "블러드 에드워드섬", "size": 20, "center": [128.5, 106.5], "ink_index": 255, "outline_index": 240, "outline_radius": 1, "bounds_box": [14, 49, 229, 74]}
+      ]
+    },
+    "opening_ah": {
+      "change_boxes": [[68, 64, 123, 54]],
+      "fill_boxes": [{"box": [68, 64, 123, 54], "background_index": 0}],
+      "labels": [
+        {"text": "앗!!", "size": 28, "center": [143.0, 85.0], "ink_index": 255, "outline_index": 236, "outline_radius": 1, "bounds_box": [68, 64, 123, 54]}
+      ]
+    },
+    "opening_completed": {
+      "change_boxes": [[35, 85, 150, 36]],
+      "fill_boxes": [{"box": [35, 85, 150, 36], "background_index": 0}],
+      "labels": [
+        {"text": "완성했다…", "size": 24, "center": [105.5, 103.0], "ink_index": 255, "outline_index": 235, "outline_radius": 1, "bounds_box": [35, 85, 150, 36]}
+      ]
+    },
+    "opening_father": {
+      "change_boxes": [[40, 125, 140, 40]],
+      "fill_boxes": [{"box": [40, 125, 140, 40], "background_index": 0}],
+      "labels": [
+        {"text": "여보…", "size": 26, "center": [116.5, 144.0], "ink_index": 255, "outline_index": 231, "outline_radius": 1, "bounds_box": [40, 125, 140, 40]}
+      ]
+    },
+    "opening_finally": {
+      "change_boxes": [[90, 70, 130, 35]],
+      "fill_boxes": [{"box": [90, 70, 130, 35], "background_index": 0}],
+      "labels": [
+        {"text": "드디어…", "size": 24, "center": [154.0, 87.0], "ink_index": 255, "outline_index": 236, "outline_radius": 1, "bounds_box": [90, 70, 130, 35]}
+      ]
+    },
+    "opening_hide": {
+      "change_boxes": [[60, 98, 160, 75]],
+      "fill_boxes": [{"box": [60, 98, 160, 75], "background_index": 0}],
+      "labels": [
+        {"text": "애슐리, 빨리", "size": 24, "center": [138.0, 116.0], "ink_index": 255, "outline_index": 235, "outline_radius": 1, "bounds_box": [60, 98, 160, 75]},
+        {"text": "숨어!", "size": 24, "center": [138.0, 156.0], "ink_index": 255, "outline_index": 235, "outline_radius": 1, "bounds_box": [60, 98, 160, 75]}
+      ]
+    },
+    "opening_mama": {
+      "change_boxes": [[25, 85, 140, 35]],
+      "fill_boxes": [{"box": [25, 85, 140, 35], "background_index": 0}],
+      "labels": [
+        {"text": "엄마…", "size": 24, "center": [90.0, 102.0], "ink_index": 255, "outline_index": 238, "outline_radius": 1, "bounds_box": [25, 85, 140, 35]}
+      ]
+    },
+    "opening_richard": {
+      "change_boxes": [[40, 68, 170, 35]],
+      "fill_boxes": [{"box": [40, 68, 170, 35], "background_index": 23}],
+      "labels": [
+        {"text": "리처드…", "size": 24, "center": [123.5, 85.0], "ink_index": 255, "outline_index": 236, "outline_radius": 1, "bounds_box": [40, 68, 170, 35]}
+      ]
+    },
+    "opening_why": {
+      "change_boxes": [[65, 65, 150, 53]],
+      "fill_boxes": [{"box": [65, 65, 150, 53], "background_index": 239}],
+      "labels": [
+        {"text": "왜…!?", "size": 28, "center": [137.5, 91.5], "ink_index": 255, "outline_index": 240, "outline_radius": 1, "bounds_box": [65, 65, 150, 53]}
+      ]
+    },
+    "pda_mark": {
+      "change_boxes": [[20, 44, 24, 8]],
+      "restore_rows": [{"box": [20, 44, 24, 8], "sample_box": [20, 44, 24, 8], "method": "max"}],
+      "labels": [
+        {"text": "뒤로", "size": 9, "center": [32.0, 47.5], "ink_index": 1, "shadow": {"offset": [1, 0], "index": 7}, "bounds_box": [20, 44, 24, 8]}
+      ]
+    },
+    "system_back": {
+      "change_boxes": [[4, 9, 24, 11]],
+      "restore_rows": [{"box": [4, 9, 24, 11], "sample_box": [4, 9, 24, 11], "method": "max"}],
+      "labels": [
+        {"text": "뒤로", "size": 10, "center": [16.0, 14.5], "ink_index": 115, "bounds_box": [4, 9, 24, 11]}
+      ]
+    },
+    "system_examine_disabled": {
+      "change_boxes": [[4, 2, 24, 10]],
+      "restore_rows": [{"box": [4, 2, 24, 10], "sample_box": [4, 2, 24, 10], "method": "max"}],
+      "labels": [
+        {"text": "조사", "size": 10, "center": [16.0, 7.5], "ink_index": 154, "bounds_box": [4, 2, 24, 10]}
+      ]
+    },
+    "system_examine_normal": {
+      "change_boxes": [[4, 9, 24, 11]],
+      "restore_rows": [{"box": [4, 9, 24, 11], "sample_box": [4, 9, 24, 11], "method": "max"}],
+      "labels": [
+        {"text": "조사", "size": 10, "center": [16.0, 14.5], "ink_index": 115, "bounds_box": [4, 9, 24, 11]}
+      ]
+    },
+    "system_talk": {
+      "change_boxes": [[4, 2, 24, 10]],
+      "restore_rows": [{"box": [4, 2, 24, 10], "sample_box": [4, 2, 24, 10], "method": "max"}],
+      "labels": [
+        {"text": "대화", "size": 10, "center": [16.0, 7.5], "ink_index": 115, "bounds_box": [4, 2, 24, 10]}
+      ]
+    },
+    "title_menu": {
+      "change_boxes": [[80, 65, 105, 25], [80, 93, 105, 26]],
+      "fill_boxes": [
+        {"box": [80, 65, 105, 25], "background_index": 255},
+        {"box": [80, 93, 105, 26], "background_index": 255}
+      ],
+      "labels": [
+        {"text": "처음부터", "size": 16, "center": [132.0, 78.0], "ink_index": 196, "bounds_box": [80, 65, 105, 25]},
+        {"text": "이어하기", "size": 16, "center": [131.5, 106.0], "ink_index": 196, "bounds_box": [80, 93, 105, 26]}
+      ]
+    },
+    "title_touch": {
+      "change_boxes": [[30, 65, 200, 30]],
+      "fill_boxes": [{"box": [30, 65, 200, 30], "background_index": 255}],
+      "labels": [
+        {"text": "화면을 터치해 주세요", "size": 14, "center": [128.5, 80.0], "ink_index": 240, "bounds_box": [30, 65, 200, 30]}
+      ]
+    },
+    "title_logo": {
+      "change_boxes": [[8, 76, 240, 50]],
+      "fill_boxes": [{"box": [8, 76, 240, 50], "background_index": 255}],
+      "preserve_boxes": [{"box": [228, 104, 20, 12]}],
+      "lines": [
+        {"box": [22, 83, 31, 1], "index": 244}, {"box": [203, 83, 30, 1], "index": 244},
+        {"box": [22, 92, 31, 1], "index": 242}, {"box": [203, 92, 30, 1], "index": 242},
+        {"box": [22, 102, 31, 1], "index": 244}, {"box": [203, 102, 30, 1], "index": 244},
+        {"box": [39, 106, 16, 1], "index": 246}, {"box": [201, 106, 17, 1], "index": 246}
+      ],
+      "labels": [
+        {"text": "어나더 코드", "size": 30, "center": [128.0, 94.0], "ink_index": 241, "bounds_box": [8, 76, 240, 50]},
+        {"text": "두 개의 기억", "size": 12, "center": [128.0, 117.0], "ink_index": 244, "bounds_box": [8, 76, 240, 50]}
+      ]
+    },
+    "opening_title_logo_a": {
+      "change_boxes": [[8, 76, 240, 50]],
+      "fill_boxes": [{"box": [8, 76, 240, 50], "background_index": 255}],
+      "preserve_boxes": [{"box": [228, 104, 20, 12]}],
+      "lines": [
+        {"box": [22, 83, 31, 1], "index": 244}, {"box": [203, 83, 30, 1], "index": 244},
+        {"box": [22, 92, 31, 1], "index": 242}, {"box": [203, 92, 30, 1], "index": 242},
+        {"box": [22, 102, 31, 1], "index": 244}, {"box": [203, 102, 30, 1], "index": 244},
+        {"box": [39, 106, 16, 1], "index": 246}, {"box": [201, 106, 17, 1], "index": 246}
+      ],
+      "labels": [
+        {"text": "어나더 코드", "size": 30, "center": [128.0, 94.0], "ink_index": 241, "bounds_box": [8, 76, 240, 50]},
+        {"text": "두 개의 기억", "size": 12, "center": [128.0, 117.0], "ink_index": 244, "bounds_box": [8, 76, 240, 50]}
+      ]
+    },
+    "opening_title_logo_b": {
+      "change_boxes": [[8, 76, 240, 50]],
+      "fill_boxes": [{"box": [8, 76, 240, 50], "background_index": 255}],
+      "preserve_boxes": [{"box": [228, 104, 20, 12]}],
+      "lines": [
+        {"box": [22, 83, 31, 1], "index": 244}, {"box": [203, 83, 30, 1], "index": 244},
+        {"box": [22, 92, 31, 1], "index": 242}, {"box": [203, 92, 30, 1], "index": 242},
+        {"box": [22, 102, 31, 1], "index": 244}, {"box": [203, 102, 30, 1], "index": 244},
+        {"box": [39, 106, 16, 1], "index": 246}, {"box": [201, 106, 17, 1], "index": 246}
+      ],
+      "labels": [
+        {"text": "어나더 코드", "size": 30, "center": [128.0, 94.0], "ink_index": 241, "bounds_box": [8, 76, 240, 50]},
+        {"text": "두 개의 기억", "size": 12, "center": [128.0, 117.0], "ink_index": 244, "bounds_box": [8, 76, 240, 50]}
+      ]
+    }
+  }
+}

@@ -1,0 +1,2 @@
+block_id,asset_id,source_png,source_sha256,x,y,w,h,format,source_text,translation_text,priority,state,evidence,notes
+gfx:pda_mark:return,direct:pda/mark,pack_v2/png/pda/mark.png,EE2C4FBDE3ECA16F54FBC9C23260FE7AFD8B05605BA1632E71D72CE6C12417D8,44,44,20,7,indexed4_bgr555_tiled8,もどる,,high,found_untranslated,review_v2/candidate_sheets/pda_01.png,확대 시각 검수로 확인; 번역과 조판은 미승인

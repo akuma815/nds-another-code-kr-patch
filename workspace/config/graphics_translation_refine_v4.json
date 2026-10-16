@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "extends": "graphics_translation_refine_v3.json",
+  "canvases": {
+    "title_logo": {
+      "cleanup": [
+        {
+          "box": [20, 76, 210, 36],
+          "background": 255
+        }
+      ],
+      "line_aware_text_blocks": [
+        {
+          "source_box": [50, 76, 160, 30],
+          "source_background": 255,
+          "target_background": 255,
+          "polarity": "dark",
+          "min_delta": 75,
+          "target_center": [128.0, 94.0],
+          "target_height": 30,
+          "line_gap": 0,
+          "lines": [
+            {"box": [22, 83, 211, 1], "value": 215},
+            {"box": [22, 92, 211, 1], "value": 205},
+            {"box": [22, 102, 211, 1], "value": 220},
+            {"box": [39, 104, 179, 1], "value": 181},
+            {"box": [58, 108, 141, 1], "value": 205}
+          ]
+        }
+      ]
+    }
+  }
+}

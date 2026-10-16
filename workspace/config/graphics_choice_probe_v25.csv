@@ -1,0 +1,7 @@
+canvas_id,resource_id,shift_mode,shift_x,crop_x,crop_y,crop_w,crop_h,translation_target,evidence,status,notes
+yes_x104_y32,sys_bg/sys_icon,raster_rows,0,104,32,32,32,예,atlas coordinate probe,probe,8-pixel offset candidate
+no_x136_y32,sys_bg/sys_icon,raster_rows,0,136,32,32,32,아니요,atlas coordinate probe,probe,8-pixel offset candidate
+yes_x104_y40,sys_bg/sys_icon,raster_rows,0,104,40,32,32,예,atlas coordinate probe,probe,vertical offset candidate
+no_x136_y40,sys_bg/sys_icon,raster_rows,0,136,40,32,32,아니요,atlas coordinate probe,probe,vertical offset candidate
+yes_x128_y32,sys_bg/sys_icon,raster_rows,0,128,32,32,32,예,atlas coordinate probe,probe,aligned yes candidate
+no_x160_y32,sys_bg/sys_icon,raster_rows,0,160,32,32,32,아니요,atlas coordinate probe,probe,aligned no candidate

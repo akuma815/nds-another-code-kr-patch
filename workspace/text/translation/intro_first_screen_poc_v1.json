@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "translation_id": "intro-first-screen-poc-001",
+  "text_id": "arm9_overlay_000_file_000:003EBC",
+  "source_literal": "１３才最後の朝%w(60)%r%m(10)気分は最悪だった",
+  "translation_literal": "열셋마지막아침%w(60)%r%m(10)기분은최악이었다",
+  "status": "poc_only_not_final_translation",
+  "protected": {
+    "all_directives": "preserve byte-for-byte and in place",
+    "record_length": "preserve",
+    "pointer_targets": "preserve",
+    "line_cells": "preserve 7 cells on line 1 and 8 cells on line 2"
+  }
+}

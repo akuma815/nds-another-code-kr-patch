@@ -1,0 +1,19 @@
+{
+  "schema_version": 1,
+  "batch_id": "intro-code-range-poc-v1",
+  "build_class": "development_poc_not_release_eligible",
+  "source_sha256": "6C8CB19DE7B86DC5F1147E4927D6916571968A06B5C2E9B88F62C22C271DD0A1",
+  "scope": "first automatic intro screen exercising one selected code from each lead byte used by the 824-slot static candidate selection",
+  "entries": [
+    {
+      "text_id": "arm9_overlay_000_file_000:003EBC",
+      "source_raw_hex": "825082528DCB8DC58CE382CC92A92577283630292572256D283130298B4395AA82CD8DC588AB82BE82C182BD257728313230292565",
+      "source_text": "１３才最後の朝%w(60)%r%m(10)気分は最悪だった%w(120)%e",
+      "translation_text": "가나다라마바사%w(60)%r%m(10)아자드살가나다라%w(120)%e",
+      "status": "development_code_range_poc_runtime_pending",
+      "context_status": "first automatic intro screen; diagnostic glyph sequence, not a translation",
+      "reinsertion_policy": "fixed_length_preserve_all_directives",
+      "notes": "The 15 double-byte glyph cells preserve the original 53-byte record length. The first eleven displayed glyphs cover lead bytes 81,82,83,84,85,86,87,88,96,97,98."
+    }
+  ]
+}

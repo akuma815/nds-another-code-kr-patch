@@ -1,0 +1,25 @@
+{
+  "schema_version": 1,
+  "gate_id": "intro-csv-relocation-001",
+  "build_id": "intro-csv-relocation-poc-v1",
+  "build_class": "development_poc_not_for_distribution",
+  "source_sha256": "6C8CB19DE7B86DC5F1147E4927D6916571968A06B5C2E9B88F62C22C271DD0A1",
+  "translated_csv_sha256": "3F3A38719B22B7FCCE638EAA2357FB3B0F0B53464204F2F468FA8D2890506B71",
+  "component": "arm9_overlay_000_file_000",
+  "selected_text_ids": [
+    "arm9_overlay_000_file_000:003EBC",
+    "arm9_overlay_000_file_000:004034",
+    "arm9_overlay_000_file_000:003EF4"
+  ],
+  "packing": {
+    "mode": "repack_confirmed_component_text_regions",
+    "max_zero_alignment_gap": 3,
+    "terminator": "00",
+    "unselected_record_policy": "preserve_source_raw_and_repoint"
+  },
+  "runtime_gate": {
+    "pass": "fresh boot shows all three final CSV intro screens in Korean, advances to the next screen, and has no blank or duplicate page",
+    "fail": "boot or overlay load failure, missing or wrong glyph, Japanese source text on the selected screens, blank or duplicate page, or progression failure",
+    "not_proved": "whole-game relocation, auxiliary consumer behavior, or whole-game glyph pool safety"
+  }
+}

@@ -1,0 +1,5 @@
+{
+  "schema_version": 1,
+  "extends": "graphics_translation_refine_v12.json",
+  "canvases": {}
+}

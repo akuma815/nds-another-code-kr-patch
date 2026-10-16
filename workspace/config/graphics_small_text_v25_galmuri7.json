@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "font": {
+    "path": "../../../../Font/Galmuri7_8x8.png",
+    "sha256": "A2BE473E22A62942164C95DB60F3F5AA88A99F76B525994D194E9F5F9DF387EA",
+    "cell_width": 8,
+    "cell_height": 8,
+    "render_mode": "native_bitmap_cell"
+  },
+  "targets": [
+    "system_yes",
+    "system_no"
+  ],
+  "labels": [
+    "예",
+    "아니요"
+  ]
+}

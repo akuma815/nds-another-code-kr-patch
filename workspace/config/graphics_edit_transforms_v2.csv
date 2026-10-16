@@ -1,0 +1,13 @@
+canvas_id,resource_id,shift_mode,shift_x,crop_x,crop_y,crop_w,crop_h,translation_target,evidence,status,notes
+title_logo,sys_bg/title01,tiled8_sequence,-64,0,0,256,192,어나더 코드 두 개의 기억,8-tile sequence alignment,editing_normalization_confirmed_visual,전체 타일 스트림을 왼쪽 8타일 순환 이동
+title_touch,sys_bg/title02,tiled8_sequence,-64,0,0,256,192,화면을 터치해 주세요,8-tile sequence alignment,editing_normalization_confirmed_visual,행 단위 이동에서 내려갔던 마지막 글자와 저작권 문구가 수평으로 정렬됨
+title_menu,sys_bg/title03,tiled8_sequence,-64,0,0,256,192,처음부터 / 이어하기,8-tile sequence alignment,editing_normalization_confirmed_visual,메뉴와 저작권 문구를 화면 좌표로 결합
+system_talk,sys_bg/sys_icon,raster_rows,0,0,80,32,16,말하기,user screenshot and atlas match,editing_crop_confirmed,전체 스프라이트 시트 중 話す 셀만 분리
+chapter1_number,p01_bg/P01_C0,tiled8_sequence,-64,0,0,256,192,제1장,8-tile sequence alignment,editing_normalization_confirmed_visual,장 번호를 화면 중앙으로 복원
+chapter1_title,p01_bg/P01_C1,tiled8_sequence,-64,0,0,256,192,디와의 만남,8-tile sequence alignment,editing_normalization_confirmed_visual,타일 스트림 경계를 넘어간 마지막 글자까지 같은 행으로 결합
+opening_1948,v05_bg/V5_000,tiled8_sequence,-64,0,0,256,192,1948년 / 블러드 에드워드섬,user screenshot and 8-tile alignment,editing_normalization_confirmed_visual,연도와 장소 카드의 타일 스트림 시작점 복원
+opening_1994,v05_bg/V5_007,tiled8_sequence,-64,0,0,256,192,1994년 / 시애틀 교외,8-tile sequence alignment,editing_normalization_confirmed_visual,동형 연도와 장소 카드
+opening_2005,v05_bg/V5_015,tiled8_sequence,-64,0,0,256,192,2005년 / 블러드 에드워드섬,8-tile sequence alignment,editing_normalization_confirmed_visual,동형 연도와 장소 카드
+opening_father,v05_bg/V5_023,tiled8_sequence,-64,0,0,256,192,아빠…,user screenshot and 8-tile alignment,editing_normalization_confirmed_visual,타일 경계가 글자를 가르지 않도록 전체 스트림 이동
+opening_why,v05_bg/V5_024,tiled8_sequence,-64,0,0,256,192,왜…!?,user screenshot and 8-tile alignment,editing_normalization_confirmed_visual,왼쪽과 오른쪽으로 갈린 본문을 같은 행으로 결합
+opening_ah,v05_bg/V5_025,raster_rows,0,0,0,256,192,앗!!,user screenshot and index preview,editing_normalization_confirmed_visual,이미 한 화면 중앙에 있어 이동 없음

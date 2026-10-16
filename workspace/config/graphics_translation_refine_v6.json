@@ -1,0 +1,27 @@
+{
+  "schema_version": 1,
+  "extends": "graphics_translation_refine_v5.json",
+  "canvases": {
+    "pda_mark": {
+      "restore_rows": [
+        {
+          "box": [44, 44, 20, 8],
+          "sample_box": [44, 44, 20, 8]
+        }
+      ],
+      "font_texts": [
+        {
+          "text": "뒤로",
+          "font_path": "../../../../Font/Galmuri9.ttf",
+          "font_size": 7,
+          "center": [54.0, 47.0],
+          "value": 18,
+          "shadow": {
+            "offset": [1, 0],
+            "value": 109
+          }
+        }
+      ]
+    }
+  }
+}

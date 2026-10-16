@@ -1,0 +1,6648 @@
+{
+  "schema_version": 1,
+  "mapping_id": "another-code-full-hangul-candidate-v1",
+  "status": "static_candidate_mapping_runtime_leads_pass_nontext_gate_pending",
+  "source_sha256": "6C8CB19DE7B86DC5F1147E4927D6916571968A06B5C2E9B88F62C22C271DD0A1",
+  "translation_ssot_sha256": "AEBBE6B9F117BB182F3EF0DEA966F2D12EC318B03951286F26D990DEC399CF68",
+  "original_font_sha256": "237924FBFE3B77A0F9E63FC12B352AF48639EB7E479581416734DBFC84B47613",
+  "font_source_sha256": "3EE2A45C20120C42705AE3EE9540DB191A1443E110ECA6D0C4A1760CBE0B91E5",
+  "audit": {
+    "path": "workspace\\analysis\\full_hangul_code_pool_20260829_v37.json",
+    "sha256": "A16C460C569BE6FE901213E93B361691CAF3FC92E6F19DBFC3C462A8C1A00FFA",
+    "tier": "tier_a"
+  },
+  "runtime_gate": {
+    "path": "qa\\runtime\\intro-code-range-001\\result.json",
+    "sha256": "AB9850A93E8BB649E9D767351195FFA3242EAEF597124E5EE0A1D574ABDEB191",
+    "status": "runtime_pass_user_confirmed_representative_leads",
+    "lead_byte_coverage": [
+      "81",
+      "82",
+      "83",
+      "84",
+      "85",
+      "86",
+      "87",
+      "88",
+      "96",
+      "97",
+      "98"
+    ],
+    "scope": "representative codes in the main intro renderer"
+  },
+  "character_count": 825,
+  "preserved_existing_mapping_count": 45,
+  "all_zero_original_glyph_count": 630,
+  "nonzero_original_glyph_count": 195,
+  "allocation_order": "final CSV Hangul first-occurrence order; preserve existing intro mappings; then consume the audited selected-code order",
+  "mappings": [
+    {
+      "character": "묘",
+      "code": "889E",
+      "glyph_index": 1409,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "지",
+      "code": "986E",
+      "glyph_index": 4370,
+      "original_glyph": "nonzero",
+      "cp932_status": "defined_in_cp932",
+      "mapping_origin": "preserved_runtime_intro_mapping"
+    },
+    {
+      "character": "주",
+      "code": "889D",
+      "glyph_index": 1408,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "방",
+      "code": "889C",
+      "glyph_index": 1407,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "식",
+      "code": "889B",
+      "glyph_index": 1406,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "당",
+      "code": "889A",
+      "glyph_index": 1405,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "동",
+      "code": "8899",
+      "glyph_index": 1404,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "굴",
+      "code": "8898",
+      "glyph_index": 1403,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "계",
+      "code": "8896",
+      "glyph_index": 1401,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "단",
+      "code": "8895",
+      "glyph_index": 1400,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "복",
+      "code": "8894",
+      "glyph_index": 1399,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "도",
+      "code": "985D",
+      "glyph_index": 4353,
+      "original_glyph": "nonzero",
+      "cp932_status": "defined_in_cp932",
+      "mapping_origin": "preserved_runtime_intro_mapping"
+    },
+    {
+      "character": "창",
+      "code": "8893",
+      "glyph_index": 1398,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "고",
+      "code": "985B",
+      "glyph_index": 4351,
+      "original_glyph": "nonzero",
+      "cp932_status": "defined_in_cp932",
+      "mapping_origin": "preserved_runtime_intro_mapping"
+    },
+    {
+      "character": "선",
+      "code": "8892",
+      "glyph_index": 1397,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "상",
+      "code": "888F",
+      "glyph_index": 1394,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "담",
+      "code": "888D",
+      "glyph_index": 1392,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "화",
+      "code": "888C",
+      "glyph_index": 1391,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "실",
+      "code": "888B",
+      "glyph_index": 1390,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "갱",
+      "code": "888A",
+      "glyph_index": 1389,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "입",
+      "code": "8889",
+      "glyph_index": 1388,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "구",
+      "code": "8888",
+      "glyph_index": 1387,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "후",
+      "code": "8887",
+      "glyph_index": 1386,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "미",
+      "code": "8886",
+      "glyph_index": 1385,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "홀",
+      "code": "8885",
+      "glyph_index": 1384,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "연",
+      "code": "8884",
+      "glyph_index": 1383,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "음",
+      "code": "9854",
+      "glyph_index": 4344,
+      "original_glyph": "nonzero",
+      "cp932_status": "defined_in_cp932",
+      "mapping_origin": "preserved_runtime_intro_mapping"
+    },
+    {
+      "character": "악",
+      "code": "9866",
+      "glyph_index": 4362,
+      "original_glyph": "nonzero",
+      "cp932_status": "defined_in_cp932",
+      "mapping_origin": "preserved_runtime_intro_mapping"
+    },
+    {
+      "character": "집",
+      "code": "8881",
+      "glyph_index": 1380,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "사",
+      "code": "8880",
+      "glyph_index": 1379,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "저",
+      "code": "887E",
+      "glyph_index": 1378,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "택",
+      "code": "887D",
+      "glyph_index": 1377,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "으",
+      "code": "97F8",
+      "glyph_index": 4319,
+      "original_glyph": "nonzero",
+      "cp932_status": "defined_in_cp932",
+      "mapping_origin": "preserved_runtime_intro_mapping"
+    },
+    {
+      "character": "로",
+      "code": "984B",
+      "glyph_index": 4335,
+      "original_glyph": "nonzero",
+      "cp932_status": "defined_in_cp932",
+      "mapping_origin": "preserved_runtime_intro_mapping"
+    },
+    {
+      "character": "가",
+      "code": "887C",
+      "glyph_index": 1376,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "는",
+      "code": "985C",
+      "glyph_index": 4352,
+      "original_glyph": "nonzero",
+      "cp932_status": "defined_in_cp932",
+      "mapping_origin": "preserved_runtime_intro_mapping"
+    },
+    {
+      "character": "길",
+      "code": "887B",
+      "glyph_index": 1375,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "문",
+      "code": "887A",
+      "glyph_index": 1374,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "기",
+      "code": "986A",
+      "glyph_index": 4366,
+      "original_glyph": "nonzero",
+      "cp932_status": "defined_in_cp932",
+      "mapping_origin": "preserved_runtime_intro_mapping"
+    },
+    {
+      "character": "오",
+      "code": "8879",
+      "glyph_index": 1373,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "두",
+      "code": "8878",
+      "glyph_index": 1372,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "막",
+      "code": "986D",
+      "glyph_index": 4369,
+      "original_glyph": "nonzero",
+      "cp932_status": "defined_in_cp932",
+      "mapping_origin": "preserved_runtime_intro_mapping"
+    },
+    {
+      "character": "남",
+      "code": "8877",
+      "glyph_index": 1371,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "관",
+      "code": "8876",
+      "glyph_index": 1370,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "현",
+      "code": "8875",
+      "glyph_index": 1369,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "은",
+      "code": "9868",
+      "glyph_index": 4364,
+      "original_glyph": "nonzero",
+      "cp932_status": "defined_in_cp932",
+      "mapping_origin": "preserved_runtime_intro_mapping"
+    },
+    {
+      "character": "빛",
+      "code": "8874",
+      "glyph_index": 1368,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "새",
+      "code": "8873",
+      "glyph_index": 1367,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "의",
+      "code": "8872",
+      "glyph_index": 1366,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "금",
+      "code": "8871",
+      "glyph_index": 1365,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "북",
+      "code": "8870",
+      "glyph_index": 1364,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "착",
+      "code": "886F",
+      "glyph_index": 1363,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "장",
+      "code": "886E",
+      "glyph_index": 1362,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "부",
+      "code": "886D",
+      "glyph_index": 1361,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "숲",
+      "code": "886C",
+      "glyph_index": 1360,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "갈",
+      "code": "886B",
+      "glyph_index": 1359,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "림",
+      "code": "886A",
+      "glyph_index": 1358,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "폐",
+      "code": "8869",
+      "glyph_index": 1357,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "광",
+      "code": "8868",
+      "glyph_index": 1356,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "프",
+      "code": "8867",
+      "glyph_index": 1355,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "래",
+      "code": "8866",
+      "glyph_index": 1354,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "니",
+      "code": "8865",
+      "glyph_index": 1353,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "헨",
+      "code": "8864",
+      "glyph_index": 1352,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "리",
+      "code": "9843",
+      "glyph_index": 4327,
+      "original_glyph": "nonzero",
+      "cp932_status": "defined_in_cp932",
+      "mapping_origin": "preserved_runtime_intro_mapping"
+    },
+    {
+      "character": "서",
+      "code": "8863",
+      "glyph_index": 1351,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "재",
+      "code": "8862",
+      "glyph_index": 1350,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "렌",
+      "code": "8861",
+      "glyph_index": 1349,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "스",
+      "code": "8860",
+      "glyph_index": 1348,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "비",
+      "code": "885F",
+      "glyph_index": 1347,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "밀",
+      "code": "885E",
+      "glyph_index": 1346,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "나",
+      "code": "9847",
+      "glyph_index": 4331,
+      "original_glyph": "nonzero",
+      "cp932_status": "defined_in_cp932",
+      "mapping_origin": "preserved_runtime_intro_mapping"
+    },
+    {
+      "character": "머",
+      "code": "885D",
+      "glyph_index": 1345,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "한",
+      "code": "885C",
+      "glyph_index": 1344,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "짝",
+      "code": "885B",
+      "glyph_index": 1343,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "신",
+      "code": "885A",
+      "glyph_index": 1342,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "발",
+      "code": "8859",
+      "glyph_index": 1341,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "에",
+      "code": "97FB",
+      "glyph_index": 4322,
+      "original_glyph": "nonzero",
+      "cp932_status": "defined_in_cp932",
+      "mapping_origin": "preserved_runtime_intro_mapping"
+    },
+    {
+      "character": "수",
+      "code": "8858",
+      "glyph_index": 1340,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "세",
+      "code": "8857",
+      "glyph_index": 1339,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "람",
+      "code": "8856",
+      "glyph_index": 1338,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "진",
+      "code": "8855",
+      "glyph_index": 1337,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "견",
+      "code": "8854",
+      "glyph_index": 1336,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "파",
+      "code": "9860",
+      "glyph_index": 4356,
+      "original_glyph": "nonzero",
+      "cp932_status": "defined_in_cp932",
+      "mapping_origin": "preserved_runtime_intro_mapping"
+    },
+    {
+      "character": "란",
+      "code": "8853",
+      "glyph_index": 1335,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "카",
+      "code": "8852",
+      "glyph_index": 1334,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "드",
+      "code": "97FC",
+      "glyph_index": 4323,
+      "original_glyph": "nonzero",
+      "cp932_status": "defined_in_cp932",
+      "mapping_origin": "preserved_runtime_intro_mapping"
+    },
+    {
+      "character": "소",
+      "code": "8851",
+      "glyph_index": 1333,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "불",
+      "code": "8850",
+      "glyph_index": 1332,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "명",
+      "code": "884F",
+      "glyph_index": 1331,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "석",
+      "code": "884E",
+      "glyph_index": 1330,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "차",
+      "code": "884D",
+      "glyph_index": 1329,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "어",
+      "code": "884C",
+      "glyph_index": 1328,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "더",
+      "code": "884B",
+      "glyph_index": 1327,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "논",
+      "code": "884A",
+      "glyph_index": 1326,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "녹",
+      "code": "8849",
+      "glyph_index": 1325,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "슨",
+      "code": "8848",
+      "glyph_index": 1324,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "이",
+      "code": "9865",
+      "glyph_index": 4361,
+      "original_glyph": "nonzero",
+      "cp932_status": "defined_in_cp932",
+      "mapping_origin": "preserved_runtime_intro_mapping"
+    },
+    {
+      "character": "븐",
+      "code": "8847",
+      "glyph_index": 1323,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "안",
+      "code": "8846",
+      "glyph_index": 1322,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "그",
+      "code": "9849",
+      "glyph_index": 4333,
+      "original_glyph": "nonzero",
+      "cp932_status": "defined_in_cp932",
+      "mapping_origin": "preserved_runtime_intro_mapping"
+    },
+    {
+      "character": "려",
+      "code": "8845",
+      "glyph_index": 1321,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "루",
+      "code": "8844",
+      "glyph_index": 1320,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "마",
+      "code": "986F",
+      "glyph_index": 4371,
+      "original_glyph": "nonzero",
+      "cp932_status": "defined_in_cp932",
+      "mapping_origin": "preserved_runtime_intro_mapping"
+    },
+    {
+      "character": "함",
+      "code": "8843",
+      "glyph_index": 1319,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "있",
+      "code": "97F2",
+      "glyph_index": 4313,
+      "original_glyph": "nonzero",
+      "cp932_status": "defined_in_cp932",
+      "mapping_origin": "preserved_runtime_intro_mapping"
+    },
+    {
+      "character": "었",
+      "code": "9864",
+      "glyph_index": 4360,
+      "original_glyph": "nonzero",
+      "cp932_status": "defined_in_cp932",
+      "mapping_origin": "preserved_runtime_intro_mapping"
+    },
+    {
+      "character": "다",
+      "code": "9863",
+      "glyph_index": 4359,
+      "original_glyph": "nonzero",
+      "cp932_status": "defined_in_cp932",
+      "mapping_origin": "preserved_runtime_intro_mapping"
+    },
+    {
+      "character": "잔",
+      "code": "985A",
+      "glyph_index": 4350,
+      "original_glyph": "nonzero",
+      "cp932_status": "defined_in_cp932",
+      "mapping_origin": "preserved_runtime_intro_mapping"
+    },
+    {
+      "character": "목",
+      "code": "8842",
+      "glyph_index": 1318,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "탄",
+      "code": "8841",
+      "glyph_index": 1317,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "벽",
+      "code": "8840",
+      "glyph_index": 1316,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "난",
+      "code": "87FC",
+      "glyph_index": 1315,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "찾",
+      "code": "87FB",
+      "glyph_index": 1314,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "았",
+      "code": "87FA",
+      "glyph_index": 1313,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "디",
+      "code": "87F9",
+      "glyph_index": 1312,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "쓸",
+      "code": "87F8",
+      "glyph_index": 1311,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "을",
+      "code": "87F7",
+      "glyph_index": 1310,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "까",
+      "code": "87F6",
+      "glyph_index": 1309,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "치",
+      "code": "87F5",
+      "glyph_index": 1308,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "인",
+      "code": "87F4",
+      "glyph_index": 1307,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "형",
+      "code": "87F3",
+      "glyph_index": 1306,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "초",
+      "code": "87F2",
+      "glyph_index": 1305,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "콜",
+      "code": "87F1",
+      "glyph_index": 1304,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "릿",
+      "code": "87F0",
+      "glyph_index": 1303,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "던",
+      "code": "87EF",
+      "glyph_index": 1302,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "자",
+      "code": "87EE",
+      "glyph_index": 1301,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "게",
+      "code": "9851",
+      "glyph_index": 4341,
+      "original_glyph": "nonzero",
+      "cp932_status": "defined_in_cp932",
+      "mapping_origin": "preserved_runtime_intro_mapping"
+    },
+    {
+      "character": "받",
+      "code": "87ED",
+      "glyph_index": 1300,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "하",
+      "code": "97F6",
+      "glyph_index": 4317,
+      "original_glyph": "nonzero",
+      "cp932_status": "defined_in_cp932",
+      "mapping_origin": "preserved_runtime_intro_mapping"
+    },
+    {
+      "character": "얀",
+      "code": "87EC",
+      "glyph_index": 1299,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "책",
+      "code": "87EB",
+      "glyph_index": 1298,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "위",
+      "code": "97F3",
+      "glyph_index": 4314,
+      "original_glyph": "nonzero",
+      "cp932_status": "defined_in_cp932",
+      "mapping_origin": "preserved_runtime_intro_mapping"
+    },
+    {
+      "character": "액",
+      "code": "87EA",
+      "glyph_index": 1297,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "톱",
+      "code": "87E9",
+      "glyph_index": 1296,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "바",
+      "code": "87E8",
+      "glyph_index": 1295,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "퀴",
+      "code": "87E7",
+      "glyph_index": 1294,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "특",
+      "code": "87E6",
+      "glyph_index": 1293,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "모",
+      "code": "87E5",
+      "glyph_index": 1292,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "양",
+      "code": "87E4",
+      "glyph_index": 1291,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "야",
+      "code": "87E3",
+      "glyph_index": 1290,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "쌍",
+      "code": "87E2",
+      "glyph_index": 1289,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "엽",
+      "code": "87E1",
+      "glyph_index": 1288,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "열",
+      "code": "87E0",
+      "glyph_index": 1287,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "쇠",
+      "code": "87DF",
+      "glyph_index": 1286,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "조",
+      "code": "87DE",
+      "glyph_index": 1285,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "각",
+      "code": "87DD",
+      "glyph_index": 1284,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "숨",
+      "code": "87DC",
+      "glyph_index": 1283,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "겨",
+      "code": "87DB",
+      "glyph_index": 1282,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "져",
+      "code": "87DA",
+      "glyph_index": 1281,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "번",
+      "code": "87D9",
+      "glyph_index": 1280,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "째",
+      "code": "87D8",
+      "glyph_index": 1279,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "속",
+      "code": "87D7",
+      "glyph_index": 1278,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "요",
+      "code": "87D6",
+      "glyph_index": 1277,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "코",
+      "code": "87D5",
+      "glyph_index": 1276,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "살",
+      "code": "9871",
+      "glyph_index": 4373,
+      "original_glyph": "nonzero",
+      "cp932_status": "defined_in_cp932",
+      "mapping_origin": "preserved_runtime_intro_mapping"
+    },
+    {
+      "character": "해",
+      "code": "87D4",
+      "glyph_index": 1275,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "빨",
+      "code": "87D3",
+      "glyph_index": 1274,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "간",
+      "code": "87D2",
+      "glyph_index": 1273,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "테",
+      "code": "87D1",
+      "glyph_index": 1272,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "베",
+      "code": "87D0",
+      "glyph_index": 1271,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "타",
+      "code": "87CF",
+      "glyph_index": 1270,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "왜",
+      "code": "87CE",
+      "glyph_index": 1269,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "걸",
+      "code": "87CD",
+      "glyph_index": 1268,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "슬",
+      "code": "87CC",
+      "glyph_index": 1267,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "무",
+      "code": "87CB",
+      "glyph_index": 1266,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "통",
+      "code": "87CA",
+      "glyph_index": 1265,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "텐",
+      "code": "87C9",
+      "glyph_index": 1264,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "겁",
+      "code": "87C8",
+      "glyph_index": 1263,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "경",
+      "code": "87C7",
+      "glyph_index": 1262,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "건",
+      "code": "87C6",
+      "glyph_index": 1261,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "제",
+      "code": "87C5",
+      "glyph_index": 1260,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "시",
+      "code": "87C4",
+      "glyph_index": 1259,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "거",
+      "code": "87C3",
+      "glyph_index": 1258,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "메",
+      "code": "87C2",
+      "glyph_index": 1257,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "달",
+      "code": "87C1",
+      "glyph_index": 1256,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "찬",
+      "code": "87C0",
+      "glyph_index": 1255,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "퍼",
+      "code": "87BF",
+      "glyph_index": 1254,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "즐",
+      "code": "87BE",
+      "glyph_index": 1253,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "웠",
+      "code": "87BD",
+      "glyph_index": 1252,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "법",
+      "code": "87BC",
+      "glyph_index": 1251,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "큰",
+      "code": "87BB",
+      "glyph_index": 1250,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "일",
+      "code": "87BA",
+      "glyph_index": 1249,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "닥",
+      "code": "87B9",
+      "glyph_index": 1248,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "떨",
+      "code": "87B8",
+      "glyph_index": 1247,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "누",
+      "code": "87B7",
+      "glyph_index": 1246,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "뜨",
+      "code": "87B6",
+      "glyph_index": 1245,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "탬",
+      "code": "87B5",
+      "glyph_index": 1244,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "판",
+      "code": "87B4",
+      "glyph_index": 1243,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "꽤",
+      "code": "87B3",
+      "glyph_index": 1242,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "워",
+      "code": "97FA",
+      "glyph_index": 4321,
+      "original_glyph": "nonzero",
+      "cp932_status": "defined_in_cp932",
+      "mapping_origin": "preserved_runtime_intro_mapping"
+    },
+    {
+      "character": "보",
+      "code": "87B2",
+      "glyph_index": 1241,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "여",
+      "code": "87B1",
+      "glyph_index": 1240,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "표",
+      "code": "87B0",
+      "glyph_index": 1239,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "아",
+      "code": "986C",
+      "glyph_index": 4368,
+      "original_glyph": "nonzero",
+      "cp932_status": "defined_in_cp932",
+      "mapping_origin": "preserved_runtime_intro_mapping"
+    },
+    {
+      "character": "빠",
+      "code": "87AF",
+      "glyph_index": 1238,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "와",
+      "code": "87AE",
+      "glyph_index": 1237,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "엄",
+      "code": "87AD",
+      "glyph_index": 1236,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "름",
+      "code": "87AC",
+      "glyph_index": 1235,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "성",
+      "code": "87AB",
+      "glyph_index": 1234,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "냥",
+      "code": "87AA",
+      "glyph_index": 1233,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "낡",
+      "code": "87A9",
+      "glyph_index": 1232,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "만",
+      "code": "9857",
+      "glyph_index": 4347,
+      "original_glyph": "nonzero",
+      "cp932_status": "defined_in_cp932",
+      "mapping_origin": "preserved_runtime_intro_mapping"
+    },
+    {
+      "character": "붙",
+      "code": "87A8",
+      "glyph_index": 1231,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "봐",
+      "code": "87A7",
+      "glyph_index": 1230,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "라",
+      "code": "87A6",
+      "glyph_index": 1229,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "터",
+      "code": "87A5",
+      "glyph_index": 1228,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "블",
+      "code": "9842",
+      "glyph_index": 4326,
+      "original_glyph": "nonzero",
+      "cp932_status": "defined_in_cp932",
+      "mapping_origin": "preserved_runtime_intro_mapping"
+    },
+    {
+      "character": "셜",
+      "code": "87A4",
+      "glyph_index": 1227,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "병",
+      "code": "87A3",
+      "glyph_index": 1226,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "들",
+      "code": "984F",
+      "glyph_index": 4339,
+      "original_glyph": "nonzero",
+      "cp932_status": "defined_in_cp932",
+      "mapping_origin": "preserved_runtime_intro_mapping"
+    },
+    {
+      "character": "용",
+      "code": "87A2",
+      "glyph_index": 1225,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "뭘",
+      "code": "87A1",
+      "glyph_index": 1224,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "반",
+      "code": "87A0",
+      "glyph_index": 1223,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "트",
+      "code": "879F",
+      "glyph_index": 1222,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "렁",
+      "code": "879E",
+      "glyph_index": 1221,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "크",
+      "code": "9853",
+      "glyph_index": 4343,
+      "original_glyph": "nonzero",
+      "cp932_status": "defined_in_cp932",
+      "mapping_origin": "preserved_runtime_intro_mapping"
+    },
+    {
+      "character": "뿐",
+      "code": "879D",
+      "glyph_index": 1220,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "솔",
+      "code": "877D",
+      "glyph_index": 1189,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "브",
+      "code": "877C",
+      "glyph_index": 1188,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "러",
+      "code": "9840",
+      "glyph_index": 4324,
+      "original_glyph": "nonzero",
+      "cp932_status": "defined_in_cp932",
+      "mapping_origin": "preserved_runtime_intro_mapping"
+    },
+    {
+      "character": "것",
+      "code": "877B",
+      "glyph_index": 1187,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "과",
+      "code": "877A",
+      "glyph_index": 1186,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "닮",
+      "code": "8779",
+      "glyph_index": 1185,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "흰",
+      "code": "8778",
+      "glyph_index": 1184,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "운",
+      "code": "8777",
+      "glyph_index": 1183,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "얼",
+      "code": "8776",
+      "glyph_index": 1182,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "잊",
+      "code": "875E",
+      "glyph_index": 1158,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "않",
+      "code": "86FC",
+      "glyph_index": 1127,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "망",
+      "code": "86FB",
+      "glyph_index": 1126,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "면",
+      "code": "86FA",
+      "glyph_index": 1125,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "뭐",
+      "code": "86F9",
+      "glyph_index": 1124,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "든",
+      "code": "86F8",
+      "glyph_index": 1123,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "깨",
+      "code": "86F7",
+      "glyph_index": 1122,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "버",
+      "code": "86F6",
+      "glyph_index": 1121,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "릴",
+      "code": "86F5",
+      "glyph_index": 1120,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "같",
+      "code": "86F4",
+      "glyph_index": 1119,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "공",
+      "code": "86F3",
+      "glyph_index": 1118,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "캐",
+      "code": "86F2",
+      "glyph_index": 1117,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "볼",
+      "code": "86F1",
+      "glyph_index": 1116,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "싶",
+      "code": "86F0",
+      "glyph_index": 1115,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "년",
+      "code": "86EF",
+      "glyph_index": 1114,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "전",
+      "code": "86EE",
+      "glyph_index": 1113,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "네",
+      "code": "86ED",
+      "glyph_index": 1112,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "못",
+      "code": "86EC",
+      "glyph_index": 1111,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "줄",
+      "code": "86EB",
+      "glyph_index": 1110,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "물",
+      "code": "86EA",
+      "glyph_index": 1109,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "탕",
+      "code": "86E9",
+      "glyph_index": 1108,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "님",
+      "code": "86E8",
+      "glyph_index": 1107,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "께",
+      "code": "86E7",
+      "glyph_index": 1106,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "딸",
+      "code": "86E6",
+      "glyph_index": 1105,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "우",
+      "code": "86E5",
+      "glyph_index": 1104,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "유",
+      "code": "86E4",
+      "glyph_index": 1103,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "또",
+      "code": "86E3",
+      "glyph_index": 1102,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "레",
+      "code": "86E2",
+      "glyph_index": 1101,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "몬",
+      "code": "86E1",
+      "glyph_index": 1100,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "맛",
+      "code": "86E0",
+      "glyph_index": 1099,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "정",
+      "code": "86DF",
+      "glyph_index": 1098,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "말",
+      "code": "86DE",
+      "glyph_index": 1097,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "호",
+      "code": "86DD",
+      "glyph_index": 1096,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "컨",
+      "code": "86DC",
+      "glyph_index": 1095,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "본",
+      "code": "86DB",
+      "glyph_index": 1094,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "체",
+      "code": "86DA",
+      "glyph_index": 1093,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "를",
+      "code": "86D9",
+      "glyph_index": 1092,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "설",
+      "code": "86D8",
+      "glyph_index": 1091,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "콘",
+      "code": "86D7",
+      "glyph_index": 1090,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "작",
+      "code": "9870",
+      "glyph_index": 4372,
+      "original_glyph": "nonzero",
+      "cp932_status": "defined_in_cp932",
+      "mapping_origin": "preserved_runtime_intro_mapping"
+    },
+    {
+      "character": "합",
+      "code": "86D6",
+      "glyph_index": 1089,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "애",
+      "code": "86D5",
+      "glyph_index": 1088,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "슐",
+      "code": "86D4",
+      "glyph_index": 1087,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "왔",
+      "code": "86D3",
+      "glyph_index": 1086,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "쁘",
+      "code": "86D2",
+      "glyph_index": 1085,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "줘",
+      "code": "86D1",
+      "glyph_index": 1084,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "쪽",
+      "code": "86D0",
+      "glyph_index": 1083,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "너",
+      "code": "86CF",
+      "glyph_index": 1082,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "중",
+      "code": "86CE",
+      "glyph_index": 1081,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "랜",
+      "code": "86CD",
+      "glyph_index": 1080,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "렸",
+      "code": "86CC",
+      "glyph_index": 1079,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "침",
+      "code": "986B",
+      "glyph_index": 4367,
+      "original_glyph": "nonzero",
+      "cp932_status": "defined_in_cp932",
+      "mapping_origin": "preserved_runtime_intro_mapping"
+    },
+    {
+      "character": "내",
+      "code": "9855",
+      "glyph_index": 4345,
+      "original_glyph": "nonzero",
+      "cp932_status": "defined_in_cp932",
+      "mapping_origin": "preserved_runtime_intro_mapping"
+    },
+    {
+      "character": "완",
+      "code": "86CB",
+      "glyph_index": 1078,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "됐",
+      "code": "86CA",
+      "glyph_index": 1077,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "결",
+      "code": "86C9",
+      "glyph_index": 1076,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "맺",
+      "code": "86C8",
+      "glyph_index": 1075,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "처",
+      "code": "86C7",
+      "glyph_index": 1074,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "대",
+      "code": "86C6",
+      "glyph_index": 1073,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "쟁",
+      "code": "86C5",
+      "glyph_index": 1072,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "른",
+      "code": "86C4",
+      "glyph_index": 1071,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "손",
+      "code": "86C3",
+      "glyph_index": 1070,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "린",
+      "code": "86C2",
+      "glyph_index": 1069,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "점",
+      "code": "86C1",
+      "glyph_index": 1068,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "며",
+      "code": "86C0",
+      "glyph_index": 1067,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "왼",
+      "code": "86BF",
+      "glyph_index": 1066,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "케",
+      "code": "86BE",
+      "glyph_index": 1065,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "태",
+      "code": "86BD",
+      "glyph_index": 1064,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "둘",
+      "code": "86BC",
+      "glyph_index": 1063,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "싸",
+      "code": "86BB",
+      "glyph_index": 1062,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "섬",
+      "code": "97F9",
+      "glyph_index": 4320,
+      "original_glyph": "nonzero",
+      "cp932_status": "defined_in_cp932",
+      "mapping_origin": "preserved_runtime_intro_mapping"
+    },
+    {
+      "character": "언",
+      "code": "86BA",
+      "glyph_index": 1061,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "젠",
+      "code": "86B9",
+      "glyph_index": 1060,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "산",
+      "code": "86B8",
+      "glyph_index": 1059,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "골",
+      "code": "86B7",
+      "glyph_index": 1058,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "뵙",
+      "code": "86B6",
+      "glyph_index": 1057,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "절",
+      "code": "86B5",
+      "glyph_index": 1056,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "벚",
+      "code": "86B4",
+      "glyph_index": 1055,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "꽃",
+      "code": "86B3",
+      "glyph_index": 1054,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "토",
+      "code": "86B2",
+      "glyph_index": 1053,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "학",
+      "code": "86B1",
+      "glyph_index": 1052,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "혼",
+      "code": "86B0",
+      "glyph_index": 1051,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "했",
+      "code": "9858",
+      "glyph_index": 4348,
+      "original_glyph": "nonzero",
+      "cp932_status": "defined_in_cp932",
+      "mapping_origin": "preserved_runtime_intro_mapping"
+    },
+    {
+      "character": "행",
+      "code": "86AF",
+      "glyph_index": 1050,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "히",
+      "code": "86AE",
+      "glyph_index": 1049,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "돌",
+      "code": "86AD",
+      "glyph_index": 1048,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "온",
+      "code": "86AC",
+      "glyph_index": 1047,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "뒤",
+      "code": "86AB",
+      "glyph_index": 1046,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "키",
+      "code": "86AA",
+      "glyph_index": 1045,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "심",
+      "code": "86A9",
+      "glyph_index": 1044,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "질",
+      "code": "86A8",
+      "glyph_index": 1043,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "환",
+      "code": "86A7",
+      "glyph_index": 1042,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "되",
+      "code": "86A6",
+      "glyph_index": 1041,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "료",
+      "code": "86A5",
+      "glyph_index": 1040,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "련",
+      "code": "86A4",
+      "glyph_index": 1039,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "데",
+      "code": "86A3",
+      "glyph_index": 1038,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "곤",
+      "code": "86A2",
+      "glyph_index": 1037,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "겪",
+      "code": "86A1",
+      "glyph_index": 1036,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "듯",
+      "code": "86A0",
+      "glyph_index": 1035,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "꿈",
+      "code": "8640",
+      "glyph_index": 940,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "꾸",
+      "code": "85FC",
+      "glyph_index": 939,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "적",
+      "code": "85FB",
+      "glyph_index": 938,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "편",
+      "code": "85FA",
+      "glyph_index": 937,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "몇",
+      "code": "85F9",
+      "glyph_index": 936,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "험",
+      "code": "85F8",
+      "glyph_index": 935,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "겼",
+      "code": "85F7",
+      "glyph_index": 934,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "품",
+      "code": "85F6",
+      "glyph_index": 933,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "엔",
+      "code": "85F5",
+      "glyph_index": 932,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "출",
+      "code": "85F4",
+      "glyph_index": 931,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "평",
+      "code": "85F3",
+      "glyph_index": 930,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "낮",
+      "code": "85F2",
+      "glyph_index": 929,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "된",
+      "code": "85F1",
+      "glyph_index": 928,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "많",
+      "code": "85F0",
+      "glyph_index": 927,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "추",
+      "code": "85EF",
+      "glyph_index": 926,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "즈",
+      "code": "85EE",
+      "glyph_index": 925,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "필",
+      "code": "85ED",
+      "glyph_index": 924,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "쓴",
+      "code": "85EC",
+      "glyph_index": 923,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "빌",
+      "code": "85EB",
+      "glyph_index": 922,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "끔",
+      "code": "85EA",
+      "glyph_index": 921,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "닿",
+      "code": "85E9",
+      "glyph_index": 920,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "갑",
+      "code": "85E8",
+      "glyph_index": 919,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "격",
+      "code": "85E7",
+      "glyph_index": 918,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "할",
+      "code": "85E6",
+      "glyph_index": 917,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "때",
+      "code": "85E5",
+      "glyph_index": 916,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "둔",
+      "code": "85E4",
+      "glyph_index": 915,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "항",
+      "code": "85E3",
+      "glyph_index": 914,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "울",
+      "code": "85E2",
+      "glyph_index": 913,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "론",
+      "code": "85E1",
+      "glyph_index": 912,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "검",
+      "code": "85E0",
+      "glyph_index": 911,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "증",
+      "code": "85DF",
+      "glyph_index": 910,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "없",
+      "code": "85DE",
+      "glyph_index": 909,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "생",
+      "code": "859E",
+      "glyph_index": 845,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "포",
+      "code": "859D",
+      "glyph_index": 844,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "딪",
+      "code": "859C",
+      "glyph_index": 843,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "힐",
+      "code": "859B",
+      "glyph_index": 842,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "날",
+      "code": "9848",
+      "glyph_index": 4332,
+      "original_glyph": "nonzero",
+      "cp932_status": "defined_in_cp932",
+      "mapping_origin": "preserved_runtime_intro_mapping"
+    },
+    {
+      "character": "떠",
+      "code": "859A",
+      "glyph_index": 841,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "올",
+      "code": "8599",
+      "glyph_index": 840,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "억",
+      "code": "8598",
+      "glyph_index": 839,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "곧",
+      "code": "8597",
+      "glyph_index": 838,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "확",
+      "code": "8596",
+      "glyph_index": 837,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "될",
+      "code": "8595",
+      "glyph_index": 836,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "분",
+      "code": "9869",
+      "glyph_index": 4365,
+      "original_glyph": "nonzero",
+      "cp932_status": "defined_in_cp932",
+      "mapping_origin": "preserved_runtime_intro_mapping"
+    },
+    {
+      "character": "몰",
+      "code": "8594",
+      "glyph_index": 835,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "약",
+      "code": "8592",
+      "glyph_index": 833,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "녀",
+      "code": "8591",
+      "glyph_index": 832,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "떤",
+      "code": "8590",
+      "glyph_index": 831,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "였",
+      "code": "858E",
+      "glyph_index": 829,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "쩌",
+      "code": "858C",
+      "glyph_index": 827,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "덟",
+      "code": "858B",
+      "glyph_index": 826,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "셨",
+      "code": "858A",
+      "glyph_index": 825,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "역",
+      "code": "8589",
+      "glyph_index": 824,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "몹",
+      "code": "8587",
+      "glyph_index": 822,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "빴",
+      "code": "8586",
+      "glyph_index": 821,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "족",
+      "code": "8585",
+      "glyph_index": 820,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "채",
+      "code": "8584",
+      "glyph_index": 819,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "황",
+      "code": "8580",
+      "glyph_index": 815,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "왠",
+      "code": "857E",
+      "glyph_index": 814,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "밖",
+      "code": "857D",
+      "glyph_index": 813,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "활",
+      "code": "857C",
+      "glyph_index": 812,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "별",
+      "code": "857B",
+      "glyph_index": 811,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "롭",
+      "code": "857A",
+      "glyph_index": 810,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "먹",
+      "code": "8579",
+      "glyph_index": 809,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "깝",
+      "code": "8578",
+      "glyph_index": 808,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "직",
+      "code": "8577",
+      "glyph_index": 807,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "괜",
+      "code": "8576",
+      "glyph_index": 806,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "찮",
+      "code": "8575",
+      "glyph_index": 805,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "뉴",
+      "code": "8574",
+      "glyph_index": 804,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "참",
+      "code": "8573",
+      "glyph_index": 803,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "개",
+      "code": "8572",
+      "glyph_index": 802,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "매",
+      "code": "8571",
+      "glyph_index": 801,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "칠",
+      "code": "8570",
+      "glyph_index": 800,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "빈",
+      "code": "856F",
+      "glyph_index": 799,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "클",
+      "code": "856E",
+      "glyph_index": 798,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "램",
+      "code": "856D",
+      "glyph_index": 797,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "외",
+      "code": "856C",
+      "glyph_index": 796,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "싫",
+      "code": "856B",
+      "glyph_index": 795,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "잇",
+      "code": "856A",
+      "glyph_index": 794,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "났",
+      "code": "8569",
+      "glyph_index": 793,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "술",
+      "code": "8568",
+      "glyph_index": 792,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "샐",
+      "code": "8567",
+      "glyph_index": 791,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "끊",
+      "code": "8566",
+      "glyph_index": 790,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "알",
+      "code": "8565",
+      "glyph_index": 789,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "늦",
+      "code": "8564",
+      "glyph_index": 788,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "록",
+      "code": "8563",
+      "glyph_index": 787,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "짚",
+      "code": "8562",
+      "glyph_index": 786,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "낀",
+      "code": "8561",
+      "glyph_index": 785,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "굳",
+      "code": "8560",
+      "glyph_index": 784,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "낸",
+      "code": "855F",
+      "glyph_index": 783,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "측",
+      "code": "855E",
+      "glyph_index": 782,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "회",
+      "code": "855D",
+      "glyph_index": 781,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "군",
+      "code": "855C",
+      "glyph_index": 780,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "끝",
+      "code": "855B",
+      "glyph_index": 779,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "쥔",
+      "code": "855A",
+      "glyph_index": 778,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "믿",
+      "code": "8559",
+      "glyph_index": 777,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "돈",
+      "code": "8558",
+      "glyph_index": 776,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "쉽",
+      "code": "8557",
+      "glyph_index": 775,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "웰",
+      "code": "8556",
+      "glyph_index": 774,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "충",
+      "code": "8555",
+      "glyph_index": 773,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "맡",
+      "code": "8554",
+      "glyph_index": 772,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "깊",
+      "code": "8553",
+      "glyph_index": 771,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "숙",
+      "code": "8552",
+      "glyph_index": 770,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "덤",
+      "code": "8551",
+      "glyph_index": 769,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "곳",
+      "code": "8550",
+      "glyph_index": 768,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "죽",
+      "code": "854F",
+      "glyph_index": 767,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "긴",
+      "code": "854E",
+      "glyph_index": 766,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "놓",
+      "code": "854D",
+      "glyph_index": 765,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "닐",
+      "code": "854C",
+      "glyph_index": 764,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "옳",
+      "code": "854B",
+      "glyph_index": 763,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "넘",
+      "code": "854A",
+      "glyph_index": 762,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "영",
+      "code": "8549",
+      "glyph_index": 761,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "독",
+      "code": "8548",
+      "glyph_index": 760,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "뜻",
+      "code": "8547",
+      "glyph_index": 759,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "변",
+      "code": "8546",
+      "glyph_index": 758,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "콧",
+      "code": "8545",
+      "glyph_index": 757,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "노",
+      "code": "8544",
+      "glyph_index": 756,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "르",
+      "code": "8543",
+      "glyph_index": 755,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "릇",
+      "code": "8542",
+      "glyph_index": 754,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "렵",
+      "code": "8541",
+      "glyph_index": 753,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "늘",
+      "code": "8540",
+      "glyph_index": 752,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "페",
+      "code": "84FC",
+      "glyph_index": 751,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "흘",
+      "code": "84FB",
+      "glyph_index": 750,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "흥",
+      "code": "84FA",
+      "glyph_index": 749,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "듭",
+      "code": "84F9",
+      "glyph_index": 748,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "순",
+      "code": "84F8",
+      "glyph_index": 747,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "멈",
+      "code": "84F7",
+      "glyph_index": 746,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "춰",
+      "code": "84F6",
+      "glyph_index": 745,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "향",
+      "code": "97F7",
+      "glyph_index": 4318,
+      "original_glyph": "nonzero",
+      "cp932_status": "defined_in_cp932",
+      "mapping_origin": "preserved_runtime_intro_mapping"
+    },
+    {
+      "character": "랑",
+      "code": "84F5",
+      "glyph_index": 744,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "벗",
+      "code": "84F4",
+      "glyph_index": 743,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "득",
+      "code": "84F3",
+      "glyph_index": 742,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "읽",
+      "code": "84F2",
+      "glyph_index": 741,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "틀",
+      "code": "84F1",
+      "glyph_index": 740,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "혔",
+      "code": "84F0",
+      "glyph_index": 739,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "럴",
+      "code": "84EF",
+      "glyph_index": 738,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "권",
+      "code": "84EE",
+      "glyph_index": 737,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "박",
+      "code": "84ED",
+      "glyph_index": 736,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "앉",
+      "code": "84EC",
+      "glyph_index": 735,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "잠",
+      "code": "84EB",
+      "glyph_index": 734,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "글",
+      "code": "84EA",
+      "glyph_index": 733,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "따",
+      "code": "84E9",
+      "glyph_index": 732,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "햇",
+      "code": "84E8",
+      "glyph_index": 731,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "슴",
+      "code": "84E7",
+      "glyph_index": 730,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "혀",
+      "code": "84E6",
+      "glyph_index": 729,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "풀",
+      "code": "84E5",
+      "glyph_index": 728,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "즘",
+      "code": "84E4",
+      "glyph_index": 727,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "느",
+      "code": "84E3",
+      "glyph_index": 726,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "최",
+      "code": "9867",
+      "glyph_index": 4363,
+      "original_glyph": "nonzero",
+      "cp932_status": "defined_in_cp932",
+      "mapping_origin": "preserved_runtime_intro_mapping"
+    },
+    {
+      "character": "탐",
+      "code": "84E2",
+      "glyph_index": 725,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "색",
+      "code": "84E1",
+      "glyph_index": 724,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "희",
+      "code": "84E0",
+      "glyph_index": 723,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "쥐",
+      "code": "84DF",
+      "glyph_index": 722,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "삭",
+      "code": "84DE",
+      "glyph_index": 721,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "겠",
+      "code": "84DD",
+      "glyph_index": 720,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "습",
+      "code": "84DC",
+      "glyph_index": 719,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "예",
+      "code": "84DB",
+      "glyph_index": 718,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "원",
+      "code": "84DA",
+      "glyph_index": 717,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "패",
+      "code": "84D9",
+      "glyph_index": 716,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "얘",
+      "code": "84D8",
+      "glyph_index": 715,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "돼",
+      "code": "84D7",
+      "glyph_index": 714,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "냅",
+      "code": "84D6",
+      "glyph_index": 713,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "흔",
+      "code": "9850",
+      "glyph_index": 4340,
+      "original_glyph": "nonzero",
+      "cp932_status": "defined_in_cp932",
+      "mapping_origin": "preserved_runtime_intro_mapping"
+    },
+    {
+      "character": "링",
+      "code": "84D5",
+      "glyph_index": 712,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "앙",
+      "code": "84D4",
+      "glyph_index": 711,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "껴",
+      "code": "84D3",
+      "glyph_index": 710,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "잡",
+      "code": "84D2",
+      "glyph_index": 709,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "배",
+      "code": "97F4",
+      "glyph_index": 4315,
+      "original_glyph": "nonzero",
+      "cp932_status": "defined_in_cp932",
+      "mapping_origin": "preserved_runtime_intro_mapping"
+    },
+    {
+      "character": "놀",
+      "code": "84D1",
+      "glyph_index": 708,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "랍",
+      "code": "84D0",
+      "glyph_index": 707,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "뭔",
+      "code": "84CF",
+      "glyph_index": 706,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "월",
+      "code": "84CE",
+      "glyph_index": 705,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "렉",
+      "code": "84CD",
+      "glyph_index": 704,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "듀",
+      "code": "84CC",
+      "glyph_index": 703,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "임",
+      "code": "84CB",
+      "glyph_index": 702,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "맵",
+      "code": "84CA",
+      "glyph_index": 701,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "슈",
+      "code": "84C9",
+      "glyph_index": 700,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "럽",
+      "code": "84C8",
+      "glyph_index": 699,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "션",
+      "code": "84C7",
+      "glyph_index": 698,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "땡",
+      "code": "84C6",
+      "glyph_index": 697,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "릭",
+      "code": "84C5",
+      "glyph_index": 696,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "젝",
+      "code": "84C4",
+      "glyph_index": 695,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "먼",
+      "code": "84C3",
+      "glyph_index": 694,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "큐",
+      "code": "84C2",
+      "glyph_index": 693,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "티",
+      "code": "84C1",
+      "glyph_index": 692,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "맑",
+      "code": "84C0",
+      "glyph_index": 691,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "랗",
+      "code": "84BF",
+      "glyph_index": 690,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "닷",
+      "code": "849E",
+      "glyph_index": 657,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "냄",
+      "code": "849D",
+      "glyph_index": 656,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "훌",
+      "code": "849C",
+      "glyph_index": 655,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "륭",
+      "code": "849B",
+      "glyph_index": 654,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "쿵",
+      "code": "849A",
+      "glyph_index": 653,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "씨",
+      "code": "8499",
+      "glyph_index": 652,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "런",
+      "code": "8498",
+      "glyph_index": 651,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "앞",
+      "code": "8496",
+      "glyph_index": 649,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "렇",
+      "code": "8495",
+      "glyph_index": 648,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "잘",
+      "code": "8494",
+      "glyph_index": 647,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "강",
+      "code": "8492",
+      "glyph_index": 645,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "총",
+      "code": "846F",
+      "glyph_index": 611,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "쁜",
+      "code": "846E",
+      "glyph_index": 610,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "눈",
+      "code": "846D",
+      "glyph_index": 609,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "졌",
+      "code": "846C",
+      "glyph_index": 608,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "준",
+      "code": "846B",
+      "glyph_index": 607,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "듣",
+      "code": "846A",
+      "glyph_index": 606,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "탁",
+      "code": "8469",
+      "glyph_index": 605,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "응",
+      "code": "8468",
+      "glyph_index": 604,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "혹",
+      "code": "8467",
+      "glyph_index": 603,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "꾼",
+      "code": "8466",
+      "glyph_index": 602,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "쓰",
+      "code": "8465",
+      "glyph_index": 601,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "렷",
+      "code": "8464",
+      "glyph_index": 600,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "등",
+      "code": "8463",
+      "glyph_index": 599,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "교",
+      "code": "8462",
+      "glyph_index": 598,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "줬",
+      "code": "8461",
+      "glyph_index": 597,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "플",
+      "code": "83FC",
+      "glyph_index": 563,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "셔",
+      "code": "83FB",
+      "glyph_index": 562,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "눌",
+      "code": "83FA",
+      "glyph_index": 561,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "렀",
+      "code": "83F9",
+      "glyph_index": 560,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "찍",
+      "code": "83F8",
+      "glyph_index": 559,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "징",
+      "code": "83F7",
+      "glyph_index": 558,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "템",
+      "code": "83F6",
+      "glyph_index": 557,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "닌",
+      "code": "83F5",
+      "glyph_index": 556,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "짓",
+      "code": "83F4",
+      "glyph_index": 555,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "갓",
+      "code": "83F3",
+      "glyph_index": 554,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "쳐",
+      "code": "83F2",
+      "glyph_index": 553,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "묻",
+      "code": "83F1",
+      "glyph_index": 552,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "락",
+      "code": "83F0",
+      "glyph_index": 551,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "땅",
+      "code": "83EF",
+      "glyph_index": 550,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "커",
+      "code": "83EE",
+      "glyph_index": 549,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "푸",
+      "code": "83ED",
+      "glyph_index": 548,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "갯",
+      "code": "83EC",
+      "glyph_index": 547,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "높",
+      "code": "83EB",
+      "glyph_index": 546,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "헤",
+      "code": "83EA",
+      "glyph_index": 545,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "움",
+      "code": "83E9",
+      "glyph_index": 544,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "낌",
+      "code": "83E8",
+      "glyph_index": 543,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "멋",
+      "code": "83E7",
+      "glyph_index": 542,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "잖",
+      "code": "83E6",
+      "glyph_index": 541,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "널",
+      "code": "83E5",
+      "glyph_index": 540,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "앗",
+      "code": "83E4",
+      "glyph_index": 539,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "튼",
+      "code": "83E3",
+      "glyph_index": 538,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "떻",
+      "code": "83E2",
+      "glyph_index": 537,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "떡",
+      "code": "83E1",
+      "glyph_index": 536,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "근",
+      "code": "83E0",
+      "glyph_index": 535,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "꺄",
+      "code": "83DF",
+      "glyph_index": 534,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "깐",
+      "code": "83DE",
+      "glyph_index": 533,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "딘",
+      "code": "83DD",
+      "glyph_index": 532,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "럼",
+      "code": "83DC",
+      "glyph_index": 531,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "궁",
+      "code": "83DB",
+      "glyph_index": 530,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "쳇",
+      "code": "83DA",
+      "glyph_index": 529,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "맞",
+      "code": "83D9",
+      "glyph_index": 528,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "좋",
+      "code": "83D8",
+      "glyph_index": 527,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "쎄",
+      "code": "83D7",
+      "glyph_index": 526,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "댔",
+      "code": "83BE",
+      "glyph_index": 501,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "쩔",
+      "code": "83BD",
+      "glyph_index": 500,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "띄",
+      "code": "83BC",
+      "glyph_index": 499,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "룻",
+      "code": "83BB",
+      "glyph_index": 498,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "밤",
+      "code": "83BA",
+      "glyph_index": 497,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "묵",
+      "code": "83B9",
+      "glyph_index": 496,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "넌",
+      "code": "83B8",
+      "glyph_index": 495,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "걱",
+      "code": "83B7",
+      "glyph_index": 494,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "귀",
+      "code": "839E",
+      "glyph_index": 469,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "옛",
+      "code": "839D",
+      "glyph_index": 468,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "례",
+      "code": "839C",
+      "glyph_index": 467,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "피",
+      "code": "839B",
+      "glyph_index": 466,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "룩",
+      "code": "839A",
+      "glyph_index": 465,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "굉",
+      "code": "8399",
+      "glyph_index": 464,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "딱",
+      "code": "8398",
+      "glyph_index": 463,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "둥",
+      "code": "82FC",
+      "glyph_index": 375,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "뭇",
+      "code": "82FB",
+      "glyph_index": 374,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "뜩",
+      "code": "82FA",
+      "glyph_index": 373,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "끼",
+      "code": "82F9",
+      "glyph_index": 372,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "퉁",
+      "code": "82F8",
+      "glyph_index": 371,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "흩",
+      "code": "82F7",
+      "glyph_index": 370,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "잣",
+      "code": "82F6",
+      "glyph_index": 369,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "팻",
+      "code": "82F5",
+      "glyph_index": 368,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "암",
+      "code": "82F4",
+      "glyph_index": 367,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "낙",
+      "code": "82F3",
+      "glyph_index": 366,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "축",
+      "code": "82F2",
+      "glyph_index": 365,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "젖",
+      "code": "829E",
+      "glyph_index": 281,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "둡",
+      "code": "829D",
+      "glyph_index": 280,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "헉",
+      "code": "829C",
+      "glyph_index": 279,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "옮",
+      "code": "829B",
+      "glyph_index": 278,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "답",
+      "code": "8280",
+      "glyph_index": 251,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "철",
+      "code": "827E",
+      "glyph_index": 250,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "윽",
+      "code": "827D",
+      "glyph_index": 249,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "령",
+      "code": "827C",
+      "glyph_index": 248,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "웃",
+      "code": "827B",
+      "glyph_index": 247,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "뻐",
+      "code": "827A",
+      "glyph_index": 246,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "천",
+      "code": "825F",
+      "glyph_index": 219,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "국",
+      "code": "825E",
+      "glyph_index": 218,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "랫",
+      "code": "825D",
+      "glyph_index": 217,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "힘",
+      "code": "825C",
+      "glyph_index": 216,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "냐",
+      "code": "825B",
+      "glyph_index": 215,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "몸",
+      "code": "825A",
+      "glyph_index": 214,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "끗",
+      "code": "8259",
+      "glyph_index": 213,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "급",
+      "code": "824E",
+      "glyph_index": 202,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "탑",
+      "code": "824D",
+      "glyph_index": 201,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "쌓",
+      "code": "824C",
+      "glyph_index": 200,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "닫",
+      "code": "824B",
+      "glyph_index": 199,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "깎",
+      "code": "824A",
+      "glyph_index": 198,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "흙",
+      "code": "8249",
+      "glyph_index": 197,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "덮",
+      "code": "8248",
+      "glyph_index": 196,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "투",
+      "code": "8247",
+      "glyph_index": 195,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "옆",
+      "code": "8246",
+      "glyph_index": 194,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "캔",
+      "code": "8245",
+      "glyph_index": 193,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "허",
+      "code": "8244",
+      "glyph_index": 192,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "벌",
+      "code": "8243",
+      "glyph_index": 191,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "캤",
+      "code": "8242",
+      "glyph_index": 190,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "갔",
+      "code": "8241",
+      "glyph_index": 189,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "잃",
+      "code": "8240",
+      "glyph_index": 188,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "냈",
+      "code": "81FB",
+      "glyph_index": 186,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "친",
+      "code": "81FA",
+      "glyph_index": 185,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "랐",
+      "code": "81F9",
+      "glyph_index": 184,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "씩",
+      "code": "81F8",
+      "glyph_index": 183,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "좀",
+      "code": "81EF",
+      "glyph_index": 174,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "뿌",
+      "code": "81EE",
+      "glyph_index": 173,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "옇",
+      "code": "81ED",
+      "glyph_index": 172,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "종",
+      "code": "81EC",
+      "glyph_index": 171,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "류",
+      "code": "81EB",
+      "glyph_index": 170,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "펴",
+      "code": "81EA",
+      "glyph_index": 169,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "얻",
+      "code": "81E9",
+      "glyph_index": 168,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "힌",
+      "code": "81D9",
+      "glyph_index": 152,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "꽂",
+      "code": "81D8",
+      "glyph_index": 151,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "층",
+      "code": "81D7",
+      "glyph_index": 150,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "낼",
+      "code": "81D6",
+      "glyph_index": 149,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "숫",
+      "code": "81D5",
+      "glyph_index": 148,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "홈",
+      "code": "81D4",
+      "glyph_index": 147,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "펫",
+      "code": "81D3",
+      "glyph_index": 146,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "깔",
+      "code": "81D2",
+      "glyph_index": 145,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "늬",
+      "code": "81D1",
+      "glyph_index": 144,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "잎",
+      "code": "81D0",
+      "glyph_index": 143,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "텅",
+      "code": "81CF",
+      "glyph_index": 142,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "덕",
+      "code": "81C7",
+      "glyph_index": 134,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "꿀",
+      "code": "81C6",
+      "glyph_index": 133,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "랬",
+      "code": "81C5",
+      "glyph_index": 132,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "똑",
+      "code": "81C4",
+      "glyph_index": 131,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "겹",
+      "code": "81C3",
+      "glyph_index": 130,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "능",
+      "code": "81C2",
+      "glyph_index": 129,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "흐",
+      "code": "81C1",
+      "glyph_index": 128,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "앨",
+      "code": "81C0",
+      "glyph_index": 127,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "범",
+      "code": "81B7",
+      "glyph_index": 118,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "탠",
+      "code": "81B6",
+      "glyph_index": 117,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "백",
+      "code": "81B5",
+      "glyph_index": 116,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "멜",
+      "code": "81B4",
+      "glyph_index": 115,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "흠",
+      "code": "81B3",
+      "glyph_index": 114,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "뜯",
+      "code": "81B2",
+      "glyph_index": 113,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "틴",
+      "code": "81B1",
+      "glyph_index": 112,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "봉",
+      "code": "81B0",
+      "glyph_index": 111,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "밑",
+      "code": "81AF",
+      "glyph_index": 110,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "뚜",
+      "code": "81AE",
+      "glyph_index": 109,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "껑",
+      "code": "81AD",
+      "glyph_index": 108,
+      "original_glyph": "all_zero",
+      "cp932_status": "undefined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "펼",
+      "code": "984E",
+      "glyph_index": 4338,
+      "original_glyph": "nonzero",
+      "cp932_status": "defined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "숯",
+      "code": "984D",
+      "glyph_index": 4337,
+      "original_glyph": "nonzero",
+      "cp932_status": "defined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "벳",
+      "code": "9845",
+      "glyph_index": 4329,
+      "original_glyph": "nonzero",
+      "cp932_status": "defined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "윗",
+      "code": "9844",
+      "glyph_index": 4328,
+      "original_glyph": "nonzero",
+      "cp932_status": "defined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "십",
+      "code": "97F5",
+      "glyph_index": 4316,
+      "original_glyph": "nonzero",
+      "cp932_status": "defined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "풍",
+      "code": "97F1",
+      "glyph_index": 4312,
+      "original_glyph": "nonzero",
+      "cp932_status": "defined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "짜",
+      "code": "97EF",
+      "glyph_index": 4310,
+      "original_glyph": "nonzero",
+      "cp932_status": "defined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "덧",
+      "code": "97EE",
+      "glyph_index": 4309,
+      "original_glyph": "nonzero",
+      "cp932_status": "defined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "첫",
+      "code": "97ED",
+      "glyph_index": 4308,
+      "original_glyph": "nonzero",
+      "cp932_status": "defined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "엇",
+      "code": "97EC",
+      "glyph_index": 4307,
+      "original_glyph": "nonzero",
+      "cp932_status": "defined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "척",
+      "code": "97EB",
+      "glyph_index": 4306,
+      "original_glyph": "nonzero",
+      "cp932_status": "defined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "청",
+      "code": "97EA",
+      "glyph_index": 4305,
+      "original_glyph": "nonzero",
+      "cp932_status": "defined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "밝",
+      "code": "97E8",
+      "glyph_index": 4303,
+      "original_glyph": "nonzero",
+      "cp932_status": "defined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "섰",
+      "code": "97E7",
+      "glyph_index": 4302,
+      "original_glyph": "nonzero",
+      "cp932_status": "defined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "늠",
+      "code": "97E6",
+      "glyph_index": 4301,
+      "original_glyph": "nonzero",
+      "cp932_status": "defined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "렬",
+      "code": "97E5",
+      "glyph_index": 4300,
+      "original_glyph": "nonzero",
+      "cp932_status": "defined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "씀",
+      "code": "97E4",
+      "glyph_index": 4299,
+      "original_glyph": "nonzero",
+      "cp932_status": "defined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "쉬",
+      "code": "97E3",
+      "glyph_index": 4298,
+      "original_glyph": "nonzero",
+      "cp932_status": "defined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "삼",
+      "code": "97E1",
+      "glyph_index": 4296,
+      "original_glyph": "nonzero",
+      "cp932_status": "defined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "괘",
+      "code": "97E0",
+      "glyph_index": 4295,
+      "original_glyph": "nonzero",
+      "cp932_status": "defined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "찢",
+      "code": "97DF",
+      "glyph_index": 4294,
+      "original_glyph": "nonzero",
+      "cp932_status": "defined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "댄",
+      "code": "97DD",
+      "glyph_index": 4292,
+      "original_glyph": "nonzero",
+      "cp932_status": "defined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "낫",
+      "code": "97DB",
+      "glyph_index": 4290,
+      "original_glyph": "nonzero",
+      "cp932_status": "defined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "웨",
+      "code": "97DA",
+      "glyph_index": 4289,
+      "original_glyph": "nonzero",
+      "cp932_status": "defined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "쏜",
+      "code": "97D9",
+      "glyph_index": 4288,
+      "original_glyph": "nonzero",
+      "cp932_status": "defined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "빙",
+      "code": "97D8",
+      "glyph_index": 4287,
+      "original_glyph": "nonzero",
+      "cp932_status": "defined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "긋",
+      "code": "97D6",
+      "glyph_index": 4285,
+      "original_glyph": "nonzero",
+      "cp932_status": "defined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "봤",
+      "code": "97D5",
+      "glyph_index": 4284,
+      "original_glyph": "nonzero",
+      "cp932_status": "defined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "둬",
+      "code": "97D4",
+      "glyph_index": 4283,
+      "original_glyph": "nonzero",
+      "cp932_status": "defined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "접",
+      "code": "97D3",
+      "glyph_index": 4282,
+      "original_glyph": "nonzero",
+      "cp932_status": "defined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "컵",
+      "code": "97D2",
+      "glyph_index": 4281,
+      "original_glyph": "nonzero",
+      "cp932_status": "defined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "쾌",
+      "code": "97D1",
+      "glyph_index": 4280,
+      "original_glyph": "nonzero",
+      "cp932_status": "defined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "굵",
+      "code": "97D0",
+      "glyph_index": 4279,
+      "original_glyph": "nonzero",
+      "cp932_status": "defined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "젊",
+      "code": "97CF",
+      "glyph_index": 4278,
+      "original_glyph": "nonzero",
+      "cp932_status": "defined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "넓",
+      "code": "97CC",
+      "glyph_index": 4275,
+      "original_glyph": "nonzero",
+      "cp932_status": "defined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "립",
+      "code": "97CB",
+      "glyph_index": 4274,
+      "original_glyph": "nonzero",
+      "cp932_status": "defined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "존",
+      "code": "97CA",
+      "glyph_index": 4273,
+      "original_glyph": "nonzero",
+      "cp932_status": "defined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "킬",
+      "code": "97C9",
+      "glyph_index": 4272,
+      "original_glyph": "nonzero",
+      "cp932_status": "defined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "촛",
+      "code": "97C8",
+      "glyph_index": 4271,
+      "original_glyph": "nonzero",
+      "cp932_status": "defined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "꺼",
+      "code": "97C6",
+      "glyph_index": 4269,
+      "original_glyph": "nonzero",
+      "cp932_status": "defined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "녔",
+      "code": "97C5",
+      "glyph_index": 4268,
+      "original_glyph": "nonzero",
+      "cp932_status": "defined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "칸",
+      "code": "97C4",
+      "glyph_index": 4267,
+      "original_glyph": "nonzero",
+      "cp932_status": "defined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "핑",
+      "code": "97C2",
+      "glyph_index": 4265,
+      "original_glyph": "nonzero",
+      "cp932_status": "defined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "홍",
+      "code": "97C1",
+      "glyph_index": 4264,
+      "original_glyph": "nonzero",
+      "cp932_status": "defined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "뉘",
+      "code": "97C0",
+      "glyph_index": 4263,
+      "original_glyph": "nonzero",
+      "cp932_status": "defined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "휑",
+      "code": "97BE",
+      "glyph_index": 4261,
+      "original_glyph": "nonzero",
+      "cp932_status": "defined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "탔",
+      "code": "97BD",
+      "glyph_index": 4260,
+      "original_glyph": "nonzero",
+      "cp932_status": "defined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "텔",
+      "code": "97BA",
+      "glyph_index": 4257,
+      "original_glyph": "nonzero",
+      "cp932_status": "defined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "옷",
+      "code": "97B8",
+      "glyph_index": 4255,
+      "original_glyph": "nonzero",
+      "cp932_status": "defined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "쏟",
+      "code": "97B5",
+      "glyph_index": 4252,
+      "original_glyph": "nonzero",
+      "cp932_status": "defined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "감",
+      "code": "97B4",
+      "glyph_index": 4251,
+      "original_glyph": "nonzero",
+      "cp932_status": "defined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "씁",
+      "code": "97B3",
+      "glyph_index": 4250,
+      "original_glyph": "nonzero",
+      "cp932_status": "defined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "괴",
+      "code": "97B1",
+      "glyph_index": 4248,
+      "original_glyph": "nonzero",
+      "cp932_status": "defined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "흉",
+      "code": "97B0",
+      "glyph_index": 4247,
+      "original_glyph": "nonzero",
+      "cp932_status": "defined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "휘",
+      "code": "97AE",
+      "glyph_index": 4245,
+      "original_glyph": "nonzero",
+      "cp932_status": "defined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "칼",
+      "code": "97AD",
+      "glyph_index": 4244,
+      "original_glyph": "nonzero",
+      "cp932_status": "defined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "납",
+      "code": "97AB",
+      "glyph_index": 4242,
+      "original_glyph": "nonzero",
+      "cp932_status": "defined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "팔",
+      "code": "97AA",
+      "glyph_index": 4241,
+      "original_glyph": "nonzero",
+      "cp932_status": "defined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "끌",
+      "code": "97A9",
+      "glyph_index": 4240,
+      "original_glyph": "nonzero",
+      "cp932_status": "defined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "젤",
+      "code": "97A8",
+      "glyph_index": 4239,
+      "original_glyph": "nonzero",
+      "cp932_status": "defined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "묶",
+      "code": "97A6",
+      "glyph_index": 4237,
+      "original_glyph": "nonzero",
+      "cp932_status": "defined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "곱",
+      "code": "97A5",
+      "glyph_index": 4236,
+      "original_glyph": "nonzero",
+      "cp932_status": "defined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "끄",
+      "code": "97A4",
+      "glyph_index": 4235,
+      "original_glyph": "nonzero",
+      "cp932_status": "defined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "궂",
+      "code": "97A2",
+      "glyph_index": 4233,
+      "original_glyph": "nonzero",
+      "cp932_status": "defined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "찰",
+      "code": "97A1",
+      "glyph_index": 4232,
+      "original_glyph": "nonzero",
+      "cp932_status": "defined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "픈",
+      "code": "979F",
+      "glyph_index": 4230,
+      "original_glyph": "nonzero",
+      "cp932_status": "defined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "펐",
+      "code": "979E",
+      "glyph_index": 4229,
+      "original_glyph": "nonzero",
+      "cp932_status": "defined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "뒷",
+      "code": "979C",
+      "glyph_index": 4227,
+      "original_glyph": "nonzero",
+      "cp932_status": "defined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "곡",
+      "code": "979B",
+      "glyph_index": 4226,
+      "original_glyph": "nonzero",
+      "cp932_status": "defined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "훨",
+      "code": "979A",
+      "glyph_index": 4225,
+      "original_glyph": "nonzero",
+      "cp932_status": "defined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "씬",
+      "code": "9799",
+      "glyph_index": 4224,
+      "original_glyph": "nonzero",
+      "cp932_status": "defined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "빼",
+      "code": "9797",
+      "glyph_index": 4222,
+      "original_glyph": "nonzero",
+      "cp932_status": "defined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "멍",
+      "code": "9796",
+      "glyph_index": 4221,
+      "original_glyph": "nonzero",
+      "cp932_status": "defined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "밧",
+      "code": "9795",
+      "glyph_index": 4220,
+      "original_glyph": "nonzero",
+      "cp932_status": "defined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "뚝",
+      "code": "9794",
+      "glyph_index": 4219,
+      "original_glyph": "nonzero",
+      "cp932_status": "defined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "싱",
+      "code": "9793",
+      "glyph_index": 4218,
+      "original_glyph": "nonzero",
+      "cp932_status": "defined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "냉",
+      "code": "9792",
+      "glyph_index": 4217,
+      "original_glyph": "nonzero",
+      "cp932_status": "defined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "삽",
+      "code": "9791",
+      "glyph_index": 4216,
+      "original_glyph": "nonzero",
+      "cp932_status": "defined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "팬",
+      "code": "978F",
+      "glyph_index": 4214,
+      "original_glyph": "nonzero",
+      "cp932_status": "defined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "덜",
+      "code": "978B",
+      "glyph_index": 4210,
+      "original_glyph": "nonzero",
+      "cp932_status": "defined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "털",
+      "code": "9789",
+      "glyph_index": 4208,
+      "original_glyph": "nonzero",
+      "cp932_status": "defined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "넸",
+      "code": "9787",
+      "glyph_index": 4206,
+      "original_glyph": "nonzero",
+      "cp932_status": "defined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "넣",
+      "code": "9785",
+      "glyph_index": 4204,
+      "original_glyph": "nonzero",
+      "cp932_status": "defined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "킨",
+      "code": "9784",
+      "glyph_index": 4203,
+      "original_glyph": "nonzero",
+      "cp932_status": "defined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "취",
+      "code": "9781",
+      "glyph_index": 4200,
+      "original_glyph": "nonzero",
+      "cp932_status": "defined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "갇",
+      "code": "9780",
+      "glyph_index": 4199,
+      "original_glyph": "nonzero",
+      "cp932_status": "defined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "춘",
+      "code": "977D",
+      "glyph_index": 4197,
+      "original_glyph": "nonzero",
+      "cp932_status": "defined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "썼",
+      "code": "977C",
+      "glyph_index": 4196,
+      "original_glyph": "nonzero",
+      "cp932_status": "defined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "깥",
+      "code": "977B",
+      "glyph_index": 4195,
+      "original_glyph": "nonzero",
+      "cp932_status": "defined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "곁",
+      "code": "9779",
+      "glyph_index": 4193,
+      "original_glyph": "nonzero",
+      "cp932_status": "defined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "꼭",
+      "code": "9778",
+      "glyph_index": 4192,
+      "original_glyph": "nonzero",
+      "cp932_status": "defined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "펜",
+      "code": "9777",
+      "glyph_index": 4191,
+      "original_glyph": "nonzero",
+      "cp932_status": "defined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "삶",
+      "code": "9775",
+      "glyph_index": 4189,
+      "original_glyph": "nonzero",
+      "cp932_status": "defined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "픔",
+      "code": "9773",
+      "glyph_index": 4187,
+      "original_glyph": "nonzero",
+      "cp932_status": "defined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "팀",
+      "code": "9772",
+      "glyph_index": 4186,
+      "original_glyph": "nonzero",
+      "cp932_status": "defined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "걷",
+      "code": "9771",
+      "glyph_index": 4185,
+      "original_glyph": "nonzero",
+      "cp932_status": "defined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "센",
+      "code": "976F",
+      "glyph_index": 4183,
+      "original_glyph": "nonzero",
+      "cp932_status": "defined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "휩",
+      "code": "976E",
+      "glyph_index": 4182,
+      "original_glyph": "nonzero",
+      "cp932_status": "defined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "붓",
+      "code": "976D",
+      "glyph_index": 4181,
+      "original_glyph": "nonzero",
+      "cp932_status": "defined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "늙",
+      "code": "976B",
+      "glyph_index": 4179,
+      "original_glyph": "nonzero",
+      "cp932_status": "defined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "씻",
+      "code": "976A",
+      "glyph_index": 4178,
+      "original_glyph": "nonzero",
+      "cp932_status": "defined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "켜",
+      "code": "9769",
+      "glyph_index": 4177,
+      "original_glyph": "nonzero",
+      "cp932_status": "defined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "큼",
+      "code": "9767",
+      "glyph_index": 4175,
+      "original_glyph": "nonzero",
+      "cp932_status": "defined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "뒀",
+      "code": "9766",
+      "glyph_index": 4174,
+      "original_glyph": "nonzero",
+      "cp932_status": "defined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "떼",
+      "code": "9764",
+      "glyph_index": 4172,
+      "original_glyph": "nonzero",
+      "cp932_status": "defined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "써",
+      "code": "9762",
+      "glyph_index": 4170,
+      "original_glyph": "nonzero",
+      "cp932_status": "defined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "컸",
+      "code": "9760",
+      "glyph_index": 4168,
+      "original_glyph": "nonzero",
+      "cp932_status": "defined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "탓",
+      "code": "975F",
+      "glyph_index": 4167,
+      "original_glyph": "nonzero",
+      "cp932_status": "defined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "민",
+      "code": "975D",
+      "glyph_index": 4165,
+      "original_glyph": "nonzero",
+      "cp932_status": "defined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "룰",
+      "code": "975B",
+      "glyph_index": 4163,
+      "original_glyph": "nonzero",
+      "cp932_status": "defined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "눴",
+      "code": "975A",
+      "glyph_index": 4162,
+      "original_glyph": "nonzero",
+      "cp932_status": "defined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "컴",
+      "code": "9759",
+      "glyph_index": 4161,
+      "original_glyph": "nonzero",
+      "cp932_status": "defined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "퓨",
+      "code": "9758",
+      "glyph_index": 4160,
+      "original_glyph": "nonzero",
+      "cp932_status": "defined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "맨",
+      "code": "9757",
+      "glyph_index": 4159,
+      "original_glyph": "nonzero",
+      "cp932_status": "defined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "력",
+      "code": "9755",
+      "glyph_index": 4157,
+      "original_glyph": "nonzero",
+      "cp932_status": "defined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "염",
+      "code": "9753",
+      "glyph_index": 4155,
+      "original_glyph": "nonzero",
+      "cp932_status": "defined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "닦",
+      "code": "9751",
+      "glyph_index": 4153,
+      "original_glyph": "nonzero",
+      "cp932_status": "defined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "쐈",
+      "code": "9750",
+      "glyph_index": 4152,
+      "original_glyph": "nonzero",
+      "cp932_status": "defined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "팅",
+      "code": "974F",
+      "glyph_index": 4151,
+      "original_glyph": "nonzero",
+      "cp932_status": "defined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "뜰",
+      "code": "974E",
+      "glyph_index": 4150,
+      "original_glyph": "nonzero",
+      "cp932_status": "defined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "랄",
+      "code": "974D",
+      "glyph_index": 4149,
+      "original_glyph": "nonzero",
+      "cp932_status": "defined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "협",
+      "code": "974B",
+      "glyph_index": 4147,
+      "original_glyph": "nonzero",
+      "cp932_status": "defined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "촉",
+      "code": "974A",
+      "glyph_index": 4146,
+      "original_glyph": "nonzero",
+      "cp932_status": "defined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "잉",
+      "code": "9749",
+      "glyph_index": 4145,
+      "original_glyph": "nonzero",
+      "cp932_status": "defined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "땠",
+      "code": "9748",
+      "glyph_index": 4144,
+      "original_glyph": "nonzero",
+      "cp932_status": "defined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "뢰",
+      "code": "9747",
+      "glyph_index": 4143,
+      "original_glyph": "nonzero",
+      "cp932_status": "defined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "챈",
+      "code": "9745",
+      "glyph_index": 4141,
+      "original_glyph": "nonzero",
+      "cp932_status": "defined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "챘",
+      "code": "9743",
+      "glyph_index": 4139,
+      "original_glyph": "nonzero",
+      "cp932_status": "defined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "놔",
+      "code": "9741",
+      "glyph_index": 4137,
+      "original_glyph": "nonzero",
+      "cp932_status": "defined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "꿔",
+      "code": "9740",
+      "glyph_index": 4136,
+      "original_glyph": "nonzero",
+      "cp932_status": "defined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "멀",
+      "code": "96FB",
+      "glyph_index": 4134,
+      "original_glyph": "nonzero",
+      "cp932_status": "defined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "졸",
+      "code": "96FA",
+      "glyph_index": 4133,
+      "original_glyph": "nonzero",
+      "cp932_status": "defined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "쏘",
+      "code": "96F9",
+      "glyph_index": 4132,
+      "original_glyph": "nonzero",
+      "cp932_status": "defined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "쳤",
+      "code": "96F8",
+      "glyph_index": 4131,
+      "original_glyph": "nonzero",
+      "cp932_status": "defined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "뛰",
+      "code": "96F7",
+      "glyph_index": 4130,
+      "original_glyph": "nonzero",
+      "cp932_status": "defined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "쫓",
+      "code": "96F5",
+      "glyph_index": 4128,
+      "original_glyph": "nonzero",
+      "cp932_status": "defined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "섭",
+      "code": "96F4",
+      "glyph_index": 4127,
+      "original_glyph": "nonzero",
+      "cp932_status": "defined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "쏠",
+      "code": "96F3",
+      "glyph_index": 4126,
+      "original_glyph": "nonzero",
+      "cp932_status": "defined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "갖",
+      "code": "96EF",
+      "glyph_index": 4122,
+      "original_glyph": "nonzero",
+      "cp932_status": "defined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "멤",
+      "code": "96EE",
+      "glyph_index": 4121,
+      "original_glyph": "nonzero",
+      "cp932_status": "defined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "첩",
+      "code": "96EB",
+      "glyph_index": 4118,
+      "original_glyph": "nonzero",
+      "cp932_status": "defined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "뻤",
+      "code": "96EA",
+      "glyph_index": 4117,
+      "original_glyph": "nonzero",
+      "cp932_status": "defined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "뇌",
+      "code": "96E8",
+      "glyph_index": 4115,
+      "original_glyph": "nonzero",
+      "cp932_status": "defined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "량",
+      "code": "96E6",
+      "glyph_index": 4113,
+      "original_glyph": "nonzero",
+      "cp932_status": "defined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "콤",
+      "code": "96E3",
+      "glyph_index": 4110,
+      "original_glyph": "nonzero",
+      "cp932_status": "defined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "놈",
+      "code": "96E1",
+      "glyph_index": 4108,
+      "original_glyph": "nonzero",
+      "cp932_status": "defined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "깜",
+      "code": "96E0",
+      "glyph_index": 4107,
+      "original_glyph": "nonzero",
+      "cp932_status": "defined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "맙",
+      "code": "96DE",
+      "glyph_index": 4105,
+      "original_glyph": "nonzero",
+      "cp932_status": "defined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "쨌",
+      "code": "96DD",
+      "glyph_index": 4104,
+      "original_glyph": "nonzero",
+      "cp932_status": "defined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    },
+    {
+      "character": "꼈",
+      "code": "96DC",
+      "glyph_index": 4103,
+      "original_glyph": "nonzero",
+      "cp932_status": "defined_in_cp932",
+      "mapping_origin": "full_pool_static_selection"
+    }
+  ],
+  "gates": {
+    "static_capacity": "pass",
+    "known_csv_text_collision": "pass",
+    "representative_lead_runtime": "pass",
+    "all_generated_code_pairs_runtime": "not_individually_tested",
+    "csv_external_and_nontext_consumers": "pending",
+    "production_build_eligibility": "pending"
+  }
+}

@@ -1,0 +1,2 @@
+canvas_id,resource_id,shift_mode,shift_x,crop_x,crop_y,crop_w,crop_h,translation_target,evidence,status,notes
+opening_1948,v05_bg/V5_000,tiled8_sequence,-64,0,0,256,192,1948년 / 블러드 에드워드섬,user-selected KMU80TTFHaeongSans and isolated runtime PoC,conditional_poc_candidate,숫자와 한글을 모두 같은 20px TTF에서 렌더하고 1비트 마스크로 변환

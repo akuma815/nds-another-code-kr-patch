@@ -1,0 +1,32 @@
+{
+  "schema_version": 1,
+  "extends": "graphics_translation_refine_v8.json",
+  "canvases": {
+    "pda_mark": {
+      "restore_rows": [
+        {
+          "box": [20, 44, 20, 8],
+          "sample_box": [20, 44, 20, 8]
+        },
+        {
+          "box": [40, 52, 3, 6],
+          "sample_box": [43, 52, 3, 6],
+          "method": "median"
+        }
+      ],
+      "font_texts": [
+        {
+          "text": "뒤로",
+          "font_path": "../../../../Font/Galmuri9.ttf",
+          "font_size": 8,
+          "center": [32.0, 47.0],
+          "value": 18,
+          "shadow": {
+            "offset": [1, 0],
+            "value": 109
+          }
+        }
+      ]
+    }
+  }
+}

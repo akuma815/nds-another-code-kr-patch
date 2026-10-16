@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "warning": "Format example only. Do not reuse these codes in another game without a full collision audit.",
+  "mappings": [
+    {"character": "한", "code": "885C", "glyph_index": 1344},
+    {"character": "글", "code": "84EA", "glyph_index": 733},
+    {"character": "뒤", "code": "86AB", "glyph_index": 1046},
+    {"character": "로", "code": "984B", "glyph_index": 4335},
+    {"character": "묘", "code": "889E", "glyph_index": 1409},
+    {"character": "지", "code": "986E", "glyph_index": 4370}
+  ]
+}

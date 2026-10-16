@@ -1,0 +1,2954 @@
+{
+  "schema_version": 1,
+  "status": "full_graphics_set_rebuilt_with_pf_stardust_static_only",
+  "graphics_config": {
+    "path": "G:\\Downloads\\Korean Traslate Project\\Games\\Another  Code\\workspace\\config\\pfstardust_graphics_v27_all_chapters_r4_cleanup.json",
+    "sha256": "7039CBCFAC2D234A999EFB1B0EF25BD222FFC8B889F64D0A9265DEA8DDF31849"
+  },
+  "font_config": {
+    "path": "G:\\Downloads\\Korean Traslate Project\\Games\\Another  Code\\workspace\\config\\graphics_font_sources_v19_pfstardust.json",
+    "sha256": "B9DBB9194C625CB22B6FEC052A694D61282D9EB424BA4E6E4AB27B8A59BF94E9"
+  },
+  "font": {
+    "path": "../../../../Font/PF스타더스트 3.0 Bold.ttf",
+    "sha256": "D23021D127C8E020843B5A39D3FA27B4A92D62598F06DC541538318FD0A4F4C1",
+    "format": "truetype_pixel_style",
+    "binary_threshold": 128,
+    "roles": [
+      "title_logo",
+      "title_menu",
+      "title_touch",
+      "chapter_card",
+      "opening_caption",
+      "system_icon",
+      "pda_icon"
+    ]
+  },
+  "reference_dir": "G:\\Downloads\\Korean Traslate Project\\Games\\Another  Code\\workspace\\graphics\\edit_canvases_v27_all_chapters_locations_r3\\editable_indexed",
+  "image_count": 35,
+  "rebuilt_count": 35,
+  "contact_sheet": "contact_sheet.png",
+  "outputs": [
+    {
+      "canvas_id": "chapter1_number",
+      "action": "pf_stardust_binary_ttf_rebuilt_from_source_indexed_canvas",
+      "changed_pixel_count": 1057,
+      "change_boxes": [
+        [
+          70,
+          68,
+          117,
+          49
+        ]
+      ],
+      "operations": [
+        {
+          "kind": "fill_box",
+          "box": [
+            70,
+            68,
+            117,
+            49
+          ],
+          "background_index": 145
+        },
+        {
+          "kind": "outline",
+          "text": "제1장",
+          "box": [
+            97,
+            82,
+            58,
+            23,
+            833
+          ],
+          "index": 240,
+          "radius": 1
+        },
+        {
+          "kind": "binary_ttf_text",
+          "text": "제1장",
+          "font_size": 24,
+          "center": [
+            126.0,
+            93.5
+          ],
+          "output_box": [
+            98,
+            83,
+            56,
+            21,
+            410
+          ],
+          "ink_index": 255
+        }
+      ],
+      "indexed_png": "indexed\\chapter1_number.png",
+      "indexed_png_sha256": "3E7BCD555C97AA34D0811E547A3A203C8542C46A3BA73A74BA9930A801ACE5CD",
+      "preview_png": "preview_x4\\chapter1_number.png",
+      "preview_png_sha256": "94604BB46F89620B02B546D88FE583C6C10474AD21E85B40EE16263A97BDA73C"
+    },
+    {
+      "canvas_id": "chapter1_title",
+      "action": "pf_stardust_binary_ttf_rebuilt_from_source_indexed_canvas",
+      "changed_pixel_count": 2081,
+      "change_boxes": [
+        [
+          20,
+          68,
+          220,
+          49
+        ]
+      ],
+      "operations": [
+        {
+          "kind": "fill_box",
+          "box": [
+            20,
+            68,
+            220,
+            49
+          ],
+          "background_index": 145
+        },
+        {
+          "kind": "outline",
+          "text": "디와의 만남",
+          "box": [
+            73,
+            82,
+            109,
+            23,
+            1455
+          ],
+          "index": 240,
+          "radius": 1
+        },
+        {
+          "kind": "binary_ttf_text",
+          "text": "디와의 만남",
+          "font_size": 24,
+          "center": [
+            127.5,
+            94.0
+          ],
+          "output_box": [
+            74,
+            84,
+            107,
+            21,
+            703
+          ],
+          "ink_index": 255
+        }
+      ],
+      "indexed_png": "indexed\\chapter1_title.png",
+      "indexed_png_sha256": "23C6CC0BE548B23A1AFF3B2F65DE3AD9F8C86221CA2CA503873FA334983CBC0A",
+      "preview_png": "preview_x4\\chapter1_title.png",
+      "preview_png_sha256": "0504D955D2B3CEF6DADA6D7080471FF339D6C6A119214CFC77E7855ACBE7A856"
+    },
+    {
+      "canvas_id": "chapter2_number",
+      "action": "pf_stardust_binary_ttf_rebuilt_from_source_indexed_canvas",
+      "changed_pixel_count": 1143,
+      "change_boxes": [
+        [
+          70,
+          68,
+          117,
+          49
+        ]
+      ],
+      "operations": [
+        {
+          "kind": "fill_box",
+          "box": [
+            70,
+            68,
+            117,
+            49
+          ],
+          "background_index": 145
+        },
+        {
+          "kind": "outline",
+          "text": "제2장",
+          "box": [
+            97,
+            82,
+            58,
+            23,
+            903
+          ],
+          "index": 240,
+          "radius": 1
+        },
+        {
+          "kind": "binary_ttf_text",
+          "text": "제2장",
+          "font_size": 24,
+          "center": [
+            126.0,
+            93.5
+          ],
+          "output_box": [
+            98,
+            83,
+            56,
+            21,
+            446
+          ],
+          "ink_index": 255
+        }
+      ],
+      "indexed_png": "indexed\\chapter2_number.png",
+      "indexed_png_sha256": "68213938E1C645F831C0D8CBB568F3F551B7047A3FF368F7FB5C3B3DA4FEF60D",
+      "preview_png": "preview_x4\\chapter2_number.png",
+      "preview_png_sha256": "FDA4BC07C868F15C36C25136B44EE3933648269A9566D03442FCDCF576539476"
+    },
+    {
+      "canvas_id": "chapter2_title",
+      "action": "pf_stardust_binary_ttf_rebuilt_from_source_indexed_canvas",
+      "changed_pixel_count": 2460,
+      "change_boxes": [
+        [
+          20,
+          68,
+          220,
+          49
+        ]
+      ],
+      "operations": [
+        {
+          "kind": "fill_box",
+          "box": [
+            20,
+            68,
+            220,
+            49
+          ],
+          "background_index": 145
+        },
+        {
+          "kind": "outline",
+          "text": "로렌스의 저택",
+          "box": [
+            62,
+            82,
+            131,
+            23,
+            1755
+          ],
+          "index": 240,
+          "radius": 1
+        },
+        {
+          "kind": "binary_ttf_text",
+          "text": "로렌스의 저택",
+          "font_size": 24,
+          "center": [
+            127.5,
+            94.0
+          ],
+          "output_box": [
+            63,
+            84,
+            129,
+            21,
+            850
+          ],
+          "ink_index": 255
+        }
+      ],
+      "indexed_png": "indexed\\chapter2_title.png",
+      "indexed_png_sha256": "22D2F4A0B4D3F0F19B2704FEA0C0B0FF0F2501BD576E4756615C813FA5239461",
+      "preview_png": "preview_x4\\chapter2_title.png",
+      "preview_png_sha256": "ACAEDBB567E4D99D7205ECE429895F2C914528A04F86AD163D8848D690BF1133"
+    },
+    {
+      "canvas_id": "chapter3_number",
+      "action": "pf_stardust_binary_ttf_rebuilt_from_source_indexed_canvas",
+      "changed_pixel_count": 1111,
+      "change_boxes": [
+        [
+          70,
+          68,
+          117,
+          49
+        ]
+      ],
+      "operations": [
+        {
+          "kind": "fill_box",
+          "box": [
+            70,
+            68,
+            117,
+            49
+          ],
+          "background_index": 145
+        },
+        {
+          "kind": "outline",
+          "text": "제3장",
+          "box": [
+            97,
+            82,
+            58,
+            23,
+            892
+          ],
+          "index": 240,
+          "radius": 1
+        },
+        {
+          "kind": "binary_ttf_text",
+          "text": "제3장",
+          "font_size": 24,
+          "center": [
+            126.0,
+            93.5
+          ],
+          "output_box": [
+            98,
+            83,
+            56,
+            21,
+            439
+          ],
+          "ink_index": 255
+        }
+      ],
+      "indexed_png": "indexed\\chapter3_number.png",
+      "indexed_png_sha256": "5AEF3F1A9F7A2243F941F5F7B4B3D03C29E10B3991C35FADDFD9B46A6822348F",
+      "preview_png": "preview_x4\\chapter3_number.png",
+      "preview_png_sha256": "7E9CE8F3F9122AF3FF8BB6A13D81BA89895C880F390DA4DDCFB0B5F70F141DD8"
+    },
+    {
+      "canvas_id": "chapter3_title",
+      "action": "pf_stardust_binary_ttf_rebuilt_from_source_indexed_canvas",
+      "changed_pixel_count": 2241,
+      "change_boxes": [
+        [
+          20,
+          68,
+          220,
+          49
+        ]
+      ],
+      "operations": [
+        {
+          "kind": "fill_box",
+          "box": [
+            20,
+            68,
+            220,
+            49
+          ],
+          "background_index": 145
+        },
+        {
+          "kind": "outline",
+          "text": "프래니의 추억",
+          "box": [
+            64,
+            82,
+            128,
+            23,
+            1669
+          ],
+          "index": 240,
+          "radius": 1
+        },
+        {
+          "kind": "binary_ttf_text",
+          "text": "프래니의 추억",
+          "font_size": 24,
+          "center": [
+            127.5,
+            94.0
+          ],
+          "output_box": [
+            64,
+            84,
+            126,
+            21,
+            811
+          ],
+          "ink_index": 255
+        }
+      ],
+      "indexed_png": "indexed\\chapter3_title.png",
+      "indexed_png_sha256": "D2A09FE1138BEA66E0938448092EA7CFDA4E01DCFD68EA049B77C827592789BF",
+      "preview_png": "preview_x4\\chapter3_title.png",
+      "preview_png_sha256": "B4B910CA717033FF2A90ED20DC1C99B398550DA069D5ED6296B28B9FDE825D2D"
+    },
+    {
+      "canvas_id": "chapter4_number",
+      "action": "pf_stardust_binary_ttf_rebuilt_from_source_indexed_canvas",
+      "changed_pixel_count": 1081,
+      "change_boxes": [
+        [
+          70,
+          68,
+          117,
+          49
+        ]
+      ],
+      "operations": [
+        {
+          "kind": "fill_box",
+          "box": [
+            70,
+            68,
+            117,
+            49
+          ],
+          "background_index": 145
+        },
+        {
+          "kind": "outline",
+          "text": "제4장",
+          "box": [
+            97,
+            82,
+            58,
+            23,
+            840
+          ],
+          "index": 240,
+          "radius": 1
+        },
+        {
+          "kind": "binary_ttf_text",
+          "text": "제4장",
+          "font_size": 24,
+          "center": [
+            126.0,
+            93.5
+          ],
+          "output_box": [
+            98,
+            83,
+            56,
+            21,
+            413
+          ],
+          "ink_index": 255
+        }
+      ],
+      "indexed_png": "indexed\\chapter4_number.png",
+      "indexed_png_sha256": "BF838CE29BEFAD24CF5C481CF25F8FF516462FB69BFBF7C187D8B91F18345143",
+      "preview_png": "preview_x4\\chapter4_number.png",
+      "preview_png_sha256": "2F0E4E369A243F7D3C5D970FB3B50A291289693D975DD831F40AC068B52BCCCD"
+    },
+    {
+      "canvas_id": "chapter4_title",
+      "action": "pf_stardust_binary_ttf_rebuilt_from_source_indexed_canvas",
+      "changed_pixel_count": 2101,
+      "change_boxes": [
+        [
+          20,
+          68,
+          220,
+          49
+        ]
+      ],
+      "operations": [
+        {
+          "kind": "fill_box",
+          "box": [
+            20,
+            68,
+            220,
+            49
+          ],
+          "background_index": 145
+        },
+        {
+          "kind": "outline",
+          "text": "아빠와의 재회",
+          "box": [
+            62,
+            82,
+            130,
+            23,
+            1837
+          ],
+          "index": 240,
+          "radius": 1
+        },
+        {
+          "kind": "binary_ttf_text",
+          "text": "아빠와의 재회",
+          "font_size": 24,
+          "center": [
+            127.5,
+            94.0
+          ],
+          "output_box": [
+            64,
+            84,
+            128,
+            21,
+            884
+          ],
+          "ink_index": 255
+        }
+      ],
+      "indexed_png": "indexed\\chapter4_title.png",
+      "indexed_png_sha256": "49B731EB197AEC355AE66440B01A14D8C316DA80690E0370E243ADA0CD7E6199",
+      "preview_png": "preview_x4\\chapter4_title.png",
+      "preview_png_sha256": "51FD425F6B34E301A72B5B65002EBC084B2837C51308FE62EBFF32719A82F9E0"
+    },
+    {
+      "canvas_id": "chapter5_number",
+      "action": "pf_stardust_binary_ttf_rebuilt_from_source_indexed_canvas",
+      "changed_pixel_count": 1155,
+      "change_boxes": [
+        [
+          70,
+          68,
+          117,
+          49
+        ]
+      ],
+      "operations": [
+        {
+          "kind": "fill_box",
+          "box": [
+            70,
+            68,
+            117,
+            49
+          ],
+          "background_index": 145
+        },
+        {
+          "kind": "outline",
+          "text": "제5장",
+          "box": [
+            97,
+            82,
+            58,
+            23,
+            924
+          ],
+          "index": 240,
+          "radius": 1
+        },
+        {
+          "kind": "binary_ttf_text",
+          "text": "제5장",
+          "font_size": 24,
+          "center": [
+            126.0,
+            93.5
+          ],
+          "output_box": [
+            98,
+            83,
+            56,
+            21,
+            465
+          ],
+          "ink_index": 255
+        }
+      ],
+      "indexed_png": "indexed\\chapter5_number.png",
+      "indexed_png_sha256": "A2B93D1EB4FBBED9323822EBD32F2231E7350AA6804E4E30A6B1851E1876DA56",
+      "preview_png": "preview_x4\\chapter5_number.png",
+      "preview_png_sha256": "F72C7C276A3681C58B2FFBA39BD555EA45CE0C2AC702CD591FF207C6F5ADB8FC"
+    },
+    {
+      "canvas_id": "chapter5_title",
+      "action": "pf_stardust_binary_ttf_rebuilt_from_source_indexed_canvas",
+      "changed_pixel_count": 2243,
+      "change_boxes": [
+        [
+          20,
+          68,
+          220,
+          49
+        ]
+      ],
+      "operations": [
+        {
+          "kind": "fill_box",
+          "box": [
+            20,
+            68,
+            220,
+            49
+          ],
+          "background_index": 145
+        },
+        {
+          "kind": "outline",
+          "text": "세컨드 어나더",
+          "box": [
+            62,
+            82,
+            131,
+            23,
+            1640
+          ],
+          "index": 240,
+          "radius": 1
+        },
+        {
+          "kind": "binary_ttf_text",
+          "text": "세컨드 어나더",
+          "font_size": 24,
+          "center": [
+            127.5,
+            94.0
+          ],
+          "output_box": [
+            63,
+            84,
+            129,
+            21,
+            807
+          ],
+          "ink_index": 255
+        }
+      ],
+      "indexed_png": "indexed\\chapter5_title.png",
+      "indexed_png_sha256": "70F43243F86B7FD5C2B0A89D3928D3FB78C57D2E3C167FC8289EEC2CCCF4C713",
+      "preview_png": "preview_x4\\chapter5_title.png",
+      "preview_png_sha256": "F8E9C7CD93632EFFCD2D2E7FA60238780CFED95BCDE8CF4D0FF14870F475F2F1"
+    },
+    {
+      "canvas_id": "chapter6_number",
+      "action": "pf_stardust_binary_ttf_rebuilt_from_source_indexed_canvas",
+      "changed_pixel_count": 1122,
+      "change_boxes": [
+        [
+          70,
+          68,
+          117,
+          49
+        ]
+      ],
+      "operations": [
+        {
+          "kind": "fill_box",
+          "box": [
+            70,
+            68,
+            117,
+            49
+          ],
+          "background_index": 145
+        },
+        {
+          "kind": "outline",
+          "text": "제6장",
+          "box": [
+            97,
+            82,
+            58,
+            23,
+            915
+          ],
+          "index": 240,
+          "radius": 1
+        },
+        {
+          "kind": "binary_ttf_text",
+          "text": "제6장",
+          "font_size": 24,
+          "center": [
+            126.0,
+            93.5
+          ],
+          "output_box": [
+            98,
+            83,
+            56,
+            21,
+            456
+          ],
+          "ink_index": 255
+        }
+      ],
+      "indexed_png": "indexed\\chapter6_number.png",
+      "indexed_png_sha256": "99184717010ACB0967E222C33C94039D0AAA5130498EE5DE73789BD3291550D2",
+      "preview_png": "preview_x4\\chapter6_number.png",
+      "preview_png_sha256": "1E4F5E3A7CE6F5DB245081438B61EC1E010596AB6463903DC30C9D2387B7E26F"
+    },
+    {
+      "canvas_id": "chapter6_title",
+      "action": "pf_stardust_binary_ttf_rebuilt_from_source_indexed_canvas",
+      "changed_pixel_count": 2029,
+      "change_boxes": [
+        [
+          20,
+          68,
+          220,
+          49
+        ]
+      ],
+      "operations": [
+        {
+          "kind": "fill_box",
+          "box": [
+            20,
+            68,
+            220,
+            49
+          ],
+          "background_index": 145
+        },
+        {
+          "kind": "outline",
+          "text": "오른손의 기억",
+          "box": [
+            64,
+            82,
+            128,
+            23,
+            1640
+          ],
+          "index": 240,
+          "radius": 1
+        },
+        {
+          "kind": "binary_ttf_text",
+          "text": "오른손의 기억",
+          "font_size": 24,
+          "center": [
+            127.5,
+            94.0
+          ],
+          "output_box": [
+            64,
+            84,
+            126,
+            21,
+            800
+          ],
+          "ink_index": 255
+        }
+      ],
+      "indexed_png": "indexed\\chapter6_title.png",
+      "indexed_png_sha256": "9D0D751666CC7EEACB02E0936E24B16EA41792BF48DA525B34DAAAF3CAC85389",
+      "preview_png": "preview_x4\\chapter6_title.png",
+      "preview_png_sha256": "385ABDAD125CB2A8E58A80E04D2006429D10FA98D578C518A974D189C8138CB3"
+    },
+    {
+      "canvas_id": "chapter_final_number",
+      "action": "pf_stardust_binary_ttf_rebuilt_from_source_indexed_canvas",
+      "changed_pixel_count": 1102,
+      "change_boxes": [
+        [
+          70,
+          68,
+          117,
+          49
+        ]
+      ],
+      "operations": [
+        {
+          "kind": "fill_box",
+          "box": [
+            70,
+            68,
+            117,
+            49
+          ],
+          "background_index": 145
+        },
+        {
+          "kind": "outline",
+          "text": "종장",
+          "box": [
+            104,
+            82,
+            43,
+            23,
+            731
+          ],
+          "index": 240,
+          "radius": 1
+        },
+        {
+          "kind": "binary_ttf_text",
+          "text": "종장",
+          "font_size": 24,
+          "center": [
+            126.0,
+            93.5
+          ],
+          "output_box": [
+            106,
+            83,
+            41,
+            21,
+            375
+          ],
+          "ink_index": 255
+        }
+      ],
+      "indexed_png": "indexed\\chapter_final_number.png",
+      "indexed_png_sha256": "757EE58382B73E2FE0F22AC0BBCFB3E1D653D60E4BFDA5ADEA8C4327A8295BAD",
+      "preview_png": "preview_x4\\chapter_final_number.png",
+      "preview_png_sha256": "B58159939BB570E142D8297AF06B6A810A490A82A8BB7647BD6CE468C4549287"
+    },
+    {
+      "canvas_id": "chapter_final_title",
+      "action": "pf_stardust_binary_ttf_rebuilt_from_source_indexed_canvas",
+      "changed_pixel_count": 2220,
+      "change_boxes": [
+        [
+          20,
+          68,
+          220,
+          49
+        ]
+      ],
+      "operations": [
+        {
+          "kind": "fill_box",
+          "box": [
+            20,
+            68,
+            220,
+            49
+          ],
+          "background_index": 145
+        },
+        {
+          "kind": "outline",
+          "text": "푸른 달의 기적",
+          "box": [
+            60,
+            82,
+            136,
+            23,
+            1749
+          ],
+          "index": 240,
+          "radius": 1
+        },
+        {
+          "kind": "binary_ttf_text",
+          "text": "푸른 달의 기적",
+          "font_size": 24,
+          "center": [
+            127.5,
+            94.0
+          ],
+          "output_box": [
+            60,
+            84,
+            134,
+            21,
+            862
+          ],
+          "ink_index": 255
+        }
+      ],
+      "indexed_png": "indexed\\chapter_final_title.png",
+      "indexed_png_sha256": "4D77761591C13A5288326E762ED02AF98DFDEDEA6B0C446FD91F3D56275188C2",
+      "preview_png": "preview_x4\\chapter_final_title.png",
+      "preview_png_sha256": "3CDA5786D63FDB44E3D481B03DB66F005FB33416CE77A4C621D0899EE9F87505"
+    },
+    {
+      "canvas_id": "location_butler_room",
+      "action": "pf_stardust_binary_ttf_rebuilt_from_source_indexed_canvas",
+      "changed_pixel_count": 1117,
+      "change_boxes": [
+        [
+          15,
+          15,
+          226,
+          40
+        ]
+      ],
+      "operations": [
+        {
+          "kind": "remove_connected_components",
+          "search_box": [
+            88,
+            18,
+            80,
+            28
+          ],
+          "background_index": 175,
+          "max_pixels": 512,
+          "removed": [
+            {
+              "box": [
+                93,
+                21,
+                22,
+                22
+              ],
+              "pixel_count": 303
+            },
+            {
+              "box": [
+                117,
+                21,
+                22,
+                22
+              ],
+              "pixel_count": 274
+            },
+            {
+              "box": [
+                141,
+                21,
+                22,
+                21
+              ],
+              "pixel_count": 264
+            },
+            {
+              "box": [
+                107,
+                41,
+                2,
+                1
+              ],
+              "pixel_count": 2
+            }
+          ]
+        },
+        {
+          "kind": "outline",
+          "text": "집사실",
+          "box": [
+            103,
+            24,
+            50,
+            19,
+            687
+          ],
+          "index": 240,
+          "radius": 1
+        },
+        {
+          "kind": "binary_ttf_text",
+          "text": "집사실",
+          "font_size": 20,
+          "center": [
+            128.0,
+            34.0
+          ],
+          "output_box": [
+            104,
+            26,
+            48,
+            17,
+            312
+          ],
+          "ink_index": 255
+        }
+      ],
+      "indexed_png": "indexed\\location_butler_room.png",
+      "indexed_png_sha256": "91B4C12755C398DC286E274B964898CA29B5C87655D9022DD758FF5318479B08",
+      "preview_png": "preview_x4\\location_butler_room.png",
+      "preview_png_sha256": "38884429CEF85322FADC239E1AC43584E875E9B20FA652C3D1CDD23AEA4AD880"
+    },
+    {
+      "canvas_id": "location_cave",
+      "action": "pf_stardust_binary_ttf_rebuilt_from_source_indexed_canvas",
+      "changed_pixel_count": 947,
+      "change_boxes": [
+        [
+          15,
+          15,
+          226,
+          40
+        ]
+      ],
+      "operations": [
+        {
+          "kind": "fill_box",
+          "box": [
+            92,
+            18,
+            70,
+            28
+          ],
+          "background_index": 144
+        },
+        {
+          "kind": "fill_box",
+          "box": [
+            94,
+            16,
+            6,
+            4
+          ],
+          "background_index": 144
+        },
+        {
+          "kind": "fill_box",
+          "box": [
+            168,
+            38,
+            5,
+            4
+          ],
+          "background_index": 144
+        },
+        {
+          "kind": "outline",
+          "text": "동굴",
+          "box": [
+            111,
+            24,
+            34,
+            19,
+            519
+          ],
+          "index": 240,
+          "radius": 1
+        },
+        {
+          "kind": "binary_ttf_text",
+          "text": "동굴",
+          "font_size": 20,
+          "center": [
+            128.0,
+            34.0
+          ],
+          "output_box": [
+            112,
+            26,
+            32,
+            17,
+            270
+          ],
+          "ink_index": 255
+        }
+      ],
+      "indexed_png": "indexed\\location_cave.png",
+      "indexed_png_sha256": "09FF345AFA332DA77DFAD760DC78DFCB429D1802D86D05F2EA602C9857A2FD53",
+      "preview_png": "preview_x4\\location_cave.png",
+      "preview_png_sha256": "FEF38C9322D2614295BBF1B189EDEB0AC4A4ABED97A56D9AF9973C1F7928A5BD"
+    },
+    {
+      "canvas_id": "location_corridor_p12",
+      "action": "pf_stardust_binary_ttf_rebuilt_from_source_indexed_canvas",
+      "changed_pixel_count": 596,
+      "change_boxes": [
+        [
+          15,
+          15,
+          226,
+          40
+        ]
+      ],
+      "operations": [
+        {
+          "kind": "fill_box",
+          "box": [
+            90,
+            16,
+            76,
+            34
+          ],
+          "background_index": 211
+        },
+        {
+          "kind": "outline",
+          "text": "복도",
+          "box": [
+            111,
+            24,
+            34,
+            19,
+            426
+          ],
+          "index": 240,
+          "radius": 1
+        },
+        {
+          "kind": "binary_ttf_text",
+          "text": "복도",
+          "font_size": 20,
+          "center": [
+            128.0,
+            34.0
+          ],
+          "output_box": [
+            112,
+            26,
+            32,
+            17,
+            206
+          ],
+          "ink_index": 255
+        }
+      ],
+      "indexed_png": "indexed\\location_corridor_p12.png",
+      "indexed_png_sha256": "E9F5827A62C473517C59AE416438D6C2C1D204BBE2ED956127B624B1A5014661",
+      "preview_png": "preview_x4\\location_corridor_p12.png",
+      "preview_png_sha256": "B79B5A0A56DD407BCBBB0001337A18FC252CB2E93BC6A2700CDB17E2AD6D25DF"
+    },
+    {
+      "canvas_id": "location_corridor_p19",
+      "action": "pf_stardust_binary_ttf_rebuilt_from_source_indexed_canvas",
+      "changed_pixel_count": 596,
+      "change_boxes": [
+        [
+          15,
+          15,
+          226,
+          40
+        ]
+      ],
+      "operations": [
+        {
+          "kind": "fill_box",
+          "box": [
+            90,
+            16,
+            76,
+            34
+          ],
+          "background_index": 211
+        },
+        {
+          "kind": "outline",
+          "text": "복도",
+          "box": [
+            111,
+            24,
+            34,
+            19,
+            426
+          ],
+          "index": 240,
+          "radius": 1
+        },
+        {
+          "kind": "binary_ttf_text",
+          "text": "복도",
+          "font_size": 20,
+          "center": [
+            128.0,
+            34.0
+          ],
+          "output_box": [
+            112,
+            26,
+            32,
+            17,
+            206
+          ],
+          "ink_index": 255
+        }
+      ],
+      "indexed_png": "indexed\\location_corridor_p19.png",
+      "indexed_png_sha256": "E9F5827A62C473517C59AE416438D6C2C1D204BBE2ED956127B624B1A5014661",
+      "preview_png": "preview_x4\\location_corridor_p19.png",
+      "preview_png_sha256": "B79B5A0A56DD407BCBBB0001337A18FC252CB2E93BC6A2700CDB17E2AD6D25DF"
+    },
+    {
+      "canvas_id": "location_corridor_p28",
+      "action": "pf_stardust_binary_ttf_rebuilt_from_source_indexed_canvas",
+      "changed_pixel_count": 596,
+      "change_boxes": [
+        [
+          15,
+          15,
+          226,
+          40
+        ]
+      ],
+      "operations": [
+        {
+          "kind": "fill_box",
+          "box": [
+            90,
+            16,
+            76,
+            34
+          ],
+          "background_index": 211
+        },
+        {
+          "kind": "outline",
+          "text": "복도",
+          "box": [
+            111,
+            24,
+            34,
+            19,
+            426
+          ],
+          "index": 240,
+          "radius": 1
+        },
+        {
+          "kind": "binary_ttf_text",
+          "text": "복도",
+          "font_size": 20,
+          "center": [
+            128.0,
+            34.0
+          ],
+          "output_box": [
+            112,
+            26,
+            32,
+            17,
+            206
+          ],
+          "ink_index": 255
+        }
+      ],
+      "indexed_png": "indexed\\location_corridor_p28.png",
+      "indexed_png_sha256": "E9F5827A62C473517C59AE416438D6C2C1D204BBE2ED956127B624B1A5014661",
+      "preview_png": "preview_x4\\location_corridor_p28.png",
+      "preview_png_sha256": "B79B5A0A56DD407BCBBB0001337A18FC252CB2E93BC6A2700CDB17E2AD6D25DF"
+    },
+    {
+      "canvas_id": "location_corridor_p31",
+      "action": "pf_stardust_binary_ttf_rebuilt_from_source_indexed_canvas",
+      "changed_pixel_count": 596,
+      "change_boxes": [
+        [
+          15,
+          15,
+          226,
+          40
+        ]
+      ],
+      "operations": [
+        {
+          "kind": "fill_box",
+          "box": [
+            90,
+            16,
+            76,
+            34
+          ],
+          "background_index": 211
+        },
+        {
+          "kind": "outline",
+          "text": "복도",
+          "box": [
+            111,
+            24,
+            34,
+            19,
+            426
+          ],
+          "index": 240,
+          "radius": 1
+        },
+        {
+          "kind": "binary_ttf_text",
+          "text": "복도",
+          "font_size": 20,
+          "center": [
+            128.0,
+            34.0
+          ],
+          "output_box": [
+            112,
+            26,
+            32,
+            17,
+            206
+          ],
+          "ink_index": 255
+        }
+      ],
+      "indexed_png": "indexed\\location_corridor_p31.png",
+      "indexed_png_sha256": "E9F5827A62C473517C59AE416438D6C2C1D204BBE2ED956127B624B1A5014661",
+      "preview_png": "preview_x4\\location_corridor_p31.png",
+      "preview_png_sha256": "B79B5A0A56DD407BCBBB0001337A18FC252CB2E93BC6A2700CDB17E2AD6D25DF"
+    },
+    {
+      "canvas_id": "location_dining_room",
+      "action": "pf_stardust_binary_ttf_rebuilt_from_source_indexed_canvas",
+      "changed_pixel_count": 987,
+      "change_boxes": [
+        [
+          15,
+          15,
+          226,
+          40
+        ]
+      ],
+      "operations": [
+        {
+          "kind": "remove_connected_components",
+          "search_box": [
+            92,
+            24,
+            76,
+            27
+          ],
+          "background_index": 224,
+          "max_pixels": 512,
+          "removed": [
+            {
+              "box": [
+                95,
+                26,
+                22,
+                22
+              ],
+              "pixel_count": 260
+            },
+            {
+              "box": [
+                137,
+                26,
+                28,
+                21
+              ],
+              "pixel_count": 300
+            },
+            {
+              "box": [
+                120,
+                43,
+                6,
+                3
+              ],
+              "pixel_count": 13
+            }
+          ]
+        },
+        {
+          "kind": "outline",
+          "text": "식당",
+          "box": [
+            112,
+            26,
+            33,
+            19,
+            445
+          ],
+          "index": 240,
+          "radius": 1
+        },
+        {
+          "kind": "binary_ttf_text",
+          "text": "식당",
+          "font_size": 20,
+          "center": [
+            128.0,
+            36.0
+          ],
+          "output_box": [
+            112,
+            28,
+            31,
+            17,
+            200
+          ],
+          "ink_index": 255
+        }
+      ],
+      "indexed_png": "indexed\\location_dining_room.png",
+      "indexed_png_sha256": "7C919C864F4D8B4D70E868279321CA794E0EC78D36DC89865B2AF3318867BCC0",
+      "preview_png": "preview_x4\\location_dining_room.png",
+      "preview_png_sha256": "46850A584BE1FFD9237CD64ECF95E0BCD53B5A2C6E0A65C9380DE0E07D1E0F29"
+    },
+    {
+      "canvas_id": "location_entrance_hall",
+      "action": "pf_stardust_binary_ttf_rebuilt_from_source_indexed_canvas",
+      "changed_pixel_count": 1276,
+      "change_boxes": [
+        [
+          15,
+          15,
+          226,
+          40
+        ]
+      ],
+      "operations": [
+        {
+          "kind": "remove_connected_components",
+          "search_box": [
+            65,
+            23,
+            130,
+            28
+          ],
+          "background_index": 178,
+          "max_pixels": 512,
+          "removed": [
+            {
+              "box": [
+                72,
+                26,
+                22,
+                22
+              ],
+              "pixel_count": 227
+            },
+            {
+              "box": [
+                97,
+                26,
+                21,
+                22
+              ],
+              "pixel_count": 340
+            },
+            {
+              "box": [
+                122,
+                27,
+                17,
+                19
+              ],
+              "pixel_count": 129
+            },
+            {
+              "box": [
+                151,
+                27,
+                2,
+                1
+              ],
+              "pixel_count": 2
+            },
+            {
+              "box": [
+                168,
+                28,
+                22,
+                18
+              ],
+              "pixel_count": 141
+            },
+            {
+              "box": [
+                144,
+                34,
+                21,
+                5
+              ],
+              "pixel_count": 66
+            },
+            {
+              "box": [
+                133,
+                35,
+                7,
+                9
+              ],
+              "pixel_count": 30
+            }
+          ]
+        },
+        {
+          "kind": "outline",
+          "text": "현관 홀",
+          "box": [
+            100,
+            26,
+            56,
+            19,
+            731
+          ],
+          "index": 240,
+          "radius": 1
+        },
+        {
+          "kind": "binary_ttf_text",
+          "text": "현관 홀",
+          "font_size": 20,
+          "center": [
+            128.0,
+            35.0
+          ],
+          "output_box": [
+            101,
+            26,
+            54,
+            17,
+            353
+          ],
+          "ink_index": 255
+        }
+      ],
+      "indexed_png": "indexed\\location_entrance_hall.png",
+      "indexed_png_sha256": "661497271C87EC938EB29CF9BA11F5B05E271C58395EA2695FF5F59B87D3F551",
+      "preview_png": "preview_x4\\location_entrance_hall.png",
+      "preview_png_sha256": "CA6A29DFFE9964CC6B7FCB84A26D32AA65CF2410BE8EBD6FFD53DAE2193630C7"
+    },
+    {
+      "canvas_id": "location_franny_room",
+      "action": "pf_stardust_binary_ttf_rebuilt_from_source_indexed_canvas",
+      "changed_pixel_count": 1935,
+      "change_boxes": [
+        [
+          15,
+          15,
+          226,
+          40
+        ]
+      ],
+      "operations": [
+        {
+          "kind": "remove_connected_components",
+          "search_box": [
+            40,
+            20,
+            170,
+            26
+          ],
+          "background_index": 188,
+          "max_pixels": 512,
+          "removed": [
+            {
+              "box": [
+                161,
+                23,
+                22,
+                22
+              ],
+              "pixel_count": 310
+            },
+            {
+              "box": [
+                185,
+                23,
+                22,
+                22
+              ],
+              "pixel_count": 308
+            },
+            {
+              "box": [
+                71,
+                24,
+                11,
+                4
+              ],
+              "pixel_count": 32
+            },
+            {
+              "box": [
+                45,
+                25,
+                17,
+                19
+              ],
+              "pixel_count": 106
+            },
+            {
+              "box": [
+                138,
+                25,
+                20,
+                18
+              ],
+              "pixel_count": 167
+            },
+            {
+              "box": [
+                94,
+                27,
+                13,
+                4
+              ],
+              "pixel_count": 38
+            },
+            {
+              "box": [
+                69,
+                29,
+                16,
+                15
+              ],
+              "pixel_count": 96
+            },
+            {
+              "box": [
+                114,
+                31,
+                21,
+                5
+              ],
+              "pixel_count": 65
+            },
+            {
+              "box": [
+                91,
+                36,
+                20,
+                4
+              ],
+              "pixel_count": 57
+            }
+          ]
+        },
+        {
+          "kind": "outline",
+          "text": "프래니의 방",
+          "box": [
+            84,
+            24,
+            89,
+            19,
+            1147
+          ],
+          "index": 240,
+          "radius": 1
+        },
+        {
+          "kind": "binary_ttf_text",
+          "text": "프래니의 방",
+          "font_size": 20,
+          "center": [
+            128.0,
+            34.0
+          ],
+          "output_box": [
+            84,
+            26,
+            87,
+            17,
+            536
+          ],
+          "ink_index": 255
+        }
+      ],
+      "indexed_png": "indexed\\location_franny_room.png",
+      "indexed_png_sha256": "E67824C8692BB785436D35A476343BE7BD60C21894FB3AC54AB30430E9FA7A7C",
+      "preview_png": "preview_x4\\location_franny_room.png",
+      "preview_png_sha256": "445524976E46C151E645809BCCBBE037BF20BD1E1C4EA385CB7F49C7964DAD93"
+    },
+    {
+      "canvas_id": "location_gallery",
+      "action": "pf_stardust_binary_ttf_rebuilt_from_source_indexed_canvas",
+      "changed_pixel_count": 1053,
+      "change_boxes": [
+        [
+          15,
+          15,
+          226,
+          40
+        ]
+      ],
+      "operations": [
+        {
+          "kind": "remove_connected_components",
+          "search_box": [
+            92,
+            24,
+            78,
+            27
+          ],
+          "background_index": 200,
+          "max_pixels": 512,
+          "removed": [
+            {
+              "box": [
+                96,
+                27,
+                22,
+                22
+              ],
+              "pixel_count": 310
+            },
+            {
+              "box": [
+                120,
+                27,
+                22,
+                22
+              ],
+              "pixel_count": 296
+            },
+            {
+              "box": [
+                144,
+                27,
+                22,
+                21
+              ],
+              "pixel_count": 262
+            }
+          ]
+        },
+        {
+          "kind": "outline",
+          "text": "화실",
+          "box": [
+            112,
+            26,
+            33,
+            19,
+            470
+          ],
+          "index": 240,
+          "radius": 1
+        },
+        {
+          "kind": "binary_ttf_text",
+          "text": "화실",
+          "font_size": 20,
+          "center": [
+            128.0,
+            36.0
+          ],
+          "output_box": [
+            112,
+            28,
+            31,
+            17,
+            215
+          ],
+          "ink_index": 255
+        }
+      ],
+      "indexed_png": "indexed\\location_gallery.png",
+      "indexed_png_sha256": "437E66C43D3D7D7A29BB9797176C7E048DC26FB2542EB224C76F471F20826268",
+      "preview_png": "preview_x4\\location_gallery.png",
+      "preview_png_sha256": "19DF937095FDF2127A2FB1E62ED632920D629D5F84F9C793AED7786FA0E3A47D"
+    },
+    {
+      "canvas_id": "location_gold_bird_room",
+      "action": "pf_stardust_binary_ttf_rebuilt_from_source_indexed_canvas",
+      "changed_pixel_count": 1769,
+      "change_boxes": [
+        [
+          15,
+          15,
+          226,
+          40
+        ]
+      ],
+      "operations": [
+        {
+          "kind": "remove_connected_components",
+          "search_box": [
+            65,
+            23,
+            126,
+            28
+          ],
+          "background_index": 167,
+          "max_pixels": 512,
+          "removed": [
+            {
+              "box": [
+                68,
+                27,
+                22,
+                21
+              ],
+              "pixel_count": 263
+            },
+            {
+              "box": [
+                116,
+                27,
+                22,
+                22
+              ],
+              "pixel_count": 273
+            },
+            {
+              "box": [
+                165,
+                27,
+                21,
+                22
+              ],
+              "pixel_count": 323
+            },
+            {
+              "box": [
+                93,
+                29,
+                20,
+                18
+              ],
+              "pixel_count": 168
+            },
+            {
+              "box": [
+                141,
+                29,
+                20,
+                18
+              ],
+              "pixel_count": 168
+            }
+          ]
+        },
+        {
+          "kind": "outline",
+          "text": "금빛 새의 방",
+          "box": [
+            80,
+            26,
+            95,
+            19,
+            1236
+          ],
+          "index": 240,
+          "radius": 1
+        },
+        {
+          "kind": "binary_ttf_text",
+          "text": "금빛 새의 방",
+          "font_size": 20,
+          "center": [
+            128.0,
+            36.0
+          ],
+          "output_box": [
+            82,
+            28,
+            93,
+            17,
+            576
+          ],
+          "ink_index": 255
+        }
+      ],
+      "indexed_png": "indexed\\location_gold_bird_room.png",
+      "indexed_png_sha256": "7798AF3910343C5BA9E4D37F63FD554642F86CB518A4B4BE216A120171C37D57",
+      "preview_png": "preview_x4\\location_gold_bird_room.png",
+      "preview_png_sha256": "3C178DD6EBF8226D4FB21E2B0AF6D23299C25C87C200B934210A8D70DFAFAA8E"
+    },
+    {
+      "canvas_id": "location_henry_couple_room",
+      "action": "pf_stardust_binary_ttf_rebuilt_from_source_indexed_canvas",
+      "changed_pixel_count": 2407,
+      "change_boxes": [
+        [
+          15,
+          15,
+          226,
+          40
+        ]
+      ],
+      "operations": [
+        {
+          "kind": "remove_connected_components",
+          "search_box": [
+            18,
+            20,
+            220,
+            25
+          ],
+          "background_index": 188,
+          "max_pixels": 512,
+          "removed": [
+            {
+              "box": [
+                76,
+                22,
+                8,
+                21
+              ],
+              "pixel_count": 68
+            },
+            {
+              "box": [
+                116,
+                22,
+                22,
+                22
+              ],
+              "pixel_count": 185
+            },
+            {
+              "box": [
+                140,
+                22,
+                22,
+                22
+              ],
+              "pixel_count": 293
+            },
+            {
+              "box": [
+                188,
+                22,
+                22,
+                22
+              ],
+              "pixel_count": 312
+            },
+            {
+              "box": [
+                212,
+                22,
+                22,
+                22
+              ],
+              "pixel_count": 312
+            },
+            {
+              "box": [
+                46,
+                24,
+                8,
+                6
+              ],
+              "pixel_count": 25
+            },
+            {
+              "box": [
+                73,
+                24,
+                5,
+                12
+              ],
+              "pixel_count": 36
+            },
+            {
+              "box": [
+                165,
+                24,
+                20,
+                18
+              ],
+              "pixel_count": 168
+            },
+            {
+              "box": [
+                20,
+                27,
+                22,
+                11
+              ],
+              "pixel_count": 81
+            },
+            {
+              "box": [
+                47,
+                27,
+                19,
+                14
+              ],
+              "pixel_count": 70
+            },
+            {
+              "box": [
+                92,
+                30,
+                21,
+                5
+              ],
+              "pixel_count": 66
+            }
+          ]
+        },
+        {
+          "kind": "outline",
+          "text": "헨리 부부의 방",
+          "box": [
+            72,
+            24,
+            113,
+            19,
+            1384
+          ],
+          "index": 240,
+          "radius": 1
+        },
+        {
+          "kind": "binary_ttf_text",
+          "text": "헨리 부부의 방",
+          "font_size": 20,
+          "center": [
+            128.0,
+            34.0
+          ],
+          "output_box": [
+            72,
+            26,
+            111,
+            17,
+            642
+          ],
+          "ink_index": 255
+        }
+      ],
+      "indexed_png": "indexed\\location_henry_couple_room.png",
+      "indexed_png_sha256": "C2B74D50FA171FE7051CDD2DF9162E4B2E73025C95DC3B79DACFA61A3B652139",
+      "preview_png": "preview_x4\\location_henry_couple_room.png",
+      "preview_png_sha256": "A906C62D8373B4BC2934527AD381AC4D2DCC0A1BF3E349D274E518831B11FC35"
+    },
+    {
+      "canvas_id": "location_henry_secret_room",
+      "action": "pf_stardust_binary_ttf_rebuilt_from_source_indexed_canvas",
+      "changed_pixel_count": 2418,
+      "change_boxes": [
+        [
+          15,
+          15,
+          226,
+          40
+        ]
+      ],
+      "operations": [
+        {
+          "kind": "remove_connected_components",
+          "search_box": [
+            16,
+            19,
+            220,
+            26
+          ],
+          "background_index": 181,
+          "max_pixels": 512,
+          "removed": [
+            {
+              "box": [
+                75,
+                21,
+                8,
+                21
+              ],
+              "pixel_count": 68
+            },
+            {
+              "box": [
+                139,
+                21,
+                22,
+                22
+              ],
+              "pixel_count": 341
+            },
+            {
+              "box": [
+                187,
+                21,
+                22,
+                22
+              ],
+              "pixel_count": 312
+            },
+            {
+              "box": [
+                211,
+                21,
+                22,
+                22
+              ],
+              "pixel_count": 312
+            },
+            {
+              "box": [
+                167,
+                22,
+                15,
+                19
+              ],
+              "pixel_count": 94
+            },
+            {
+              "box": [
+                45,
+                23,
+                8,
+                6
+              ],
+              "pixel_count": 25
+            },
+            {
+              "box": [
+                72,
+                23,
+                5,
+                12
+              ],
+              "pixel_count": 36
+            },
+            {
+              "box": [
+                116,
+                23,
+                20,
+                18
+              ],
+              "pixel_count": 168
+            },
+            {
+              "box": [
+                19,
+                26,
+                22,
+                11
+              ],
+              "pixel_count": 81
+            },
+            {
+              "box": [
+                46,
+                26,
+                19,
+                14
+              ],
+              "pixel_count": 70
+            },
+            {
+              "box": [
+                91,
+                29,
+                21,
+                5
+              ],
+              "pixel_count": 66
+            }
+          ]
+        },
+        {
+          "kind": "outline",
+          "text": "헨리의 비밀 방",
+          "box": [
+            72,
+            24,
+            111,
+            19,
+            1462
+          ],
+          "index": 240,
+          "radius": 1
+        },
+        {
+          "kind": "binary_ttf_text",
+          "text": "헨리의 비밀 방",
+          "font_size": 20,
+          "center": [
+            128.0,
+            34.0
+          ],
+          "output_box": [
+            74,
+            26,
+            109,
+            17,
+            681
+          ],
+          "ink_index": 255
+        }
+      ],
+      "indexed_png": "indexed\\location_henry_secret_room.png",
+      "indexed_png_sha256": "ECC9794685816C62816070A09DB71125BD31345415049DF41C76C111E7D24098",
+      "preview_png": "preview_x4\\location_henry_secret_room.png",
+      "preview_png_sha256": "DAEB2854A57F06AF7ABA0541ABBD98B70812FF096CA9705A600EA3A85064A67C"
+    },
+    {
+      "canvas_id": "location_henry_study",
+      "action": "pf_stardust_binary_ttf_rebuilt_from_source_indexed_canvas",
+      "changed_pixel_count": 1872,
+      "change_boxes": [
+        [
+          15,
+          15,
+          226,
+          40
+        ]
+      ],
+      "operations": [
+        {
+          "kind": "remove_connected_components",
+          "search_box": [
+            43,
+            18,
+            172,
+            28
+          ],
+          "background_index": 218,
+          "max_pixels": 512,
+          "removed": [
+            {
+              "box": [
+                189,
+                20,
+                23,
+                24
+              ],
+              "pixel_count": 307
+            },
+            {
+              "box": [
+                101,
+                22,
+                8,
+                21
+              ],
+              "pixel_count": 68
+            },
+            {
+              "box": [
+                165,
+                22,
+                22,
+                22
+              ],
+              "pixel_count": 298
+            },
+            {
+              "box": [
+                70,
+                24,
+                9,
+                6
+              ],
+              "pixel_count": 27
+            },
+            {
+              "box": [
+                98,
+                24,
+                6,
+                12
+              ],
+              "pixel_count": 39
+            },
+            {
+              "box": [
+                142,
+                24,
+                20,
+                18
+              ],
+              "pixel_count": 172
+            },
+            {
+              "box": [
+                45,
+                27,
+                22,
+                11
+              ],
+              "pixel_count": 83
+            },
+            {
+              "box": [
+                72,
+                27,
+                19,
+                14
+              ],
+              "pixel_count": 73
+            },
+            {
+              "box": [
+                117,
+                30,
+                21,
+                5
+              ],
+              "pixel_count": 66
+            }
+          ]
+        },
+        {
+          "kind": "outline",
+          "text": "헨리의 서재",
+          "box": [
+            82,
+            24,
+            92,
+            19,
+            1145
+          ],
+          "index": 240,
+          "radius": 1
+        },
+        {
+          "kind": "binary_ttf_text",
+          "text": "헨리의 서재",
+          "font_size": 20,
+          "center": [
+            128.0,
+            34.0
+          ],
+          "output_box": [
+            83,
+            26,
+            90,
+            17,
+            515
+          ],
+          "ink_index": 255
+        }
+      ],
+      "indexed_png": "indexed\\location_henry_study.png",
+      "indexed_png_sha256": "55FDF67BA1EF5F7FB3071B74377FF0B850C125519ECEDC07A0501DE40C3F35A5",
+      "preview_png": "preview_x4\\location_henry_study.png",
+      "preview_png_sha256": "AA1E62A4E8E4CE350F56A2ED907B5DC324DAEB510B5C3630EF21C2179854E4CE"
+    },
+    {
+      "canvas_id": "location_kitchen",
+      "action": "pf_stardust_binary_ttf_rebuilt_from_source_indexed_canvas",
+      "changed_pixel_count": 1025,
+      "change_boxes": [
+        [
+          15,
+          15,
+          226,
+          40
+        ]
+      ],
+      "operations": [
+        {
+          "kind": "remove_connected_components",
+          "search_box": [
+            90,
+            18,
+            76,
+            27
+          ],
+          "background_index": 156,
+          "max_pixels": 512,
+          "removed": [
+            {
+              "box": [
+                93,
+                20,
+                22,
+                22
+              ],
+              "pixel_count": 317
+            },
+            {
+              "box": [
+                141,
+                20,
+                22,
+                22
+              ],
+              "pixel_count": 288
+            }
+          ]
+        },
+        {
+          "kind": "outline",
+          "text": "주방",
+          "box": [
+            111,
+            24,
+            34,
+            19,
+            477
+          ],
+          "index": 240,
+          "radius": 1
+        },
+        {
+          "kind": "binary_ttf_text",
+          "text": "주방",
+          "font_size": 20,
+          "center": [
+            128.0,
+            33.0
+          ],
+          "output_box": [
+            112,
+            24,
+            32,
+            17,
+            224
+          ],
+          "ink_index": 255
+        }
+      ],
+      "indexed_png": "indexed\\location_kitchen.png",
+      "indexed_png_sha256": "5C2B5A424B640EF3876A0734AD892F987256254EB90487EBDBC782F23292D980",
+      "preview_png": "preview_x4\\location_kitchen.png",
+      "preview_png_sha256": "8F748ECFFE8BF27481EFCAF9B8F9E1884E13BF738854C79C338D4398D6C60192"
+    },
+    {
+      "canvas_id": "location_laboratory",
+      "action": "pf_stardust_binary_ttf_rebuilt_from_source_indexed_canvas",
+      "changed_pixel_count": 1057,
+      "change_boxes": [
+        [
+          15,
+          15,
+          226,
+          40
+        ]
+      ],
+      "operations": [
+        {
+          "kind": "remove_connected_components",
+          "search_box": [
+            88,
+            18,
+            78,
+            28
+          ],
+          "background_index": 222,
+          "max_pixels": 512,
+          "removed": [
+            {
+              "box": [
+                115,
+                20,
+                22,
+                23
+              ],
+              "pixel_count": 258
+            },
+            {
+              "box": [
+                139,
+                20,
+                22,
+                22
+              ],
+              "pixel_count": 263
+            },
+            {
+              "box": [
+                91,
+                21,
+                22,
+                22
+              ],
+              "pixel_count": 275
+            }
+          ]
+        },
+        {
+          "kind": "outline",
+          "text": "연구실",
+          "box": [
+            104,
+            24,
+            49,
+            19,
+            651
+          ],
+          "index": 240,
+          "radius": 1
+        },
+        {
+          "kind": "binary_ttf_text",
+          "text": "연구실",
+          "font_size": 20,
+          "center": [
+            128.0,
+            34.0
+          ],
+          "output_box": [
+            104,
+            26,
+            47,
+            17,
+            306
+          ],
+          "ink_index": 255
+        }
+      ],
+      "indexed_png": "indexed\\location_laboratory.png",
+      "indexed_png_sha256": "7600805B863EEC8B4A5F86A5EFDBC3A205287C0D4725CDB288EDE36C2877B558",
+      "preview_png": "preview_x4\\location_laboratory.png",
+      "preview_png_sha256": "E58636914AAFD5B84187D694F9BF2E985F989D95EA38B60946B1437213453651"
+    },
+    {
+      "canvas_id": "location_lawrence_room",
+      "action": "pf_stardust_binary_ttf_rebuilt_from_source_indexed_canvas",
+      "changed_pixel_count": 2087,
+      "change_boxes": [
+        [
+          15,
+          15,
+          226,
+          40
+        ]
+      ],
+      "operations": [
+        {
+          "kind": "remove_connected_components",
+          "search_box": [
+            32,
+            20,
+            192,
+            26
+          ],
+          "background_index": 188,
+          "max_pixels": 512,
+          "removed": [
+            {
+              "box": [
+                175,
+                22,
+                22,
+                22
+              ],
+              "pixel_count": 312
+            },
+            {
+              "box": [
+                199,
+                22,
+                22,
+                22
+              ],
+              "pixel_count": 312
+            },
+            {
+              "box": [
+                83,
+                24,
+                17,
+                17
+              ],
+              "pixel_count": 98
+            },
+            {
+              "box": [
+                105,
+                24,
+                8,
+                6
+              ],
+              "pixel_count": 25
+            },
+            {
+              "box": [
+                128,
+                24,
+                19,
+                18
+              ],
+              "pixel_count": 125
+            },
+            {
+              "box": [
+                152,
+                24,
+                20,
+                18
+              ],
+              "pixel_count": 168
+            },
+            {
+              "box": [
+                34,
+                26,
+                16,
+                14
+              ],
+              "pixel_count": 118
+            },
+            {
+              "box": [
+                106,
+                27,
+                19,
+                14
+              ],
+              "pixel_count": 70
+            },
+            {
+              "box": [
+                55,
+                30,
+                21,
+                5
+              ],
+              "pixel_count": 66
+            }
+          ]
+        },
+        {
+          "kind": "outline",
+          "text": "로렌스의 방",
+          "box": [
+            82,
+            24,
+            91,
+            19,
+            1176
+          ],
+          "index": 240,
+          "radius": 1
+        },
+        {
+          "kind": "binary_ttf_text",
+          "text": "로렌스의 방",
+          "font_size": 20,
+          "center": [
+            128.0,
+            34.0
+          ],
+          "output_box": [
+            84,
+            26,
+            89,
+            17,
+            539
+          ],
+          "ink_index": 255
+        }
+      ],
+      "indexed_png": "indexed\\location_lawrence_room.png",
+      "indexed_png_sha256": "CBF66AB48D81676396AC0DC925C1F4E6B8DF7F5B1AA67C6F780D97024FF02202",
+      "preview_png": "preview_x4\\location_lawrence_room.png",
+      "preview_png_sha256": "2DCBC8C2D7625C775518F1D12915098CB9559D8E79DDAEB6F6C35FB61E23E4EC"
+    },
+    {
+      "canvas_id": "location_lounge",
+      "action": "pf_stardust_binary_ttf_rebuilt_from_source_indexed_canvas",
+      "changed_pixel_count": 1173,
+      "change_boxes": [
+        [
+          15,
+          15,
+          226,
+          40
+        ]
+      ],
+      "operations": [
+        {
+          "kind": "remove_connected_components",
+          "search_box": [
+            92,
+            24,
+            76,
+            27
+          ],
+          "background_index": 221,
+          "max_pixels": 512,
+          "removed": [
+            {
+              "box": [
+                94,
+                27,
+                22,
+                22
+              ],
+              "pixel_count": 317
+            },
+            {
+              "box": [
+                118,
+                27,
+                24,
+                22
+              ],
+              "pixel_count": 305
+            },
+            {
+              "box": [
+                142,
+                27,
+                22,
+                21
+              ],
+              "pixel_count": 266
+            },
+            {
+              "box": [
+                155,
+                44,
+                3,
+                1
+              ],
+              "pixel_count": 3
+            }
+          ]
+        },
+        {
+          "kind": "outline",
+          "text": "담화실",
+          "box": [
+            103,
+            26,
+            50,
+            19,
+            738
+          ],
+          "index": 240,
+          "radius": 1
+        },
+        {
+          "kind": "binary_ttf_text",
+          "text": "담화실",
+          "font_size": 20,
+          "center": [
+            128.0,
+            36.0
+          ],
+          "output_box": [
+            104,
+            28,
+            48,
+            17,
+            348
+          ],
+          "ink_index": 255
+        }
+      ],
+      "indexed_png": "indexed\\location_lounge.png",
+      "indexed_png_sha256": "C48E18609115CD620CD313DE5D8F60A1689FA59915C4504E258AF63EF5714CAE",
+      "preview_png": "preview_x4\\location_lounge.png",
+      "preview_png_sha256": "64554E4F1D38B43A936E00B3702D40E32A71A10C12B047F103B378BC094AE401"
+    },
+    {
+      "canvas_id": "location_music_room",
+      "action": "pf_stardust_binary_ttf_rebuilt_from_source_indexed_canvas",
+      "changed_pixel_count": 1048,
+      "change_boxes": [
+        [
+          15,
+          15,
+          226,
+          40
+        ]
+      ],
+      "operations": [
+        {
+          "kind": "remove_connected_components",
+          "search_box": [
+            88,
+            22,
+            80,
+            28
+          ],
+          "background_index": 200,
+          "max_pixels": 512,
+          "removed": [
+            {
+              "box": [
+                93,
+                26,
+                22,
+                22
+              ],
+              "pixel_count": 240
+            },
+            {
+              "box": [
+                117,
+                26,
+                22,
+                22
+              ],
+              "pixel_count": 282
+            },
+            {
+              "box": [
+                141,
+                26,
+                22,
+                21
+              ],
+              "pixel_count": 262
+            }
+          ]
+        },
+        {
+          "kind": "outline",
+          "text": "음악실",
+          "box": [
+            103,
+            26,
+            50,
+            19,
+            745
+          ],
+          "index": 240,
+          "radius": 1
+        },
+        {
+          "kind": "binary_ttf_text",
+          "text": "음악실",
+          "font_size": 20,
+          "center": [
+            128.0,
+            36.0
+          ],
+          "output_box": [
+            104,
+            28,
+            48,
+            17,
+            356
+          ],
+          "ink_index": 255
+        }
+      ],
+      "indexed_png": "indexed\\location_music_room.png",
+      "indexed_png_sha256": "18B44C965BC2B052C2A3C148AA9BDF5294D3928248B14A196467E8435DF379F4",
+      "preview_png": "preview_x4\\location_music_room.png",
+      "preview_png_sha256": "15AB0ED0F1A9341AFF59826B8D8D28D89E7162AAB40D8704F92B54023C318F43"
+    },
+    {
+      "canvas_id": "location_silver_bird_room",
+      "action": "pf_stardust_binary_ttf_rebuilt_from_source_indexed_canvas",
+      "changed_pixel_count": 1797,
+      "change_boxes": [
+        [
+          15,
+          15,
+          226,
+          42
+        ]
+      ],
+      "operations": [
+        {
+          "kind": "fill_box",
+          "box": [
+            65,
+            23,
+            126,
+            28
+          ],
+          "background_index": 162
+        },
+        {
+          "kind": "fill_box",
+          "box": [
+            74,
+            53,
+            6,
+            4
+          ],
+          "background_index": 162
+        },
+        {
+          "kind": "fill_box",
+          "box": [
+            176,
+            53,
+            6,
+            4
+          ],
+          "background_index": 162
+        },
+        {
+          "kind": "outline",
+          "text": "은빛 새의 방",
+          "box": [
+            80,
+            26,
+            95,
+            19,
+            1245
+          ],
+          "index": 240,
+          "radius": 1
+        },
+        {
+          "kind": "binary_ttf_text",
+          "text": "은빛 새의 방",
+          "font_size": 20,
+          "center": [
+            128.0,
+            36.0
+          ],
+          "output_box": [
+            82,
+            28,
+            93,
+            17,
+            584
+          ],
+          "ink_index": 255
+        }
+      ],
+      "indexed_png": "indexed\\location_silver_bird_room.png",
+      "indexed_png_sha256": "BD966E1D03378AE09AF1A3CBBF7112CBBC7EBE326A5B200B35FEFCB898F3806E",
+      "preview_png": "preview_x4\\location_silver_bird_room.png",
+      "preview_png_sha256": "DA2BDCEF1234942787BD8107E8C72BE3C0469032030A66F20E95C31669F26017"
+    },
+    {
+      "canvas_id": "location_storage",
+      "action": "pf_stardust_binary_ttf_rebuilt_from_source_indexed_canvas",
+      "changed_pixel_count": 949,
+      "change_boxes": [
+        [
+          15,
+          15,
+          226,
+          40
+        ]
+      ],
+      "operations": [
+        {
+          "kind": "remove_connected_components",
+          "search_box": [
+            90,
+            20,
+            76,
+            27
+          ],
+          "background_index": 190,
+          "max_pixels": 512,
+          "removed": [
+            {
+              "box": [
+                93,
+                22,
+                22,
+                22
+              ],
+              "pixel_count": 268
+            },
+            {
+              "box": [
+                141,
+                22,
+                22,
+                22
+              ],
+              "pixel_count": 296
+            }
+          ]
+        },
+        {
+          "kind": "outline",
+          "text": "창고",
+          "box": [
+            111,
+            24,
+            34,
+            19,
+            438
+          ],
+          "index": 240,
+          "radius": 1
+        },
+        {
+          "kind": "binary_ttf_text",
+          "text": "창고",
+          "font_size": 20,
+          "center": [
+            128.0,
+            34.0
+          ],
+          "output_box": [
+            112,
+            26,
+            32,
+            17,
+            197
+          ],
+          "ink_index": 255
+        }
+      ],
+      "indexed_png": "indexed\\location_storage.png",
+      "indexed_png_sha256": "986F021A7EB2528D384D27A199B3FFCAD3E6E72F75807DFCA73096D0A0FCD333",
+      "preview_png": "preview_x4\\location_storage.png",
+      "preview_png_sha256": "4A7903035872E73A128FD99D1D04F2FDFB05423ADB8F301F64121932E51A094F"
+    }
+  ],
+  "not_proved": [
+    "ROM reinsertion",
+    "runtime palette and layer composition",
+    "emulator playback",
+    "whole-game behavior"
+  ]
+}

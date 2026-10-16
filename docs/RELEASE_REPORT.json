@@ -1,0 +1,56 @@
+﻿{
+  "schema_version": 1,
+  "release_stage": "distribution",
+  "release_name": "AnotherCode_KR_Patch_Final_20260829",
+  "release_date": "20260829",
+  "status": "PASS: deterministic static build and patch verification; full-game manual runtime QA pending",
+  "contains_original_rom": false,
+  "contains_patched_rom": false,
+  "contains_save_or_savestate": false,
+  "source": {
+    "name": "Another Code 2tsu no Kioku.nds",
+    "size": 33554432,
+    "header_title": "ANOTHERCODE",
+    "game_code": "ANOJ",
+    "sha256": "6C8CB19DE7B86DC5F1147E4927D6916571968A06B5C2E9B88F62C22C271DD0A1"
+  },
+  "target": {
+    "size": 33554432,
+    "sha256": "28B914E99A54B74576F0684A49898C89989EE92D2566D6683E6C1246B9711E9D"
+  },
+  "translation_csv": {
+    "name": "another_code_full_text_v1_ko.csv",
+    "sha256": "0DAD428F502F6231AF5383C02E26454BF47D5E81ACC7951DF342E69C6008A861",
+    "rows": 2789
+  },
+  "build_reports": {
+    "text": {
+      "name": "full_translation_current_v44_20260829_a.json",
+      "sha256": "3EDACF78A7CC4E10C4E3B83D312611F7B9A1F468CE0091682DD2F74B3AA87FEB"
+    },
+    "graphics": {
+      "name": "full_translation_graphics_v44_20260829_a.json",
+      "sha256": "8B4B4D7C28769447B1B056E945526CA237129096A18D5620169AC9EF3686B3F7"
+    }
+  },
+  "patch": {
+    "name": "AnotherCode_KR_Final_20260829.xdelta",
+    "size": 184709,
+    "sha256": "188AAFCC8C179CACBB489D566A7732B3CA661A6570A701F25F6661EE6E4EDF53",
+    "reverse_verification": "PASS"
+  },
+  "rom_changes": {
+    "changed_byte_positions": 1094697,
+    "text_records": 2748,
+    "hangul_characters": 825,
+    "graphics_canvases": 65
+  },
+  "verification": {
+    "deterministic_build_a_b": "PASS",
+    "static_build": "PASS",
+    "unit_tests_72": "PASS",
+    "xdelta_reverse_apply": "PASS",
+    "actual_cmd_apply_from_space_and_korean_path": "PASS",
+    "full_game_manual_runtime": "PENDING"
+  }
+}

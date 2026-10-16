@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "translation_id": "dialogue-e2e-001",
+  "text_id": "arm9_overlay_003_file_003:002F38",
+  "source_literal": "なあに、アシュレイ",
+  "translation_literal": "왜그러니、애슐리야",
+  "status": "poc_only_not_final_translation",
+  "protected": {
+    "all_directives": "preserve byte-for-byte and in place",
+    "record_length": "preserve",
+    "pointer_targets": "preserve",
+    "punctuation": "retain source Japanese punctuation for equal-cell PoC"
+  }
+}

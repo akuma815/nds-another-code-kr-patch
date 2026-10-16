@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "small_opening_font": {
+    "path": "../../../../Font/Galmuri11-Bold_16x16.png",
+    "sha256": "CA14B9A464ACC6654178F636119854894BD064305988BEE557B42C0F08DA5528",
+    "format": "rgba_hangul_atlas",
+    "image_size": [1024, 2800],
+    "cell_size": [16, 16],
+    "columns": 64,
+    "hangul_start": 44032,
+    "hangul_end": 55203,
+    "ink_rgba": [99, 207, 99, 255],
+    "poc_scale": 2,
+    "roles": ["opening_year_suffix", "opening_location"]
+  },
+  "large_opening_font": {
+    "path": "../../../../Font/Galmuri14Bitmap-Regular-2.40.3.ttf",
+    "sha256": "462905CE13494C897049C45D432B039BEE9EA00C4A9664083FAFAC76B0BB5E24",
+    "format": "embedded_bitmap_ttf",
+    "pillow_supported_size": 21,
+    "roles": ["opening_dialogue", "opening_emphasis"]
+  },
+  "decision": "Use the user-selected Galmuri11 Bold atlas for smaller opening cards and the Galmuri14 bitmap strike for larger opening captions. Prove the small-font path on the 1948 card before expanding."
+}

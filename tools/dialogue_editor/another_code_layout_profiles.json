@@ -1,0 +1,78 @@
+{
+  "schema_version": 2,
+  "notes": [
+    "Main-script limits are derived from ARM9 geometry and the 12-pixel Hangul advance.",
+    "Auxiliary consumers remain unenforced until their individual renderers are traced.",
+    "Entry overrides are keyed by protected text_id and do not modify the translation CSV schema."
+  ],
+  "profiles": [
+    {
+      "profile_id": "dialogue",
+      "label": "2줄 대화창 (17자 × 2줄)",
+      "max_columns": 17,
+      "max_lines": 2,
+      "alignment": "left",
+      "evidence": "ARM9 0x0202A6E4 계열: 30×6타일 창, 안쪽 폭 208px·높이 32px. 12px 전진/16px 글리프로 17자×2줄",
+      "geometry": "framed_2line",
+      "hard_limit": true
+    },
+    {
+      "profile_id": "system_message",
+      "label": "1줄 메시지창 (17자 × 1줄)",
+      "max_columns": 17,
+      "max_lines": 1,
+      "alignment": "left",
+      "evidence": "ARM9 0x0202A71C/0x0202A78C: 30×3타일 창, 안쪽 폭 208px·높이 16px. %w(2xx)/%w(4xx) 소비",
+      "geometry": "framed_1line",
+      "hard_limit": true
+    },
+    {
+      "profile_id": "system_panel",
+      "label": "항목/정보창 (17자 × 2줄)",
+      "max_columns": 17,
+      "max_lines": 2,
+      "alignment": "left",
+      "evidence": "명시적 %w가 없는 ARM9 항목명·입수 위치·설명 패널. 원문 343페이지가 17자×2줄 경계를 사용하며 동일 12px 글리프 경로를 소비",
+      "geometry": "framed_2line",
+      "hard_limit": true
+    },
+    {
+      "profile_id": "direct_overlay",
+      "label": "창 없는 자막 (19-n자 × 2줄)",
+      "max_columns": 19,
+      "max_lines": 2,
+      "alignment": "left",
+      "evidence": "창 없는 %w(00n) 경로: 시작 X=24+12n, 화면 우측까지 16px 글리프가 온전히 들어가는 상한은 19-n자. 회상 자막은 2줄 템플릿",
+      "geometry": "direct_overlay",
+      "hard_limit": true
+    },
+    {
+      "profile_id": "freeform_screen",
+      "label": "전체 화면 문서/인트로 (19자 × 8줄)",
+      "max_columns": 19,
+      "max_lines": 8,
+      "alignment": "center",
+      "evidence": "전체 화면 폭의 물리 상한 19자; overlay_000 원문 템플릿의 명시적 최대 8줄. %r 구조는 제어코드 정합성 검사로 고정",
+      "geometry": "fullscreen",
+      "hard_limit": true
+    },
+    {
+      "profile_id": "auxiliary_ui",
+      "label": "보조 UI (소비 화면 미확정)",
+      "max_columns": 17,
+      "max_lines": 1,
+      "alignment": "left",
+      "evidence": "689개 auxiliary는 clustered CP932 후보 테이블이며 소비 함수가 미추적이다. 화면별 폭을 확인하기 전에는 공통 글자 상한을 강제하지 않음",
+      "geometry": "unknown",
+      "hard_limit": false
+    }
+  ],
+  "overrides": {
+    "arm9_overlay_023_file_023:0020C8": {
+      "profile_id": "system_message",
+      "max_columns": 17,
+      "max_lines": 2,
+      "alignment": "left"
+    }
+  }
+}

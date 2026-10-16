@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "observed_at": "2026-08-23",
+  "emulator_root": "H:\\NDS",
+  "emulators": [
+    {
+      "name": "melonDS",
+      "path": "H:\\NDS\\melonDS.exe",
+      "file_version": "1.1",
+      "size": 34760704,
+      "sha256": "D4AE8ABA2D6E0C92A51517104B7BDC0B7B7C0FE9F3B5E8CF6BF61067E3DB1058"
+    },
+    {
+      "name": "DeSmuME",
+      "path": "H:\\NDS\\DeSmuME-VS2022-x64-Release.exe",
+      "file_version": null,
+      "size": 7378432,
+      "sha256": "0B2A1063001430B7DFF64B76B737E73A968572A8A67265126CEC9BE3AF9EFDF1"
+    }
+  ],
+  "preferred_emulator": null,
+  "qa_policy": {
+    "unique_rom_basename_per_build": true,
+    "isolated_fresh_save": true,
+    "record_static_and_runtime_results_separately": true
+  },
+  "reference_roms": [
+    {
+      "path": "H:\\NDS\\Roms\\0039 어나더 코드-두개의 기억 (J-K).nds",
+      "size": 33554432,
+      "sha256": "7996A249C706148D75A31085E40A4B1812CA800AF349DFD69408837F16A64A3F",
+      "title": "ANOTHERCODE",
+      "game_code": "ANOJ",
+      "status": "unverified_external_reference_not_build_input"
+    }
+  ]
+}
