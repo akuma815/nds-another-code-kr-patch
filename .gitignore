@@ -32,3 +32,7 @@ __pycache__/
 *.utoc
 *.uasset
 *.uexp
+.local_inputs/
+private_inputs/
+*_PRIVATE_REBUILD_INPUTS_*.zip
+*_FULL_*.zip

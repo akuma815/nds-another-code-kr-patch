@@ -36,4 +36,4 @@
 
 ## 소스 및 작업 기록
 
-[공개 소스 구성과 빌드 전제](docs/SOURCE_GUIDE.md) · [상세 패치 안내](docs/PATCH_GUIDE.txt)
+[공개 소스 구성과 빌드 전제](docs/SOURCE_GUIDE.md) · [상세 패치 안내](docs/PATCH_GUIDE.txt) · [최종판 복원·재빌드](docs/rebuild/README.md)

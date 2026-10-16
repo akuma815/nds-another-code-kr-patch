@@ -1,0 +1,14 @@
+{
+  "status": "REBUILD_AND_PATCH_APPLY_PASS",
+  "finalSHA256": "28b914e99a54b74576f0684a49898c89989ee92d2566d6683e6c1246b9711e9d",
+  "textSHA256": "6584b95f445082d6df6caafbb1852cd0e5d4226b272e8512d28401284d4eed73",
+  "privateInputsVerified": 73,
+  "translatedPNGs": 65,
+  "unitTestsPassed": 72,
+  "reextractedFilesMatched": 92,
+  "releaseApply": "PASS",
+  "backupFileCount": 4236,
+  "newRuntimeVerification": "NOT_PERFORMED_ADAPTER_BINARY_UNAVAILABLE",
+  "originalProjectDeleted": false,
+  "releaseAssetsChanged": false
+}

@@ -1,0 +1,376 @@
+{
+  "schema": 1,
+  "project": "Another Code NDS final v44",
+  "private": true,
+  "containsOriginalRom": true,
+  "expectedTextSHA256": "6584b95f445082d6df6caafbb1852cd0e5d4226b272e8512d28401284d4eed73",
+  "expectedFinalSHA256": "28b914e99a54b74576f0684a49898c89989ee92d2566d6683e6c1246b9711e9d",
+  "translationSHA256": "0dad428f502f6231af5383c02e26454bf47d5e81acc7951df342e69c6008a861",
+  "files": [
+    {
+      "path": "original/Another Code 2tsu no Kioku.nds",
+      "bytes": 33554432,
+      "sha256": "6c8cb19de7b86dc5f1147e4927d6916571968a06b5c2e9b88f62c22c271dd0a1"
+    },
+    {
+      "path": "inputs/font.png",
+      "bytes": 632129,
+      "sha256": "3ee2a45c20120c42705ae3ee9540db191a1443e110eca6d0c4a1760cbe0b91e5"
+    },
+    {
+      "path": "workspace/text/source/script_candidates.json",
+      "bytes": 2844051,
+      "sha256": "147127e571a6ef6703e94544401ee0ded6155d68ab8ed167226983b81b2aee1a"
+    },
+    {
+      "path": "workspace/text/source/auxiliary_candidates.json",
+      "bytes": 326123,
+      "sha256": "438509b84799facca1f6b8d58cfe8ad9cfdba50b69789b335c72225d22d08968"
+    },
+    {
+      "path": "workspace/analysis/text_references.json",
+      "bytes": 1248048,
+      "sha256": "033a25b97738138e1b30a7491f1ee05c22dee5775c8c4ef70ad8320f829e1c4b"
+    },
+    {
+      "path": "workspace/analysis/translation_csv_ko_audit_20260829_v44.json",
+      "bytes": 363142,
+      "sha256": "e4813ddcd49c26a2e94c551bee8be97f37e67bcb3fc8b27ca7813b087d82db09"
+    },
+    {
+      "path": "workspace/analysis/translation_relocation_capacity_20260829_v44.json",
+      "bytes": 1263433,
+      "sha256": "d7a2bd0d18a37443b39252fb1b9a2c41b41b2deae2b3c5ec32ff71c3da24816b"
+    },
+    {
+      "path": "workspace/analysis/pack_resource_nonzero_audit_20260826_r2.json",
+      "bytes": 485626,
+      "sha256": "57ff48b8e450d6fef9c318fc6ed76c442065617779486bc538f8c7c1acc18706"
+    },
+    {
+      "path": "workspace/graphics/translate_final_v39_cumulative/indexed/chapter1_number.png",
+      "bytes": 1476,
+      "sha256": "3e7bcd555c97aa34d0811e547a3a203c8542c46a3ba73a74ba9930a801ace5cd"
+    },
+    {
+      "path": "workspace/graphics/translate_final_v39_cumulative/indexed/chapter1_title.png",
+      "bytes": 1545,
+      "sha256": "25897fc53add9bb6d8dc397c1fd686db2e8b76f5844522f9e50eeb980bee8d02"
+    },
+    {
+      "path": "workspace/graphics/translate_final_v39_cumulative/indexed/chapter2_number.png",
+      "bytes": 1495,
+      "sha256": "68213938e1c645f831c0d8cbb568f3f551b7047a3ff368f7fb5c3b3da4fef60d"
+    },
+    {
+      "path": "workspace/graphics/translate_final_v39_cumulative/indexed/chapter2_title.png",
+      "bytes": 1556,
+      "sha256": "22d2f4a0b4d3f0f19b2704fea0c0b0ff0f2501bd576e4756615c813fa5239461"
+    },
+    {
+      "path": "workspace/graphics/translate_final_v39_cumulative/indexed/chapter3_number.png",
+      "bytes": 1490,
+      "sha256": "5aef3f1a9f7a2243f941f5f7b4b3d03c29e10b3991c35faddfd9b46a6822348f"
+    },
+    {
+      "path": "workspace/graphics/translate_final_v39_cumulative/indexed/chapter3_title.png",
+      "bytes": 1560,
+      "sha256": "d2a09fe1138bea66e0938448092ea7cfda4e01dcfd68ea049b77c827592789bf"
+    },
+    {
+      "path": "workspace/graphics/translate_final_v39_cumulative/indexed/chapter4_number.png",
+      "bytes": 1472,
+      "sha256": "bf838ce29befad24cf5c481cf25f8ff516462fb69bfbf7c187d8b91f18345143"
+    },
+    {
+      "path": "workspace/graphics/translate_final_v39_cumulative/indexed/chapter4_title.png",
+      "bytes": 1531,
+      "sha256": "49b731eb197aec355ae66440b01a14d8c316da80690e0370e243ada0cd7e6199"
+    },
+    {
+      "path": "workspace/graphics/translate_final_v39_cumulative/indexed/chapter5_number.png",
+      "bytes": 1497,
+      "sha256": "a2b93d1eb4fbbed9323822ebd32f2231e7350aa6804e4e30a6b1851e1876da56"
+    },
+    {
+      "path": "workspace/graphics/translate_final_v39_cumulative/indexed/chapter5_title.png",
+      "bytes": 1548,
+      "sha256": "70f43243f86b7fd5c2b0a89d3928d3fb78c57d2e3c167fc8289eec2cccf4c713"
+    },
+    {
+      "path": "workspace/graphics/translate_final_v39_cumulative/indexed/chapter6_number.png",
+      "bytes": 1499,
+      "sha256": "99184717010acb0967e222c33c94039d0aaa5130498ee5de73789bd3291550d2"
+    },
+    {
+      "path": "workspace/graphics/translate_final_v39_cumulative/indexed/chapter6_title.png",
+      "bytes": 1585,
+      "sha256": "9d0d751666cc7eeacb02e0936e24b16ea41792bf48da525b34daaaf3cac85389"
+    },
+    {
+      "path": "workspace/graphics/translate_final_v39_cumulative/indexed/chapter_final_number.png",
+      "bytes": 1421,
+      "sha256": "757ee58382b73e2fe0f22ac0bbcfb3e1d653d60e4bfda5adea8c4327a8295bad"
+    },
+    {
+      "path": "workspace/graphics/translate_final_v39_cumulative/indexed/chapter_final_title.png",
+      "bytes": 1568,
+      "sha256": "4d77761591c13a5288326e762ed02af98dfdedea6b0c446fd91f3d56275188c2"
+    },
+    {
+      "path": "workspace/graphics/translate_final_v39_cumulative/indexed/location_butler_room.png",
+      "bytes": 1774,
+      "sha256": "91b4c12755c398dc286e274b964898ca29b5c87655d9022dd758ff5318479b08"
+    },
+    {
+      "path": "workspace/graphics/translate_final_v39_cumulative/indexed/location_cave.png",
+      "bytes": 2425,
+      "sha256": "09ff345afa332da77dfad760dc78dfcb429d1802d86d05f2ea602c9857a2fd53"
+    },
+    {
+      "path": "workspace/graphics/translate_final_v39_cumulative/indexed/location_corridor_p12.png",
+      "bytes": 1702,
+      "sha256": "e9f5827a62c473517c59ae416438d6c2c1d204bbe2ed956127b624b1a5014661"
+    },
+    {
+      "path": "workspace/graphics/translate_final_v39_cumulative/indexed/location_corridor_p19.png",
+      "bytes": 1702,
+      "sha256": "e9f5827a62c473517c59ae416438d6c2c1d204bbe2ed956127b624b1a5014661"
+    },
+    {
+      "path": "workspace/graphics/translate_final_v39_cumulative/indexed/location_corridor_p28.png",
+      "bytes": 1702,
+      "sha256": "e9f5827a62c473517c59ae416438d6c2c1d204bbe2ed956127b624b1a5014661"
+    },
+    {
+      "path": "workspace/graphics/translate_final_v39_cumulative/indexed/location_corridor_p31.png",
+      "bytes": 1702,
+      "sha256": "e9f5827a62c473517c59ae416438d6c2c1d204bbe2ed956127b624b1a5014661"
+    },
+    {
+      "path": "workspace/graphics/translate_final_v39_cumulative/indexed/location_dining_room.png",
+      "bytes": 2099,
+      "sha256": "7c919c864f4d8b4d70e868279321ca794e0ec78d36dc89865b2af3318867bcc0"
+    },
+    {
+      "path": "workspace/graphics/translate_final_v39_cumulative/indexed/location_entrance_hall.png",
+      "bytes": 2430,
+      "sha256": "661497271c87ec938eb29cf9ba11f5b05e271c58395ea2695ff5f59b87d3f551"
+    },
+    {
+      "path": "workspace/graphics/translate_final_v39_cumulative/indexed/location_franny_room.png",
+      "bytes": 3176,
+      "sha256": "e67824c8692bb785436d35a476343be7bd60c21894fb3ac54ab30430e9fa7a7c"
+    },
+    {
+      "path": "workspace/graphics/translate_final_v39_cumulative/indexed/location_gallery.png",
+      "bytes": 1891,
+      "sha256": "437e66c43d3d7d7a29bb9797176c7e048dc26fb2542eb224c76f471f20826268"
+    },
+    {
+      "path": "workspace/graphics/translate_final_v39_cumulative/indexed/location_gold_bird_room.png",
+      "bytes": 2568,
+      "sha256": "7798af3910343c5ba9e4d37f63fd554642f86cb518a4b4be216a120171c37d57"
+    },
+    {
+      "path": "workspace/graphics/translate_final_v39_cumulative/indexed/location_henry_couple_room.png",
+      "bytes": 3211,
+      "sha256": "c2b74d50fa171fe7051cdd2df9162e4b2e73025c95dc3b79dacfa61a3b652139"
+    },
+    {
+      "path": "workspace/graphics/translate_final_v39_cumulative/indexed/location_henry_secret_room.png",
+      "bytes": 1596,
+      "sha256": "ecc9794685816c62816070a09db71125bd31345415049df41c76c111e7d24098"
+    },
+    {
+      "path": "workspace/graphics/translate_final_v39_cumulative/indexed/location_henry_study.png",
+      "bytes": 1971,
+      "sha256": "55fdf67ba1ef5f7fb3071b74377ff0b850c125519ecedc07a0501de40c3f35a5"
+    },
+    {
+      "path": "workspace/graphics/translate_final_v39_cumulative/indexed/location_kitchen.png",
+      "bytes": 2138,
+      "sha256": "5c2b5a424b640ef3876a0734ad892f987256254eb90487ebdbc782f23292d980"
+    },
+    {
+      "path": "workspace/graphics/translate_final_v39_cumulative/indexed/location_laboratory.png",
+      "bytes": 1727,
+      "sha256": "7600805b863eec8b4a5f86a5efdbc3a205287c0d4725cdb288ede36c2877b558"
+    },
+    {
+      "path": "workspace/graphics/translate_final_v39_cumulative/indexed/location_lawrence_room.png",
+      "bytes": 3190,
+      "sha256": "cbf66ab48d81676396ac0dc925c1f4e6b8df7f5b1aa67c6f780d97024ff02202"
+    },
+    {
+      "path": "workspace/graphics/translate_final_v39_cumulative/indexed/location_lounge.png",
+      "bytes": 2139,
+      "sha256": "c48e18609115cd620cd313de5d8f60a1689fa59915c4504e258af63ef5714cae"
+    },
+    {
+      "path": "workspace/graphics/translate_final_v39_cumulative/indexed/location_music_room.png",
+      "bytes": 1926,
+      "sha256": "18b44c965bc2b052c2a3c148aa9bdf5294d3928248b14a196467e8435df379f4"
+    },
+    {
+      "path": "workspace/graphics/translate_final_v39_cumulative/indexed/location_silver_bird_room.png",
+      "bytes": 2589,
+      "sha256": "bd966e1d03378ae09af1a3cbbf7112cbbc7ebe326a5b200b35fefcb898f3806e"
+    },
+    {
+      "path": "workspace/graphics/translate_final_v39_cumulative/indexed/location_storage.png",
+      "bytes": 1516,
+      "sha256": "986f021a7eb2528d384d27a199b3ffcad3e6e72f75807dfca73096d0a0fcd333"
+    },
+    {
+      "path": "workspace/graphics/translate_final_v39_cumulative/indexed/myst00_bg_back_ko.png",
+      "bytes": 1024,
+      "sha256": "9c93ff89bc1d38691071040fc41ef7d186ce9badf0786d9729a8b67547dcda6b"
+    },
+    {
+      "path": "workspace/graphics/translate_final_v39_cumulative/indexed/myst00_tex_back_ko.png",
+      "bytes": 1027,
+      "sha256": "5773fa6e6d1b5cf6b3f24bb84417a5382066429d925b872dac895743cea4486f"
+    },
+    {
+      "path": "workspace/graphics/translate_final_v39_cumulative/indexed/myst03_tex_restart_ko.png",
+      "bytes": 1018,
+      "sha256": "ec80be5bf750860945698e004bfbef74ed04aa15f383e6f60f142c514b9bb694"
+    },
+    {
+      "path": "workspace/graphics/translate_final_v39_cumulative/indexed/opening_1948.png",
+      "bytes": 1825,
+      "sha256": "85156928304a5a8ea06ba61190f688c7253293ed8b4fb63ed7d57d3a05991aca"
+    },
+    {
+      "path": "workspace/graphics/translate_final_v39_cumulative/indexed/opening_1994.png",
+      "bytes": 1701,
+      "sha256": "ef6fe6eb7b26c954ffae2222a60c7d1cfa39faa6c716e65dac243a36fbc3a567"
+    },
+    {
+      "path": "workspace/graphics/translate_final_v39_cumulative/indexed/opening_2005.png",
+      "bytes": 1818,
+      "sha256": "0bfc60c258ff7b5a29b010129cf8c7d60e847f3d1afbe36181cce8451dfb8980"
+    },
+    {
+      "path": "workspace/graphics/translate_final_v39_cumulative/indexed/opening_ah.png",
+      "bytes": 1193,
+      "sha256": "a28c2157c4105b9d643915fc6a99caf6bd13596a0ec655a1c66d712fdc3c4453"
+    },
+    {
+      "path": "workspace/graphics/translate_final_v39_cumulative/indexed/opening_completed.png",
+      "bytes": 1384,
+      "sha256": "db3113d811df2238034ccf45e7ce3a2b41298e39656db4b762bf1da1db7b459a"
+    },
+    {
+      "path": "workspace/graphics/translate_final_v39_cumulative/indexed/opening_father.png",
+      "bytes": 1198,
+      "sha256": "b7d760b7e5e0054424bad9abcfb2139f48934fcfcdf49466a31eb9ba935ce643"
+    },
+    {
+      "path": "workspace/graphics/translate_final_v39_cumulative/indexed/opening_finally.png",
+      "bytes": 1208,
+      "sha256": "60b716de28d19a4c2c95bba794ff9d99df7ed6d3af7a57c8e12dd3c1ce7c7efe"
+    },
+    {
+      "path": "workspace/graphics/translate_final_v39_cumulative/indexed/opening_hide.png",
+      "bytes": 1520,
+      "sha256": "b2dd9f6b6bb2eef21235dd506f57366148663cd103345b34f1433b8a1c64bee0"
+    },
+    {
+      "path": "workspace/graphics/translate_final_v39_cumulative/indexed/opening_mama.png",
+      "bytes": 1181,
+      "sha256": "1815da61cd502c45d1a5d28f1e8d6b343ee670667d8846227a9c5dc4b8e2d013"
+    },
+    {
+      "path": "workspace/graphics/translate_final_v39_cumulative/indexed/opening_richard.png",
+      "bytes": 1458,
+      "sha256": "16e76ada68fa15f80b8920307484ddc6d694c6b6a231b03764d41c928bd3020c"
+    },
+    {
+      "path": "workspace/graphics/translate_final_v39_cumulative/indexed/opening_title_logo_a.png",
+      "bytes": 1834,
+      "sha256": "1a4a491007684b89916107489910aab4a8478f3eacf333e91ac6f2be882286a4"
+    },
+    {
+      "path": "workspace/graphics/translate_final_v39_cumulative/indexed/opening_title_logo_b.png",
+      "bytes": 1834,
+      "sha256": "1a4a491007684b89916107489910aab4a8478f3eacf333e91ac6f2be882286a4"
+    },
+    {
+      "path": "workspace/graphics/translate_final_v39_cumulative/indexed/opening_why.png",
+      "bytes": 1434,
+      "sha256": "d3deffb4455731cc83785c08a8290eb262329439bcb77d4360b3fc62ce00f5f8"
+    },
+    {
+      "path": "workspace/graphics/translate_final_v39_cumulative/indexed/pda_back_bg.png",
+      "bytes": 1141,
+      "sha256": "2efeecb7a9e3714cc93e2c4c3348e96a1133fe89898c47cae9a5d1359930246b"
+    },
+    {
+      "path": "workspace/graphics/translate_final_v39_cumulative/indexed/pda_inventory_actions.png",
+      "bytes": 1146,
+      "sha256": "8e78606563ddef845b2e5f01d44daa7454ca3541eb1aaa81d81afa73e3fb1998"
+    },
+    {
+      "path": "workspace/graphics/translate_final_v39_cumulative/indexed/pda_mark.png",
+      "bytes": 1285,
+      "sha256": "5f6b2a6623336b8b0668e9c7766a60bae0312c7fa834e20b1e2cfd6aeea1d2d6"
+    },
+    {
+      "path": "workspace/graphics/translate_final_v39_cumulative/indexed/pda_photo_up.png",
+      "bytes": 1046,
+      "sha256": "787df203a90a570e0a5202f1d703708c0b7701650cee6bc4a1cb35c2882bea55"
+    },
+    {
+      "path": "workspace/graphics/translate_final_v39_cumulative/indexed/system_back.png",
+      "bytes": 1022,
+      "sha256": "8c9b50278f800066bc4607dafa5c63ed9ac0137e3d3f51afd3fadbbd5356968e"
+    },
+    {
+      "path": "workspace/graphics/translate_final_v39_cumulative/indexed/system_examine_disabled.png",
+      "bytes": 960,
+      "sha256": "33da70c1efb8357b8959437834fcca2380e0c36f486f8fa47a555f4a0280939c"
+    },
+    {
+      "path": "workspace/graphics/translate_final_v39_cumulative/indexed/system_examine_normal.png",
+      "bytes": 1027,
+      "sha256": "2ec105f348f05227848064237e10197a101e4fcaff2fed21fed364dc9e40a58f"
+    },
+    {
+      "path": "workspace/graphics/translate_final_v39_cumulative/indexed/system_inventory.png",
+      "bytes": 1022,
+      "sha256": "2c87337df3f24fabe7106b3f92c310b67dccfbfb0288e200fb65d80dbc0cfaed"
+    },
+    {
+      "path": "workspace/graphics/translate_final_v39_cumulative/indexed/system_no.png",
+      "bytes": 1032,
+      "sha256": "4556ba79e60da803811638a94eaf3ea2434b5a632d70e8b91eaec75feda268fd"
+    },
+    {
+      "path": "workspace/graphics/translate_final_v39_cumulative/indexed/system_talk.png",
+      "bytes": 995,
+      "sha256": "e4caa5eaecc513e5a501e9656519622f98dee3918805dd5a5b25a353de8bc548"
+    },
+    {
+      "path": "workspace/graphics/translate_final_v39_cumulative/indexed/system_yes.png",
+      "bytes": 1027,
+      "sha256": "2f1e4efe7919ff79feb3e9bc1b40e042b06f1ae98276903dbe8e5511ddcc5d51"
+    },
+    {
+      "path": "workspace/graphics/translate_final_v39_cumulative/indexed/title_logo.png",
+      "bytes": 1834,
+      "sha256": "1a4a491007684b89916107489910aab4a8478f3eacf333e91ac6f2be882286a4"
+    },
+    {
+      "path": "workspace/graphics/translate_final_v39_cumulative/indexed/title_menu.png",
+      "bytes": 2306,
+      "sha256": "1530b2cfe0e873b3fa96cb4b3b327fc56a635f0c93fa153ec1f298ae47177a69"
+    },
+    {
+      "path": "workspace/graphics/translate_final_v39_cumulative/indexed/title_touch.png",
+      "bytes": 1765,
+      "sha256": "4ba0a8cbb71fe751e817e6e8000a9088d64dc637f03e223d832973b82855c5c2"
+    }
+  ]
+}
