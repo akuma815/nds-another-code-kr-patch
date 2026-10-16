@@ -1,49 +1,9 @@
 <!doctype html>
-<html lang="ko">
-<head>
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <meta name="theme-color" content="#251e1b">
-  <meta name="description" content="그때 그 방의 추억을, 우리말로 다시. 친구들과 돌려 하던 레트로 게임의 한글 패치와 타이틀 화면을 만나보세요.">
-  <meta property="og:title" content="AKUMA815 — 한글 패치 아카이브">
-  <meta property="og:description" content="과자 한 봉지, 엉킨 패드 선, 그리고 한 판만 더. 그때 그 게임을 한글로 다시 켜는 작은 게임방.">
-  <meta property="og:type" content="website">
-  <title>AKUMA815 — 한글 패치 아카이브</title>
-  <link rel="icon" href="assets/favicon.svg" type="image/svg+xml">
-  <link rel="stylesheet" href="assets/style.css">
-  <link rel="stylesheet" href="assets/cozy.css">
-  <script src="data/catalog.js" defer></script>
-  <script src="assets/app.js" defer></script>
-</head>
-<body>
-  <a class="skip" href="#catalog">패치 목록으로 바로 가기</a>
-  <header class="header wrap">
-    <a class="brand" href="./" aria-label="AKUMA815 한글 패치 아카이브 홈"><span class="brand-icon" aria-hidden="true">ㅎ</span><span>AKUMA<span class="brand-number">815</span><small>우리들의 작은 게임방</small></span></a>
-    <nav aria-label="주 메뉴"><a href="#catalog">패치 목록</a><a href="#guide">적용 안내</a><a class="github-link" href="https://github.com/akuma815" target="_blank" rel="noopener noreferrer">GitHub <span aria-hidden="true">↗</span></a></nav>
-  </header>
-  <main>
-    <section class="hero wrap" aria-labelledby="hero-title">
-      <div class="hero-copy"><p class="eyebrow"><span class="live-dot"></span> 불 끄지 마. 한 판만 더.</p><h1 id="hero-title">그때 그 방의 추억을,<br><span>우리말로 다시.</span></h1><p class="hero-description">과자 한 봉지, 엉킨 패드 선, TV 앞에 옹기종기.<br>친구들과 돌려 하던 그 게임을 기억하나요?<br>어릴 적 다 읽지 못했던 이야기까지, 이제 한글로 만나보세요.</p><a class="hero-button" href="#catalog">추억의 게임 꺼내 보기 <span aria-hidden="true">↓</span></a><p class="hero-small">SAVE THE MEMORY. PRESS START AGAIN.</p></div>
-      <div class="memory-room" aria-label="친구와 게임하던 방을 떠올리는 장식 일러스트와 한글 타이틀 캡처"><div class="room-window" aria-hidden="true"><span>✦</span></div><div class="room-poster" aria-hidden="true">PLAYER<br><b>1 + 2</b><small>한 판만 더!</small></div><div class="room-lamp" aria-hidden="true"></div><div class="crt"><div class="crt-top" aria-hidden="true">OUR LITTLE GAME ROOM</div><div class="crt-screen"><img src="assets/screenshots/nes-tiny-toon-adventures-kr-patch.png" width="256" height="240" alt="타이니 툰 어드벤처스 한글 타이틀 실제 게임 캡처"><span class="scanlines" aria-hidden="true"></span></div><div class="crt-bottom" aria-hidden="true"><span><i></i> POWER</span><span class="crt-speaker">▥ ▥ ▥</span><span class="tv-button"></span></div></div><div class="room-table" aria-hidden="true"></div><div class="game-console" aria-hidden="true"><div class="console-slot"></div><span>8-BIT MEMORIES <i></i></span></div><svg class="controllers" viewBox="0 0 490 140" fill="none" aria-hidden="true"><path d="M206 5C200 47 84-5 96 60M283 5C298 48 392-9 385 60" stroke="#191616" stroke-width="5"/><g transform="translate(22 50) rotate(-9 80 36)"><rect width="157" height="68" rx="16" fill="#c0b49d" stroke="#211c18" stroke-width="4"/><rect x="11" y="12" width="135" height="45" rx="7" fill="#514b42"/><path d="M35 19h13v10h11v13H48v10H35V42H24V29h11z" fill="#221e1b"/><circle cx="116" cy="35" r="9" fill="#b35d42"/><circle cx="137" cy="29" r="9" fill="#b35d42"/><rect x="74" y="38" width="12" height="5" rx="2" fill="#c0b49d"/><rect x="91" y="38" width="12" height="5" rx="2" fill="#c0b49d"/></g><g transform="translate(305 57) rotate(11 80 36)"><rect width="157" height="68" rx="16" fill="#c0b49d" stroke="#211c18" stroke-width="4"/><rect x="11" y="12" width="135" height="45" rx="7" fill="#514b42"/><path d="M35 19h13v10h11v13H48v10H35V42H24V29h11z" fill="#221e1b"/><circle cx="116" cy="35" r="9" fill="#76865e"/><circle cx="137" cy="29" r="9" fill="#76865e"/><rect x="74" y="38" width="12" height="5" rx="2" fill="#c0b49d"/><rect x="91" y="38" width="12" height="5" rx="2" fill="#c0b49d"/></g></svg><p class="room-caption">“야, 다음 판은 네 차례야.”</p></div>
-      <div class="hero-meta"><span>혼자 만든 패치로, 함께했던 추억을.</span><span>1P의 기억을 2P와 나누는 곳 · AKUMA815</span></div>
-    </section>
-    <section class="catalog-section" id="catalog" aria-labelledby="catalog-title">
-      <div class="wrap">
-        <div class="section-heading"><div><p class="eyebrow">꺼내 볼까, 그때 그 게임?</p><h2 id="catalog-title">추억이 꽂힌 게임장<span class="total-count" id="total-count"></span></h2></div><p class="catalog-summary" id="catalog-summary">목록을 불러오는 중입니다.</p></div>
-        <div class="tools"><label class="search"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" aria-hidden="true"><circle cx="10.5" cy="10.5" r="6.5"/><path d="m16 16 5 5"/></svg><span class="sr-only">게임명 또는 플랫폼 검색</span><input id="search" type="search" placeholder="어떤 게임을 찾으시나요?" autocomplete="off"></label><label class="available-toggle"><input id="available-only" type="checkbox"><span>다운로드 가능한 패치만</span></label><label class="sort"><span class="sr-only">정렬 방식</span><select id="sort"><option value="available">배포 중인 패치 먼저</option><option value="title">이름순</option><option value="platform">플랫폼순</option></select></label></div>
-        <div class="filters" id="filters" role="group" aria-label="플랫폼 필터"></div>
-        <div class="result-line"><p id="result-count" role="status" aria-live="polite"></p><button id="reset" class="text-button" type="button" hidden>필터 초기화 ↺</button></div>
-        <div class="game-grid" id="games"></div>
-        <div class="empty-state" id="empty" hidden><span aria-hidden="true">⌕</span><h3>일치하는 게임이 없습니다.</h3><p>검색어를 바꾸거나 플랫폼 필터를 초기화해 보세요.</p><button class="secondary-button" id="empty-reset" type="button">전체 패치 보기</button></div>
-        <p class="catalog-note"><span class="status-dot pending"></span> ‘등록 준비’는 공개 저장소 또는 배포 파일의 등록을 기다리는 항목입니다. 번역 진행률이나 검수 완료를 뜻하지 않습니다.</p>
-        <p class="screenshot-note">화면은 작업 당시의 캡처로, 현재 배포본과 일부 다를 수 있습니다. 한글 타이틀을 우선 표시하며, 그래픽 작업 이미지·영상 자막은 별도로 표기합니다.</p>
-        <noscript><p>검색과 목록 표시를 위해 JavaScript를 켜 주세요. <a href="https://github.com/akuma815?tab=repositories">GitHub에서 공개된 한글 패치 저장소를 확인할 수도 있습니다.</a></p></noscript>
-      </div>
-    </section>
-    <section class="guide wrap" id="guide" aria-labelledby="guide-title"><div class="guide-intro"><p class="eyebrow">다시, 전원을 켜기 전에</p><h2 id="guide-title">추억을 불러오는 법.</h2><p>팩을 꽂던 손길 대신,<br>이번에는 한글 패치를 준비해 주세요.</p></div><ol class="guide-steps"><li><span>01</span><div><h3>지원 원본을 확인하세요.</h3><p>게임 저장소에서 지역·리비전·체크섬을 확인하고, 직접 마련한 원본을 별도로 보관하세요.</p></div></li><li><span>02</span><div><h3>최종 배포본을 받으세요.</h3><p>‘패치 받기’에서 GitHub 릴리즈의 첨부 파일을 내려받으세요. Source code 압축파일과 패치 배포본은 서로 다릅니다.</p></div></li><li><span>03</span><div><h3>게임별 적용 안내를 따르세요.</h3><p>xdelta·IPS·모드 설치 등 각 README의 방법을 따르세요. 알려진 제약과 세이브 호환 여부도 함께 확인하세요.</p></div></li></ol></section>
-    <section class="notice wrap"><span class="notice-mark" aria-hidden="true">i</span><p>이곳은 비공식 팬 번역 패치를 모은 개인 아카이브입니다. 원본 ROM·ISO·BIOS 및 패치 적용이 끝난 게임 파일은 제공하지 않습니다. 게임과 관련 상표의 권리는 각 권리자에게 있습니다.</p></section>
-  </main>
-  <footer class="footer wrap"><a class="footer-brand" href="./">AKUMA815 <span>한글 패치 아카이브</span></a><p id="updated-at"></p><a href="https://github.com/akuma815" target="_blank" rel="noopener noreferrer">GitHub ↗</a></footer>
-  <dialog id="details" aria-labelledby="dialog-title"><div class="dialog-head"><p class="eyebrow" id="dialog-platform"></p><button id="close-dialog" aria-label="상세 정보 닫기" type="button">✕</button></div><h2 id="dialog-title"></h2><figure id="dialog-media" class="dialog-media" hidden></figure><p class="dialog-about" id="dialog-about"></p><div class="dialog-version" id="dialog-version"></div><h3>확인해 주세요</h3><ul id="dialog-notes"></ul><div class="dialog-actions" id="dialog-actions"></div></dialog>
-</body>
-</html>
+<html lang="ko"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>한글 패치 아카이브 — 새 주소 안내</title>
+<link rel="canonical" href="https://akuma815.github.io/">
+<meta http-equiv="refresh" content="0; url=https://akuma815.github.io/">
+<style>body{background:#241b15;color:#f7ead5;font:18px/1.7 system-ui,sans-serif;max-width:640px;margin:12vh auto;padding:24px}a{color:#f3bd73}</style></head>
+<body><h1>한글 패치 아카이브가 이사했습니다.</h1><p>그때 그 방의 추억을, 우리말로 다시.</p>
+<p><a href="https://akuma815.github.io/">새 주소에서 한글 패치 목록 보기 →</a></p>
+<script>location.replace("https://akuma815.github.io/"+location.search+location.hash);</script></body></html>
